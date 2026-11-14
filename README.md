@@ -1,3 +1,5 @@
 # Verl kompakt
 
-Unabhängiges Informationsangebot für Verl mit Nachrichten, Veranstaltungen, Abfallkalender, SC Verl und Stadtgeschichte.
+Nachrichten, Veranstaltungen, Abfallkalender, SC Verl und Stadtgeschichte. Unabhängiges privates Informationsangebot für Verl.
+
+Offizielle Termine und Sportdaten werden stündlich aus den angegebenen Quellen aktualisiert. Eigene redaktionelle Zusammenfassungen stehen in articles.json; digest.json dokumentiert den letzten redaktionellen Abruf.

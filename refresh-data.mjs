@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import {collect,URLS} from './sources.mjs';
+const file=new URL('./live.json',import.meta.url);
+const old=JSON.parse(fs.readFileSync(file));
+const fresh=await collect();
+delete fresh.material;
+const statuses=fresh.statuses.map(s=>{const previous=old.statuses?.find(x=>x.id===s.id);return s.status==='error'?{...s,label:previous?.label||s.label,checkedAt:previous?.checkedAt}:s;});
+const merged={...old,...fresh,statuses,urls:URLS};
+fs.writeFileSync(file,JSON.stringify(merged));
+console.log(JSON.stringify({statuses:statuses.map(s=>({source:s.id,status:s.status,checkedAt:s.checkedAt})),events:merged.events?.length,table:merged.sports?.standings?.length}));
+if(statuses.every(s=>s.status==='error'))throw new Error('Alle Quellenabrufe fehlgeschlagen; letzte bestätigte Daten wurden erhalten.');
