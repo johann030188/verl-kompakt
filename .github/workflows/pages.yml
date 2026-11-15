@@ -4,6 +4,7 @@ on:
     branches: [main]
   schedule:
     - cron: '20 * * * *'
+    - cron: '2-57/5 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -23,15 +24,18 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Bestätigte Busabfahrten prüfen
+        run: node refresh-departures.mjs
       - name: Öffentliche Quellen prüfen
+        if: github.event_name != 'schedule' || github.event.schedule == '20 * * * *'
         run: node refresh-data.mjs
       - name: Bestätigte Daten speichern
         run: |
           git config user.name 'Verl kompakt'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add live.json
+          git add live.json departures.json
           if ! git diff --cached --quiet; then
-            git commit -m 'Aktualisierte Verler Termine und Sportdaten'
+            git commit -m 'Aktualisierte Verler Quellen und Busabfahrten'
             git pull --rebase origin main
             git push
           fi
