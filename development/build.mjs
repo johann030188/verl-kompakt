@@ -5,11 +5,12 @@ import {build} from 'vite';
 import react from '@vitejs/plugin-react';
 const source=path.dirname(fileURLToPath(import.meta.url)),root=path.dirname(source),temp=path.join(source,'.build'),out=path.join(temp,'dist');
 fs.mkdirSync(temp,{recursive:true});
-for(const name of ['Dashboard.tsx','Pools.tsx','pool-state.mjs','main.tsx','style.css','index.html']){
+for(const name of ['Dashboard.tsx','Pools.tsx','pool-state.mjs','CitySearch.tsx','city-search.mjs','main.tsx','style.css','index.html']){
  let content=fs.readFileSync(path.join(source,name),'utf8');
  if(name==='Dashboard.tsx')content=content.replaceAll("BASE+'data/'","BASE");
  fs.writeFileSync(path.join(temp,name),content);
 }
+fs.copyFileSync(path.join(source,'city-search.mjs'),path.join(root,'city-search.mjs'));
 const read=name=>JSON.parse(fs.readFileSync(path.join(root,name+'.json'),'utf8'));
 const initial={...read('live'),articles:read('articles'),lastDigestAt:read('digest').checkedAt};
 fs.writeFileSync(path.join(temp,'initial.json'),JSON.stringify(initial));
@@ -18,3 +19,4 @@ for(const name of fs.readdirSync(path.join(out,'assets')))fs.copyFileSync(path.j
 const html=fs.readFileSync(path.join(out,'index.html'),'utf8').replaceAll('/verl-kompakt/assets/','/verl-kompakt/');
 fs.writeFileSync(path.join(root,'index.html'),html);
 console.log('Web-App im Repository aktualisiert; bestehende Inhalte und PWA-Adresse erhalten.');
+
