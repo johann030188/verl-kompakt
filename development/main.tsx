@@ -1,0 +1,1 @@
+import React from 'react';import {createRoot} from 'react-dom/client';import Dashboard from './Dashboard';import initial from './initial.json';import './style.css';createRoot(document.getElementById('root')!).render(<Dashboard initial={initial}/>);
