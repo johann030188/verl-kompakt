@@ -29,11 +29,31 @@ jobs:
       - name: Öffentliche Quellen prüfen
         if: github.event_name != 'schedule' || github.event.schedule == '20 * * * *'
         run: node refresh-data.mjs
+      - name: Neue russische Übersetzungen erkennen
+        id: russian
+        run: python3 translate-russian.py --check
+      - uses: actions/setup-python@v5
+        if: steps.russian.outputs.needed == 'true'
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements-translation.txt
+      - uses: actions/cache@v4
+        if: steps.russian.outputs.needed == 'true'
+        with:
+          path: ~/.cache/verl-translation-models
+          key: verl-argos-de-en-ru-v1-becc2b-591d74
+      - name: Lokale Übersetzung vorbereiten
+        if: steps.russian.outputs.needed == 'true'
+        run: python -m pip install -r requirements-translation.txt
+      - name: Neue Inhalte auf Russisch übersetzen
+        if: steps.russian.outputs.needed == 'true'
+        run: python translate-russian.py
       - name: Bestätigte Daten speichern
         run: |
           git config user.name 'Verl kompakt'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add live.json departures.json
+          git add live.json departures.json russian.json
           if ! git diff --cached --quiet; then
             git commit -m 'Aktualisierte Verler Quellen und Busabfahrten'
             git pull --rebase origin main

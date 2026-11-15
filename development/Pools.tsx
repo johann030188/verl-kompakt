@@ -1,9 +1,10 @@
+import {appLocale} from './language.mjs';
 import React,{useEffect,useState} from 'react';
 import {ArrowUpRight,CalendarDays,Clock,Info,MapPin,ShieldCheck,Ticket,Waves} from 'lucide-react';
 import {berlinNow,publicHours,nextSessions,DAYS} from './pool-state.mjs';
 
-const date=(s:string)=>new Date(s+'T12:00:00Z').toLocaleDateString('de-DE',{weekday:'short',day:'2-digit',month:'2-digit',year:'numeric',timeZone:'Europe/Berlin'});
-const checked=(s:string)=>s?new Date(s).toLocaleString('de-DE',{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Berlin'})+' Uhr':'noch nicht bestätigt';
+const date=(s:string)=>new Date(s+'T12:00:00Z').toLocaleDateString(appLocale(),{weekday:'short',day:'2-digit',month:'2-digit',year:'numeric',timeZone:'Europe/Berlin'});
+const checked=(s:string)=>s?new Date(s).toLocaleString(appLocale(),{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Berlin'})+' Uhr':'noch nicht bestätigt';
 const ranges=(rs:any[])=>rs?.length?rs.map(([a,b])=>a+'–'+b+' Uhr').join(' · '):'Kein öffentliches Schwimmen';
 const link=(url:string,label:string,primary=false)=><a className={primary?'primary-button':'outline-button'} href={url} target="_blank" rel="noreferrer">{label}<ArrowUpRight size={17}/></a>;
 

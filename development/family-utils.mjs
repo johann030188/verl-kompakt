@@ -1,3 +1,4 @@
+import {matchesSearch,displayText,appLocale} from './language.mjs';
 export const FAMILY_DAYS=['Montag','Dienstag','Mittwoch','Donnerstag','Freitag','Samstag','Sonntag'];
 export function fitsAge(offer,age){
  if(!Number.isFinite(age)||age<7||/Vorschul|Kindergarten|Krabbel|Baby|Eltern.?Kind/i.test(offer.title||''))return false;
@@ -17,7 +18,7 @@ export function filterOffers(offers,{age1=7,age2=10,ageMode='either',provider='A
  (ageMode==='first'?fitsAge(o,age1):ageMode==='second'?fitsAge(o,age2):ageMode==='both'?fitsAge(o,age1)&&fitsAge(o,age2):fitsAge(o,age1)||fitsAge(o,age2))&&
  (provider==='Alle'||o.provider===provider)&&(category==='Alle'||o.category===category)&&(weekday==='Alle'||o.weekday===weekday||o.weekly?.some(w=>w.weekday===weekday))&&
  (availability==='Alle'||availability==='new'&&(o.kind==='regular-sport'||o.startDate&&o.startDate>=today)&&!['waitlist','full','canceled'].includes(o.bookingStatus))&&
- (gender==='all'||o.gender!==(gender==='girls'?'boys':'girls'))&&(!q||(o.title+' '+(o.category||'')+' '+(o.ageLabel||'')).toLocaleLowerCase('de').includes(q))
+ (gender==='all'||o.gender!==(gender==='girls'?'boys':'girls'))&&(!q||matchesSearch(query,o.title+' '+(o.category||'')+' '+(o.ageLabel||'')))
  ).sort((a,b)=>{const ongoingA=a.startDate&&a.startDate<today,ongoingB=b.startDate&&b.startDate<today;return Number(ongoingA)-Number(ongoingB)||(a.startDate||'9999').localeCompare(b.startDate||'9999')||a.title.localeCompare(b.title,'de')});
 }
 export function familyCalendar(data,today){
@@ -27,7 +28,7 @@ export function familyCalendar(data,today){
  return dates.filter(d=>(d.endDate||d.date)>=today).sort((a,b)=>(a.date+(a.time||'')).localeCompare(b.date+(b.time||'')));
 }
 export function downloadFamilyCalendar(items){
- const escape=s=>String(s||'').replace(/\\/g,'\\\\').replace(/\n/g,'\\n').replace(/,/g,'\\,').replace(/;/g,'\\;');const lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Verl kompakt//Familienkalender//DE','CALSCALE:GREGORIAN','X-WR-CALNAME:Verl Familienkalender'];
- for(const e of items){const next=new Date((e.endDate||e.date)+'T12:00:00Z');next.setUTCDate(next.getUTCDate()+1);lines.push('BEGIN:VEVENT','UID:'+escape(e.id)+'@verl-kompakt','DTSTAMP:'+new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d+Z/,'Z'),'DTSTART;VALUE=DATE:'+e.date.replaceAll('-',''),'DTEND;VALUE=DATE:'+next.toISOString().slice(0,10).replaceAll('-',''),'SUMMARY:'+escape(e.title),'DESCRIPTION:'+escape([e.time?'Uhrzeit: '+e.time:'',e.note,'Quelle: '+e.sourceURL].filter(Boolean).join('\n')),'URL:'+e.sourceURL,'END:VEVENT');}
+ const escape=s=>String(s||'').replace(/\\/g,'\\\\').replace(/\n/g,'\\n').replace(/,/g,'\\,').replace(/;/g,'\\;');const lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Verl kompakt//Familienkalender//DE','CALSCALE:GREGORIAN','X-WR-CALNAME:'+(appLocale()==='ru-RU'?'Семейный календарь Верля':'Verl Familienkalender')];
+ for(const e of items){const next=new Date((e.endDate||e.date)+'T12:00:00Z');next.setUTCDate(next.getUTCDate()+1);lines.push('BEGIN:VEVENT','UID:'+escape(e.id)+'@verl-kompakt','DTSTAMP:'+new Date().toISOString().replace(/[-:]/g,'').replace(/\.\d+Z/,'Z'),'DTSTART;VALUE=DATE:'+e.date.replaceAll('-',''),'DTEND;VALUE=DATE:'+next.toISOString().slice(0,10).replaceAll('-',''),'SUMMARY:'+escape(displayText(e.title)),'DESCRIPTION:'+escape([e.time?(appLocale()==='ru-RU'?'Время: ':'Uhrzeit: ')+e.time:'',displayText(e.note),(appLocale()==='ru-RU'?'Источник: ':'Quelle: ')+e.sourceURL].filter(Boolean).join('\n')),'URL:'+e.sourceURL,'END:VEVENT');}
  lines.push('END:VCALENDAR');const a=document.createElement('a'),u=URL.createObjectURL(new Blob([lines.join('\r\n')+'\r\n'],{type:'text/calendar;charset=utf-8'}));a.href=u;a.download='Verl-Familienkalender.ics';a.click();setTimeout(()=>URL.revokeObjectURL(u),30000);
 }

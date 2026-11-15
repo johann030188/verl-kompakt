@@ -1,7 +1,8 @@
+import {appLocale} from './language.mjs';
 import React,{useEffect,useState} from 'react';
 import {ArrowUpRight,BusFront,Clock,Info,MapPin,RefreshCw,ShieldCheck} from 'lucide-react';
-const time=(s:string)=>new Date(s).toLocaleTimeString('de-DE',{hour:'2-digit',minute:'2-digit',timeZone:'Europe/Berlin'});
-const stamp=(s:string)=>s?new Date(s).toLocaleString('de-DE',{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Berlin'}):'nicht bestätigt';
+const time=(s:string)=>new Date(s).toLocaleTimeString(appLocale(),{hour:'2-digit',minute:'2-digit',timeZone:'Europe/Berlin'});
+const stamp=(s:string)=>s?new Date(s).toLocaleString(appLocale(),{day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Berlin'}):'nicht bestätigt';
 export default function Mobility({data,initialDepartures}:any){
  const [departures,setDepartures]=useState(initialDepartures),[busy,setBusy]=useState(false),[loadError,setLoadError]=useState(false);
  async function loadDepartures(){setBusy(true);try{const url=new URL('departures.json',location.href);url.searchParams.set('t',String(Date.now()));const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw Error('Abfahrtsstand nicht erreichbar');const d:any=await r.json();if(!Array.isArray(d.stations))throw Error('Ungültiger Abfahrtsstand');setDepartures(d);setLoadError(false)}catch{setLoadError(true)}finally{setBusy(false)}}

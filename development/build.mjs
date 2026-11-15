@@ -5,8 +5,8 @@ import {build} from 'vite';
 import react from '@vitejs/plugin-react';
 const source=path.dirname(fileURLToPath(import.meta.url)),root=path.dirname(source),temp=path.join(source,'.build'),out=path.join(temp,'dist');
 fs.mkdirSync(temp,{recursive:true});
-for(const name of ['Dashboard.tsx','Pools.tsx','pool-state.mjs','CitySearch.tsx','city-search.mjs','Favorites.tsx','Family.tsx','family-utils.mjs','Mobility.tsx','Police.tsx','expansion.css','main.tsx','style.css','index.html']){
- let content=fs.readFileSync(path.join(source,name),'utf8');
+for(const name of ['Dashboard.tsx','Pools.tsx','pool-state.mjs','CitySearch.tsx','city-search.mjs','Favorites.tsx','Family.tsx','family-utils.mjs','Mobility.tsx','Police.tsx','expansion.css','LanguageTools.tsx','language.mjs','language.css','ui-ru.json','main.tsx','style.css','index.html']){
+ let content=fs.readFileSync(path.join(name==='ui-ru.json'?root:source,name),'utf8');
  if(name==='Dashboard.tsx')content=content.replaceAll("BASE+'data/'","BASE");
  fs.writeFileSync(path.join(temp,name),content);
 }
