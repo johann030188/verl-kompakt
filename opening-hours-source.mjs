@@ -16,6 +16,7 @@ export const OPENING_SOURCES=[
 ];
 export const GARDEN_SPECIAL_URL='https://www.verl.de/aktuelles/gartenabfallannahme-zusaetzliche-zeiten-und-kostenlose-laubabgabe.html';
 export const ACCESS_URL='https://www.verl.de/aktuelles/uebersicht-ueber-aktuelle-baustellen-im-stadtgebiet.html';
+export const LIBRARY_NOTICE_URL='https://www.bibliothek.verl.de/de/aktuelles/meldungen/vormittags_keine_open-library_2026-11-25.php';
 
 export function timeRanges(value=''){
  const out=[];
@@ -132,6 +133,13 @@ export function parseGardenAccess(html){
  if(!/Gartenabfallannahme bleibt[\s\S]*gewohnten An- und Abfahrtswege erreichbar/.test(part)||!/Öffnungszeiten[\s\S]*Vollsperrung jeweils aufgehoben/.test(part))throw Error('Aktuelle Zufahrtsregel nicht bestätigt');
  return {notes:['Während der Marienstraßenarbeiten bleibt die Gartenabfallannahme laut Stadt zu den Öffnungszeiten über die gewohnten An- und Abfahrtswege erreichbar. Die Vollsperrung wird dafür jeweils aufgehoben.']};
 }
+export function parseLibraryNotice(html,openLibraryWeek){
+ const root=dom(html),text=txt(root),title=all(root,n=>n.tag==='h1').map(txt).join(' ');
+ if(!/Schulveranstaltung.*Open Library.*25\. November.*12:30/i.test(title)||!/05\. November 2026/.test(text)||!/Mittwoch,?\s*25\.\s*Nov(?:ember|emer).*12:30/.test(text))throw Error('Datierter Bibliothekshinweis nicht eindeutig bestätigt');
+ const regular=openLibraryWeek?.[2];
+ if(!Array.isArray(regular)||regular.length!==1||regular[0][0]!=='08:00'||regular[0][1]!=='20:00')throw Error('Mittwochs-Endzeit für die Open Library nicht bestätigt');
+ return {openLibrarySpecialHours:[{date:'2026-11-25',ranges:[['12:30','20:00']]}],notes:['Am 25. November 2026 öffnet die Open Library wegen einer Schulveranstaltung erst um 12:30 Uhr. Der reguläre Mittwochsplan endet um 20:00 Uhr.']};
+}
 
 export async function refreshOpeningHours(previous={},fetchText=getText){
  const oldItems=previous.items||[];
@@ -154,9 +162,21 @@ export async function refreshOpeningHours(previous={},fetchText=getText){
     if(special?.specialHours)item.specialHours=special.specialHours;
     // Notes from extra sources retain their own source timestamps and status.
    }
+   if(parser==='library'){
+    const oldExtra=old?.extraSources?.find(x=>x.kind==='openLibrarySpecialHours'&&x.sourceURL===LIBRARY_NOTICE_URL);
+    try{
+     const extra=parseLibraryNotice(await fetchText(LIBRARY_NOTICE_URL),item.openLibraryWeek),at=new Date().toISOString();
+     item.extraSources=[{kind:'openLibrarySpecialHours',sourceURL:LIBRARY_NOTICE_URL,...extra,checkedAt:at,status:'ok',attemptedAt:at}];
+     item.openLibrarySpecialHours=extra.openLibrarySpecialHours;
+    }catch(e){
+     item.extraSources=[{...oldExtra,kind:'openLibrarySpecialHours',sourceURL:LIBRARY_NOTICE_URL,status:'error',error:String(e.message),attemptedAt:new Date().toISOString(),checkedAt:oldExtra?.checkedAt||null}];
+     if(oldExtra?.openLibrarySpecialHours)item.openLibrarySpecialHours=oldExtra.openLibrarySpecialHours;
+    }
+   }
    return item;
   }catch(e){return {...(old||{...identity,week:blankWeek(),specialHours:[],notes:[]}),status:'error',error:String(e.message),checkedAt:old?.checkedAt||null,attemptedAt:new Date().toISOString()};}
  }));
  const success=items.filter(x=>x.status==='ok').map(x=>x.checkedAt).sort();
  return {items,checkedAt:success.at(-1)||previous.checkedAt||null,attemptedAt:new Date().toISOString()};
 }
+

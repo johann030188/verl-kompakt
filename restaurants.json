@@ -1,0 +1,479 @@
+{
+  "items": [
+    {
+      "id": "boettes-holzsteinofen",
+      "title": "Böttes Holzsteinofen",
+      "category": "Pizzeria",
+      "cuisine": "Italienisch · Pizza und Salate",
+      "address": "Sender Straße 2, 33415 Verl",
+      "sourceURL": "https://www.xn--bttes-jua.de/",
+      "menuURL": "https://www.xn--bttes-jua.de/menus",
+      "bookingURL": "https://www.xn--bttes-jua.de/reservierungsanfrage",
+      "week": [
+        [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ]
+      ],
+      "delivery": {
+        "available": null,
+        "note": "Ein Lieferdienst ist auf der geprüften Restaurantseite nicht bestätigt.",
+        "sourceURL": "https://www.xn--bttes-jua.de/",
+        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "minOrderEUR": null,
+        "feeEUR": null,
+        "area": null
+      },
+      "pickup": {
+        "available": true,
+        "note": "Abholung ist im offiziellen städtischen Gastronomieverzeichnis aufgeführt.",
+        "sourceURL": "https://www.verl.de/wirtschaft-arbeit/branchenverzeichnis/boettes-holzsteinofen.html",
+        "checkedAt": "2026-11-17T08:12:06.646Z"
+      },
+      "notes": [
+        "Die aktuelle Restaurantwebsite nennt täglich 18:00–22:00 Uhr. Der städtische Eintrag enthält für Sonntag eine abweichende Anfangszeit.",
+        "Eine Reservierungsanfrage wird erst nach Bestätigung des Restaurants verbindlich."
+      ],
+      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "status": "ok"
+    },
+    {
+      "id": "grill-athen-verl",
+      "title": "Grill Athen",
+      "category": "Restaurant",
+      "cuisine": "Griechisch · Grillgerichte",
+      "address": "Wilhelmstraße 12, 33415 Verl",
+      "sourceURL": "https://grillathen-verl.com/",
+      "menuURL": "https://grillathen-verl.com/#sec-988f",
+      "week": [
+        null,
+        [
+          [
+            "12:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "23:00"
+          ]
+        ],
+        [
+          [
+            "17:00",
+            "22:00"
+          ]
+        ]
+      ],
+      "delivery": {
+        "available": false,
+        "note": "Das Restaurant schließt einen Lieferdienst auf seiner Website ausdrücklich aus.",
+        "sourceURL": "https://grillathen-verl.com/",
+        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "minOrderEUR": null,
+        "feeEUR": null,
+        "area": null
+      },
+      "pickup": {
+        "available": true,
+        "note": "Telefonische Vorbestellung mit Abholung wird angeboten.",
+        "sourceURL": "https://grillathen-verl.com/",
+        "checkedAt": "2026-11-17T08:12:06.646Z"
+      },
+      "notes": [
+        "Die Restaurantwebsite nennt für Feiertage 17:00–22:00 Uhr.",
+        "Für Montag fehlt auf der aktuellen Restaurantwebsite eine eindeutige Zeitangabe.",
+        "Die Restaurantwebsite und das städtische Verzeichnis nennen unterschiedliche Zeiten. Hier stehen die Angaben der Restaurantwebsite."
+      ],
+      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "status": "ok"
+    },
+    {
+      "id": "evims-verl",
+      "title": "Evim’s",
+      "category": "Restaurant",
+      "cuisine": "Türkisch · Döner und Grillgerichte",
+      "address": "Hauptstraße 27, 33415 Verl",
+      "sourceURL": "https://www.evimsrestaurant.de/",
+      "menuURL": "https://www.evimsrestaurant.de/speisekarte",
+      "week": [
+        [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        [],
+        [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      ],
+      "delivery": {
+        "available": null,
+        "note": "Ein Lieferdienst ist auf den geprüften offiziellen Seiten nicht eindeutig bestätigt.",
+        "sourceURL": "https://www.evimsrestaurant.de/",
+        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "minOrderEUR": null,
+        "feeEUR": null,
+        "area": null
+      },
+      "pickup": {
+        "available": null,
+        "note": "Abholung ist auf den geprüften offiziellen Seiten nicht eindeutig bestätigt.",
+        "sourceURL": "https://www.evimsrestaurant.de/",
+        "checkedAt": "2026-11-17T08:12:06.646Z"
+      },
+      "notes": [
+        "Maßgeblich ist hier der Wochenplan der Startseite. Die Speisekartenseite enthält davon abweichende allgemeine Öffnungsangaben.",
+        "Separate Küchen- oder Lieferzeiten sind nicht bestätigt."
+      ],
+      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "status": "ok"
+    },
+    {
+      "id": "pizzeria-bellini-verl",
+      "title": "Pizzeria Bellini",
+      "category": "Pizzeria",
+      "cuisine": "Pizza · Pasta · Grillgerichte",
+      "address": "Bergstraße 22, 33415 Verl",
+      "sourceURL": "https://bellinipizzeria.de/contact",
+      "menuURL": "https://bellinipizzeria.de/?scroll-to-menu=true",
+      "week": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "deliveryWeek": [
+        [],
+        [
+          [
+            "16:15",
+            "21:15"
+          ]
+        ],
+        [
+          [
+            "16:15",
+            "21:15"
+          ]
+        ],
+        [
+          [
+            "16:15",
+            "21:15"
+          ]
+        ],
+        [
+          [
+            "16:15",
+            "21:15"
+          ]
+        ],
+        [
+          [
+            "16:15",
+            "21:15"
+          ]
+        ],
+        [
+          [
+            "16:15",
+            "21:15"
+          ]
+        ]
+      ],
+      "pickupWeek": [
+        [],
+        [
+          [
+            "16:15",
+            "21:15"
+          ]
+        ],
+        [
+          [
+            "16:15",
+            "21:15"
+          ]
+        ],
+        [
+          [
+            "16:15",
+            "21:15"
+          ]
+        ],
+        [
+          [
+            "16:15",
+            "21:15"
+          ]
+        ],
+        [
+          [
+            "16:15",
+            "21:15"
+          ]
+        ],
+        [
+          [
+            "16:15",
+            "20:50"
+          ]
+        ]
+      ],
+      "delivery": {
+        "available": true,
+        "note": "Lieferung wird angeboten. Liefergebiet, Mindestbestellwert und Gebühren sind ohne konkrete Bestelladresse nicht bestätigt.",
+        "sourceURL": "https://bellinipizzeria.de/contact",
+        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "minOrderEUR": null,
+        "feeEUR": null,
+        "area": null
+      },
+      "pickup": {
+        "available": true,
+        "note": "Abholung wird mit eigenen Bestellzeiten angeboten. Sonntags endet die Abholung um 20:50 Uhr.",
+        "sourceURL": "https://bellinipizzeria.de/contact",
+        "checkedAt": "2026-11-17T08:12:06.646Z"
+      },
+      "notes": [
+        "Die bestätigten Zeiten betreffen Lieferung und Abholung. Eine davon getrennte Restaurantöffnungszeit ist nicht veröffentlicht.",
+        "Die auf der Bestellseite sichtbare Rabattaktion mit Ende 31.08.2026 ist abgelaufen und wird hier nicht als gültiges Angebot übernommen."
+      ],
+      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "status": "ok"
+    },
+    {
+      "id": "kampwirth-verl",
+      "title": "Hotel & Restaurant Kampwirth",
+      "category": "Restaurant",
+      "cuisine": "Deutsch · saisonale Küche",
+      "address": "Hauptstraße 10, 33415 Verl",
+      "sourceURL": "https://kampwirth.de/",
+      "menuURL": "https://kampwirth.de/speisenkarte/",
+      "bookingURL": "https://kampwirth.de/",
+      "week": [
+        [],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "delivery": {
+        "available": null,
+        "note": "Ein Lieferdienst ist auf den geprüften offiziellen Seiten nicht bestätigt.",
+        "sourceURL": "https://kampwirth.de/",
+        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "minOrderEUR": null,
+        "feeEUR": null,
+        "area": null
+      },
+      "pickup": {
+        "available": null,
+        "note": "Ein regelmäßiges Abholangebot ist auf den geprüften offiziellen Seiten nicht bestätigt.",
+        "sourceURL": "https://kampwirth.de/",
+        "checkedAt": "2026-11-17T08:12:06.646Z"
+      },
+      "notes": [
+        "Die Startseite nennt Restaurantbetrieb von Mittwoch bis Sonntag ab 17:00 Uhr sowie Montag und Dienstag als Ruhetage. Eine Schlusszeit ist nicht angegeben.",
+        "Auf der Speisekartenseite steht zusätzlich eine abweichende Angabe ab Dienstag. Den Dienstagsbetrieb deshalb vor dem Besuch direkt prüfen.",
+        "Reservierungsanfragen sind erst nach Bestätigung verbindlich. Für denselben Tag bittet das Restaurant um telefonische Reservierung."
+      ],
+      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "status": "ok"
+    },
+    {
+      "id": "kochwerk-verl",
+      "title": "Kochwerk",
+      "category": "Restaurant",
+      "cuisine": "Moderne saisonale Küche",
+      "address": "Hauptstraße 35, 33415 Verl",
+      "sourceURL": "https://kochwerk-verl.de/",
+      "menuURL": "https://kochwerk-verl.de/wp-content/uploads/2026/10/SPEISEKARTE-OKTOBER-26.pdf",
+      "bookingURL": "https://kochwerk-verl.de/",
+      "week": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "delivery": {
+        "available": null,
+        "note": "Regelmäßige Essenslieferung ist nicht bestätigt. Das separat genannte Catering ist kein bestätigter Restaurant-Lieferdienst.",
+        "sourceURL": "https://kochwerk-verl.de/",
+        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "minOrderEUR": null,
+        "feeEUR": null,
+        "area": null
+      },
+      "pickup": {
+        "available": null,
+        "note": "Ein regelmäßiges Abholangebot ist auf der geprüften Restaurantseite nicht bestätigt.",
+        "sourceURL": "https://kochwerk-verl.de/",
+        "checkedAt": "2026-11-17T08:12:06.646Z"
+      },
+      "notes": [
+        "Veröffentlicht ist Restaurantbetrieb von Dienstag bis Samstag ab 18:00 Uhr. Eine Schlusszeit wird nicht genannt.",
+        "Die Website verlinkt derzeit die Speisekarte mit der Bezeichnung Oktober 2026. Preise und aktuelle Gerichte vor der Bestellung im Original prüfen.",
+        "Veranstaltungen und Catering außerhalb der regulären Zeiten sind nur nach Vereinbarung angekündigt."
+      ],
+      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "status": "ok"
+    },
+    {
+      "id": "fordkorts-kaunitz",
+      "title": "Fordkort’s bei Egon",
+      "category": "Restaurant",
+      "cuisine": "Deutsch · saisonale Küche",
+      "address": "Holter Straße 29, 33415 Verl-Kaunitz",
+      "sourceURL": "https://fordkort.de/",
+      "menuURL": "https://fordkort.de/#speisen",
+      "week": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        []
+      ],
+      "delivery": {
+        "available": null,
+        "note": "Ein Lieferdienst ist auf der geprüften Restaurantwebsite nicht bestätigt.",
+        "sourceURL": "https://fordkort.de/",
+        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "minOrderEUR": null,
+        "feeEUR": null,
+        "area": null
+      },
+      "pickup": {
+        "available": null,
+        "note": "Ein regelmäßiges Abholangebot ist auf der geprüften Restaurantwebsite nicht bestätigt.",
+        "sourceURL": "https://fordkort.de/",
+        "checkedAt": "2026-11-17T08:12:06.646Z"
+      },
+      "notes": [
+        "Das Restaurant liegt im Verler Ortsteil Kaunitz.",
+        "Regulär Mittwoch bis Samstag ab 17:00 Uhr; eine Schlusszeit ist nicht veröffentlicht. Sonntag wird als freier Tag genannt.",
+        "Die Website zeigt eine Auswahl von Gerichten; eine vollständige verbindliche Tageskarte ist damit nicht bestätigt.",
+        "Reservierungen werden laut Website ausschließlich telefonisch angenommen."
+      ],
+      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "status": "ok"
+    }
+  ],
+  "checkedAt": "2026-11-17T08:12:06.646Z"
+}
