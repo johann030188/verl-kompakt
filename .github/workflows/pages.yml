@@ -29,6 +29,9 @@ jobs:
       - name: Öffentliche Quellen prüfen
         if: github.event_name != 'schedule' || github.event.schedule == '20 * * * *'
         run: node refresh-data.mjs
+      - name: Offizielle Öffnungszeiten prüfen
+        if: github.event_name != 'schedule' || github.event.schedule == '20 * * * *'
+        run: node refresh-opening-hours.mjs
       - name: Neue russische Übersetzungen erkennen
         id: russian
         run: python3 translate-russian.py --check
@@ -53,7 +56,7 @@ jobs:
         run: |
           git config user.name 'Verl kompakt'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
-          git add live.json departures.json russian.json
+          git add live.json departures.json russian.json opening-hours.json
           if ! git diff --cached --quiet; then
             git commit -m 'Aktualisierte Verler Quellen und Busabfahrten'
             git pull --rebase origin main
@@ -66,3 +69,4 @@ jobs:
       - name: Veröffentlichen
         id: deployment
         uses: actions/deploy-pages@v4
+

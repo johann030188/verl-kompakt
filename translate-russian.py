@@ -9,7 +9,7 @@ MODELS = [
     ('translate-de_en-1_3', 'becc2b0011f8249fcb89be9ecb75ba0d876b1fab93c28ee6ff0420936897d637'),
     ('translate-en_ru-1_9', '591d743ae103752b88ffc38785c50421320f4eff93c8967e0d3d2e14d4e27811'),
 ]
-TEXT_KEYS = {'title','summary','paragraphs','imageCaption','category','credit','label','day','weekday','note','notice','bookingNotice','membershipInfo','seasonLabel','programLabel','scheduleNotice','ageLabel','feeLabel','period','description','sport','name','location','source','type'}
+TEXT_KEYS = {'title','summary','paragraphs','imageCaption','category','credit','label','day','weekday','note','notice','bookingNotice','membershipInfo','seasonLabel','programLabel','scheduleNotice','ageLabel','feeLabel','period','description','sport','name','location','source','type','notes','audience','assessment','caution'}
 SKIP_KEYS = {'streets','stops','urls','team','home','away','teamURL','address','stationName','direction','provider','place','organizer'}
 NAMES = {'Verl kompakt','Stadt Verl','TV Verl','SC Verl','Sportclub Verl','Droste-Haus','Radio Gütersloh','Schulministerium NRW','Polizei Gütersloh / Presseportal'}
 def clean(s): return re.sub(r'\s+', ' ', str(s)).strip()
@@ -79,7 +79,7 @@ def main():
     ap=argparse.ArgumentParser();ap.add_argument('--root',default='.');ap.add_argument('--check',action='store_true');ap.add_argument('--model-dir',default=os.environ.get('VERL_TRANSLATION_MODELS',str(pathlib.Path.home()/'.cache/verl-translation-models')));a=ap.parse_args();root=pathlib.Path(a.root)
     reviewed=load(root/'ui-ru.json',{});old=load(root/'russian.json',{}); translations=dict(old.get('translations',{}));translations.update(reviewed)
     wanted=set();
-    for file in ['live.json','articles.json','droste-program.json']:
+    for file in ['live.json','articles.json','droste-program.json','opening-hours.json','event-tips.json']:
         value=load(root/file,{});collect(value,wanted)
     wanted.update(clean(s) for s in load(root/'translation-ui-strings.json',[]) if clean(s) and not re.search(r'Johann|hotmail|Diana|Lina',s,re.I))
     missing=sorted(s for s in wanted if s not in translations)
@@ -130,3 +130,4 @@ def main():
     print(json.dumps({'entries':len(translations),'missing':len(errors),'target':str(target)},ensure_ascii=False))
     if errors:raise RuntimeError('Some Russian translations could not be generated')
 if __name__=='__main__':main()
+

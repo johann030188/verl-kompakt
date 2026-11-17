@@ -1,0 +1,610 @@
+{
+  "items": [
+    {
+      "id": "aldi-verl-westfalenweg",
+      "title": "ALDI Nord",
+      "address": "Westfalenweg 8, 33415 Verl",
+      "category": "Einkaufen",
+      "sourceURL": "https://www.aldi-nord.de/filialen-und-oeffnungszeiten/verl/westfalenweg-8/3181758.html",
+      "week": [
+        [
+          [
+            "07:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "21:00"
+          ]
+        ],
+        []
+      ],
+      "specialHours": [
+        {
+          "date": "2026-12-25",
+          "ranges": []
+        },
+        {
+          "date": "2026-12-26",
+          "ranges": []
+        },
+        {
+          "date": "2027-01-01",
+          "ranges": []
+        },
+        {
+          "date": "2027-03-26",
+          "ranges": []
+        },
+        {
+          "date": "2027-03-29",
+          "ranges": []
+        },
+        {
+          "date": "2027-05-01",
+          "ranges": []
+        },
+        {
+          "date": "2027-05-06",
+          "ranges": []
+        }
+      ],
+      "notes": [
+        "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
+      ],
+      "checkedAt": "2026-11-17T07:22:25.581Z",
+      "status": "ok",
+      "attemptedAt": "2026-11-17T07:22:25.581Z"
+    },
+    {
+      "id": "lidl-verl-westring",
+      "title": "Lidl",
+      "address": "Westring 11, 33415 Verl",
+      "category": "Einkaufen",
+      "sourceURL": "https://www.lidl.de/s/de-DE/filialen/verl/westring-11/",
+      "week": [
+        [
+          [
+            "07:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "21:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "21:00"
+          ]
+        ],
+        null
+      ],
+      "specialHours": [],
+      "notes": [
+        "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
+      ],
+      "checkedAt": "2026-11-17T07:22:26.582Z",
+      "status": "ok",
+      "attemptedAt": "2026-11-17T07:22:26.582Z"
+    },
+    {
+      "id": "sb-luening-verl",
+      "title": "sb LÜNING",
+      "address": "Österwieher Str. 16, 33415 Verl",
+      "category": "Einkaufen",
+      "sourceURL": "https://www.sb-luening.de/standorte/verl",
+      "week": [
+        [
+          [
+            "08:30",
+            "19:30"
+          ]
+        ],
+        [
+          [
+            "08:30",
+            "19:30"
+          ]
+        ],
+        [
+          [
+            "08:30",
+            "19:30"
+          ]
+        ],
+        [
+          [
+            "08:30",
+            "19:30"
+          ]
+        ],
+        [
+          [
+            "08:30",
+            "19:30"
+          ]
+        ],
+        [
+          [
+            "08:30",
+            "19:00"
+          ]
+        ],
+        null
+      ],
+      "specialHours": [],
+      "notes": [
+        "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
+      ],
+      "checkedAt": "2026-11-17T07:22:23.961Z",
+      "status": "ok",
+      "attemptedAt": "2026-11-17T07:22:23.961Z"
+    },
+    {
+      "id": "rossmann-verl-westfalenweg",
+      "title": "ROSSMANN",
+      "address": "Westfalenweg 16, 33415 Verl",
+      "category": "Einkaufen",
+      "sourceURL": "https://www.rossmann.de/de/filialen/nordrhein-westfalen/verl/westfalenweg-16.html",
+      "week": [
+        [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        []
+      ],
+      "specialHours": [],
+      "notes": [
+        "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
+      ],
+      "checkedAt": "2026-11-17T07:22:22.971Z",
+      "status": "ok",
+      "attemptedAt": "2026-11-17T07:22:22.971Z"
+    },
+    {
+      "id": "edeka-niederschulte-verl",
+      "title": "EDEKA Niederschulte",
+      "address": "Oesterwieher Straße 20, 33415 Verl",
+      "category": "Einkaufen",
+      "sourceURL": "https://www.edeka.de/maerkte/071796/",
+      "week": [
+        [
+          [
+            "07:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "07:00",
+            "20:00"
+          ]
+        ],
+        []
+      ],
+      "specialHours": [
+        {
+          "date": "2027-01-01",
+          "ranges": []
+        },
+        {
+          "date": "2027-03-26",
+          "ranges": []
+        },
+        {
+          "date": "2027-03-29",
+          "ranges": []
+        },
+        {
+          "date": "2027-05-01",
+          "ranges": []
+        },
+        {
+          "date": "2027-05-06",
+          "ranges": []
+        },
+        {
+          "date": "2027-05-17",
+          "ranges": []
+        },
+        {
+          "date": "2027-05-27",
+          "ranges": []
+        },
+        {
+          "date": "2027-10-03",
+          "ranges": []
+        },
+        {
+          "date": "2027-11-01",
+          "ranges": []
+        },
+        {
+          "date": "2026-12-25",
+          "ranges": []
+        },
+        {
+          "date": "2026-12-26",
+          "ranges": []
+        }
+      ],
+      "notes": [
+        "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
+      ],
+      "checkedAt": "2026-11-17T07:22:25.789Z",
+      "status": "ok",
+      "attemptedAt": "2026-11-17T07:22:25.789Z"
+    },
+    {
+      "id": "wertstoffhof-verl",
+      "title": "Wertstoffhof Verl",
+      "address": "Ewersweg 5, Verl",
+      "category": "Entsorgung",
+      "sourceURL": "https://www.verl.de/service/abfallentsorgung/haeufige-fragen-zur-abfallentsorgung.html",
+      "week": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          [
+            "08:00",
+            "13:00"
+          ]
+        ],
+        null
+      ],
+      "specialHours": [],
+      "notes": [
+        "Für Abfälle aus Verler Privathaushalten. Gültigen Personalausweis mitbringen. An gesetzlichen Feiertagen geschlossen. Annahmearten und mögliche Gebühren bitte im Original prüfen."
+      ],
+      "checkedAt": "2026-11-17T07:22:24.782Z",
+      "status": "ok",
+      "attemptedAt": "2026-11-17T07:22:24.782Z"
+    },
+    {
+      "id": "gartenabfallannahme-marienstrasse",
+      "title": "Gartenabfallannahme Marienstraße",
+      "address": "Marienstraße, Kaunitz",
+      "category": "Entsorgung",
+      "sourceURL": "https://www.verl.de/service/abfallentsorgung/gartenabfaelle.html",
+      "week": [
+        null,
+        null,
+        null,
+        null,
+        [
+          [
+            "14:00",
+            "19:00"
+          ]
+        ],
+        null,
+        null
+      ],
+      "specialHours": [
+        {
+          "date": "2026-10-12",
+          "ranges": [
+            [
+              "14:00",
+              "19:00"
+            ]
+          ]
+        },
+        {
+          "date": "2026-10-26",
+          "ranges": [
+            [
+              "14:00",
+              "19:00"
+            ]
+          ]
+        },
+        {
+          "date": "2026-11-09",
+          "ranges": [
+            [
+              "14:00",
+              "19:00"
+            ]
+          ]
+        },
+        {
+          "date": "2026-11-23",
+          "ranges": [
+            [
+              "14:00",
+              "19:00"
+            ]
+          ]
+        }
+      ],
+      "notes": [
+        "Annahme für Verler Bürgerinnen und Bürger; gültigen Personalausweis mitbringen. Andere Gartenabfälle sind nicht pauschal kostenlos."
+      ],
+      "checkedAt": "2026-11-17T07:22:24.799Z",
+      "status": "ok",
+      "attemptedAt": "2026-11-17T07:22:24.799Z",
+      "extraSources": [
+        {
+          "kind": "specialHours",
+          "sourceURL": "https://www.verl.de/aktuelles/gartenabfallannahme-zusaetzliche-zeiten-und-kostenlose-laubabgabe.html",
+          "specialHours": [
+            {
+              "date": "2026-10-12",
+              "ranges": [
+                [
+                  "14:00",
+                  "19:00"
+                ]
+              ]
+            },
+            {
+              "date": "2026-10-26",
+              "ranges": [
+                [
+                  "14:00",
+                  "19:00"
+                ]
+              ]
+            },
+            {
+              "date": "2026-11-09",
+              "ranges": [
+                [
+                  "14:00",
+                  "19:00"
+                ]
+              ]
+            },
+            {
+              "date": "2026-11-23",
+              "ranges": [
+                [
+                  "14:00",
+                  "19:00"
+                ]
+              ]
+            }
+          ],
+          "notes": [
+            "Kostenlose Laubabgabe im Oktober und November 2026."
+          ],
+          "checkedAt": "2026-11-17T07:22:25.055Z",
+          "status": "ok",
+          "attemptedAt": "2026-11-17T07:22:25.055Z"
+        },
+        {
+          "kind": "access",
+          "sourceURL": "https://www.verl.de/aktuelles/uebersicht-ueber-aktuelle-baustellen-im-stadtgebiet.html",
+          "notes": [
+            "Während der Marienstraßenarbeiten bleibt die Gartenabfallannahme laut Stadt zu den Öffnungszeiten über die gewohnten An- und Abfahrtswege erreichbar. Die Vollsperrung wird dafür jeweils aufgehoben."
+          ],
+          "checkedAt": "2026-11-17T07:22:25.300Z",
+          "status": "ok",
+          "attemptedAt": "2026-11-17T07:22:25.300Z"
+        }
+      ]
+    },
+    {
+      "id": "bibliothek-verl",
+      "title": "Bibliothek Verl",
+      "address": "Hauptstraße 15, 33415 Verl",
+      "category": "Bibliothek",
+      "sourceURL": "https://www.bibliothek.verl.de/de/ueber-uns/oeffnungszeiten.php",
+      "week": [
+        [
+          [
+            "11:00",
+            "18:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "18:00"
+          ]
+        ],
+        null,
+        [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ],
+        [
+          [
+            "11:00",
+            "18:00"
+          ]
+        ],
+        [
+          [
+            "10:00",
+            "14:00"
+          ]
+        ],
+        null
+      ],
+      "openLibraryWeek": [
+        [
+          [
+            "08:00",
+            "11:00"
+          ],
+          [
+            "18:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "08:00",
+            "11:00"
+          ],
+          [
+            "18:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "08:00",
+            "10:00"
+          ],
+          [
+            "19:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "08:00",
+            "11:00"
+          ],
+          [
+            "18:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "08:00",
+            "10:00"
+          ],
+          [
+            "14:00",
+            "20:00"
+          ]
+        ],
+        [
+          [
+            "08:00",
+            "20:00"
+          ]
+        ]
+      ],
+      "specialHours": [],
+      "notes": [
+        "Open Library: Zugang ohne Personal nur mit freigeschaltetem Open-Library-Ausweis für Erwachsene. Die Zustimmung zu den Nutzungsbedingungen ist erforderlich."
+      ],
+      "checkedAt": "2026-11-17T07:22:25.076Z",
+      "status": "ok",
+      "attemptedAt": "2026-11-17T07:22:25.076Z"
+    }
+  ],
+  "checkedAt": "2026-11-17T07:22:26.582Z",
+  "attemptedAt": "2026-11-17T07:22:26.582Z"
+}
