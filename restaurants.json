@@ -57,7 +57,7 @@
         "available": null,
         "note": "Ein Lieferdienst ist auf der geprüften Restaurantseite nicht bestätigt.",
         "sourceURL": "https://www.xn--bttes-jua.de/",
-        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "checkedAt": "2026-11-18T06:50:18.764Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -66,13 +66,13 @@
         "available": true,
         "note": "Abholung ist im offiziellen städtischen Gastronomieverzeichnis aufgeführt.",
         "sourceURL": "https://www.verl.de/wirtschaft-arbeit/branchenverzeichnis/boettes-holzsteinofen.html",
-        "checkedAt": "2026-11-17T08:12:06.646Z"
+        "checkedAt": "2026-11-18T06:50:18.764Z"
       },
       "notes": [
         "Die aktuelle Restaurantwebsite nennt täglich 18:00–22:00 Uhr. Der städtische Eintrag enthält für Sonntag eine abweichende Anfangszeit.",
         "Eine Reservierungsanfrage wird erst nach Bestätigung des Restaurants verbindlich."
       ],
-      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "checkedAt": "2026-11-18T06:50:18.764Z",
       "status": "ok"
     },
     {
@@ -146,7 +146,7 @@
         "available": false,
         "note": "Das Restaurant schließt einen Lieferdienst auf seiner Website ausdrücklich aus.",
         "sourceURL": "https://grillathen-verl.com/",
-        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "checkedAt": "2026-11-18T06:50:18.764Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -155,14 +155,14 @@
         "available": true,
         "note": "Telefonische Vorbestellung mit Abholung wird angeboten.",
         "sourceURL": "https://grillathen-verl.com/",
-        "checkedAt": "2026-11-17T08:12:06.646Z"
+        "checkedAt": "2026-11-18T06:50:18.764Z"
       },
       "notes": [
         "Die Restaurantwebsite nennt für Feiertage 17:00–22:00 Uhr.",
         "Für Montag fehlt auf der aktuellen Restaurantwebsite eine eindeutige Zeitangabe.",
         "Die Restaurantwebsite und das städtische Verzeichnis nennen unterschiedliche Zeiten. Hier stehen die Angaben der Restaurantwebsite."
       ],
-      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "checkedAt": "2026-11-18T06:50:18.764Z",
       "status": "ok"
     },
     {
@@ -216,7 +216,7 @@
         "available": null,
         "note": "Ein Lieferdienst ist auf den geprüften offiziellen Seiten nicht eindeutig bestätigt.",
         "sourceURL": "https://www.evimsrestaurant.de/",
-        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "checkedAt": "2026-11-18T06:50:18.764Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -225,13 +225,13 @@
         "available": null,
         "note": "Abholung ist auf den geprüften offiziellen Seiten nicht eindeutig bestätigt.",
         "sourceURL": "https://www.evimsrestaurant.de/",
-        "checkedAt": "2026-11-17T08:12:06.646Z"
+        "checkedAt": "2026-11-18T06:50:18.764Z"
       },
       "notes": [
         "Maßgeblich ist hier der Wochenplan der Startseite. Die Speisekartenseite enthält davon abweichende allgemeine Öffnungsangaben.",
         "Separate Küchen- oder Lieferzeiten sind nicht bestätigt."
       ],
-      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "checkedAt": "2026-11-18T06:50:18.764Z",
       "status": "ok"
     },
     {
@@ -333,7 +333,7 @@
         "available": true,
         "note": "Lieferung wird angeboten. Liefergebiet, Mindestbestellwert und Gebühren sind ohne konkrete Bestelladresse nicht bestätigt.",
         "sourceURL": "https://bellinipizzeria.de/contact",
-        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "checkedAt": "2026-11-18T06:50:18.764Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -342,13 +342,13 @@
         "available": true,
         "note": "Abholung wird mit eigenen Bestellzeiten angeboten. Sonntags endet die Abholung um 20:50 Uhr.",
         "sourceURL": "https://bellinipizzeria.de/contact",
-        "checkedAt": "2026-11-17T08:12:06.646Z"
+        "checkedAt": "2026-11-18T06:50:18.764Z"
       },
       "notes": [
         "Die bestätigten Zeiten betreffen Lieferung und Abholung. Eine davon getrennte Restaurantöffnungszeit ist nicht veröffentlicht.",
         "Die auf der Bestellseite sichtbare Rabattaktion mit Ende 31.08.2026 ist abgelaufen und wird hier nicht als gültiges Angebot übernommen."
       ],
-      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "checkedAt": "2026-11-18T06:50:18.764Z",
       "status": "ok"
     },
     {
@@ -373,7 +373,7 @@
         "available": null,
         "note": "Ein Lieferdienst ist auf den geprüften offiziellen Seiten nicht bestätigt.",
         "sourceURL": "https://kampwirth.de/",
-        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "checkedAt": "2026-11-18T06:50:18.764Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -382,14 +382,14 @@
         "available": null,
         "note": "Ein regelmäßiges Abholangebot ist auf den geprüften offiziellen Seiten nicht bestätigt.",
         "sourceURL": "https://kampwirth.de/",
-        "checkedAt": "2026-11-17T08:12:06.646Z"
+        "checkedAt": "2026-11-18T06:50:18.764Z"
       },
       "notes": [
         "Die Startseite nennt Restaurantbetrieb von Mittwoch bis Sonntag ab 17:00 Uhr sowie Montag und Dienstag als Ruhetage. Eine Schlusszeit ist nicht angegeben.",
         "Auf der Speisekartenseite steht zusätzlich eine abweichende Angabe ab Dienstag. Den Dienstagsbetrieb deshalb vor dem Besuch direkt prüfen.",
         "Reservierungsanfragen sind erst nach Bestätigung verbindlich. Für denselben Tag bittet das Restaurant um telefonische Reservierung."
       ],
-      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "checkedAt": "2026-11-18T06:50:18.764Z",
       "status": "ok"
     },
     {
@@ -454,7 +454,7 @@
         "available": null,
         "note": "Ein Lieferdienst ist auf der geprüften Restaurantwebsite nicht bestätigt.",
         "sourceURL": "https://fordkort.de/",
-        "checkedAt": "2026-11-17T08:12:06.646Z",
+        "checkedAt": "2026-11-18T06:50:18.764Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -463,7 +463,7 @@
         "available": null,
         "note": "Ein regelmäßiges Abholangebot ist auf der geprüften Restaurantwebsite nicht bestätigt.",
         "sourceURL": "https://fordkort.de/",
-        "checkedAt": "2026-11-17T08:12:06.646Z"
+        "checkedAt": "2026-11-18T06:50:18.764Z"
       },
       "notes": [
         "Das Restaurant liegt im Verler Ortsteil Kaunitz.",
@@ -471,7 +471,7 @@
         "Die Website zeigt eine Auswahl von Gerichten; eine vollständige verbindliche Tageskarte ist damit nicht bestätigt.",
         "Reservierungen werden laut Website ausschließlich telefonisch angenommen."
       ],
-      "checkedAt": "2026-11-17T08:12:06.646Z",
+      "checkedAt": "2026-11-18T06:50:18.764Z",
       "status": "ok"
     }
   ],

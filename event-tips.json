@@ -1,8 +1,107 @@
 {
   "items": [
-    {"id":"verler-adventsmarkt-2026","title":"Verler Adventsmarkt","dates":[{"date":"2026-12-04","time":"16:00"},{"date":"2026-12-05","time":"16:00"},{"date":"2026-12-06","time":"14:00"}],"location":"Kirchplatz St. Anna Verl","description":"Verler Vereine gestalten den Adventsmarkt rund um die St.-Anna-Kirche mit Essen, Getränken und Geschenkideen. Die Erlöse unterstützen die teilnehmenden Vereine.","audience":"Für Familien und Erwachsene","assessment":"Lohnt sich für einen gemeinsamen Adventsbummel und zum Unterstützen örtlicher Vereine. Wer ein festes Kinderprogramm sucht, sollte vorher das aktuelle Programm prüfen.","caution":"Endzeiten, konkrete Kinderaktionen und Eintrittspreise werden in dieser Stadtankündigung nicht genannt.","sourceURL":"https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verler-adventsmarkt-04-12-2026.html","checkedAt":"2026-11-17T07:18:07Z","validUntil":"2026-12-06"},
-    {"id":"verl-singt-weihnachtslieder-2026","title":"Verl singt Weihnachtslieder","date":"2026-12-06","time":"17:30","location":"Sportclub Arena, Sender Straße 36, Verl","description":"Bei der ersten Ausgabe von „Verl singt“ werden in der Sportclub Arena gemeinsam Weihnachtslieder gesungen. Der SC Verl organisiert das Treffen mit der Bühlbuschschule, der Stadt und weiteren örtlichen Gruppen.","audience":"Für Familien, Freundeskreise und Vereinsgruppen","assessment":"Interessant für Familien, die gern gemeinsam singen oder Weihnachtsmusik hören. Gesangserfahrung ist laut Veranstaltungsbeschreibung nicht erforderlich.","caution":"Vorverkauf im offiziellen SC-Verl-Ticketshop. Preise und verbleibende Karten vor dem Besuch prüfen; die Quelle bestätigt keine aktuelle Restkartenverfügbarkeit.","sourceURL":"https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verl-singt-weihnachtslieder-in-der-sportclub-arena-06-12-2026.html","bookingURL":"https://www.sportclub-verl.de/ticketshop","checkedAt":"2026-11-17T07:18:07Z","validUntil":"2026-12-06"},
-    {"id":"hallenbad-wasserparcours-2026","title":"Wasserparcours im Hallenbad","dates":[{"date":"2026-11-21","time":"14:00","endTime":"17:00"},{"date":"2026-12-05","time":"14:00","endTime":"17:00"},{"date":"2026-12-19","time":"14:00","endTime":"17:00"}],"location":"Hallenbad Verl, Kühlmannplatz 1","description":"An bestätigten Samstagen steht Kindern im Hallenbad ein aufblasbarer Parcours zum Klettern, Balancieren und Rutschen zur Verfügung.","audience":"Für Kinder","assessment":"Ein passender Freizeittipp für Kinder mit Freude an Bewegung im Wasser. Für ruhiges Bahnenschwimmen ist dieser Zeitraum weniger geeignet.","caution":"Der Parcours beansprucht einen großen Teil des Schwimmerbeckens; reguläres Schwimmen ist eingeschränkt. Eine konkrete Altersuntergrenze oder Schwimmvoraussetzung nennt die Veranstaltungsmeldung nicht. Eintritt und Teilnahmebedingungen direkt beim Bad prüfen.","sourceURL":"https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/spielenachmittag-im-hallenbad-21-11-2026.html","additionalSourceURL":"https://www.verl.de/freizeit-kultur/sport/hallenbad.html","checkedAt":"2026-11-17T07:18:07Z","validUntil":"2026-12-19"},
-    {"id":"droste-ferien-anmeldestart-2027","title":"Droste-Haus: Buchungsstart für Ferienangebote 2027 angekündigt","date":"2026-12-01","time":null,"description":"Das Droste-Haus kündigt an, dass Angebote für die Oster- und Sommerferien 2027 ab dem 1. Dezember 2026 buchbar sein sollen.","audience":"Für Familien mit schulpflichtigen Kindern","assessment":"Frühzeitig vormerken, wenn Ferienbetreuung oder Workshops gesucht werden. Ob einzelne Angebote für 7 oder 10 Jahre passen, muss anhand der jeweils veröffentlichten Altersgruppe geprüft werden.","caution":"Keine Startuhrzeit oder aktuellen freien Plätze bestätigt. Die aktuelle Buchungsseite meldet eine gestörte Onlineanmeldung und nennt Anmeldung per Telefon oder E-Mail. Konkrete Kurstermine und Gebühren für 2027 daraus nicht ableiten.","sourceURL":"https://www.droste-haus.de/de/fuer-jugendliche/ferienangebote/index.php","bookingURL":"https://www.droste-haus.de/de/angebote-buchen/","checkedAt":"2026-11-17T07:18:07Z","validUntil":"2026-12-01"}
+    {
+      "id": "tim-proese-lesung-18-november-2026",
+      "title": "Heute: Kostenlose Lesung mit Tim Pröse",
+      "date": "2026-11-18",
+      "time": "19:00",
+      "location": "Gymnasium Verl, St.-Anna-Straße 22",
+      "description": "Am 18. November 2026 liest Tim Pröse um 19 Uhr im Multifunktionsraum des Gymnasiums Verl, St.-Anna-Straße 22. Die Veranstaltung des Verler Gesundheitsforums beschäftigt sich mit Lebenswegen nach schweren Krisen.",
+      "audience": "Für Menschen mit Interesse an persönlichen Lebensgeschichten",
+      "assessment": "Lohnt sich für einen ruhigen Abend mit nachdenklichen Geschichten. Wegen der belastenden Themen ist dies aus unserer Sicht kein typischer Ausflug für jüngere Kinder.",
+      "caution": "Der Eintritt ist frei; die Stadt bittet zur Planung um Anmeldung. Freie Plätze und ein bestimmter Einlasszeitpunkt sind nicht bestätigt.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/lesung-der-tag-der-mein-leben-veraenderte-18-11-2026.html",
+      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "validUntil": "2026-11-18"
+    },
+    {
+      "id": "verler-adventsmarkt-2026",
+      "title": "Verler Adventsmarkt",
+      "dates": [
+        {
+          "date": "2026-12-04",
+          "time": "16:00",
+          "endTime": "22:00"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "16:00",
+          "endTime": "22:00"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "14:00",
+          "endTime": "19:00"
+        }
+      ],
+      "location": "Kirchplatz St. Anna Verl",
+      "description": "Verler Vereine gestalten den Adventsmarkt rund um die St.-Anna-Kirche mit Essen, Getränken und Geschenkideen. Die Erlöse unterstützen die teilnehmenden Vereine.",
+      "audience": "Für Familien und Erwachsene",
+      "assessment": "Lohnt sich für einen gemeinsamen Adventsbummel und zum Unterstützen örtlicher Vereine. Wer ein festes Kinderprogramm sucht, sollte vorher das aktuelle Programm prüfen.",
+      "caution": "Konkrete Kinderaktionen und Eintrittspreise sind in der Stadtankündigung nicht ausgewiesen. Essen, Getränke und Waren werden an den Vereinsständen angeboten.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verler-adventsmarkt-04-12-2026.html",
+      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "validUntil": "2026-12-06"
+    },
+    {
+      "id": "verl-singt-weihnachtslieder-2026",
+      "title": "Verl singt Weihnachtslieder",
+      "date": "2026-12-06",
+      "time": "17:30",
+      "location": "Sportclub Arena, Sender Straße 36, Verl",
+      "description": "Bei der ersten Ausgabe von „Verl singt“ werden in der Sportclub Arena gemeinsam Weihnachtslieder gesungen. Der SC Verl organisiert das Treffen mit der Bühlbuschschule, der Stadt und weiteren örtlichen Gruppen.",
+      "audience": "Für Familien, Freundeskreise und Vereinsgruppen",
+      "assessment": "Interessant für Familien, die gern gemeinsam singen oder Weihnachtsmusik hören. Gesangserfahrung ist laut Veranstaltungsbeschreibung nicht erforderlich.",
+      "caution": "Vorverkauf im offiziellen SC-Verl-Ticketshop. Preise und verbleibende Karten vor dem Besuch prüfen; die Quelle bestätigt keine aktuelle Restkartenverfügbarkeit.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verl-singt-weihnachtslieder-in-der-sportclub-arena-06-12-2026.html",
+      "bookingURL": "https://www.sportclub-verl.de/ticketshop",
+      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "validUntil": "2026-12-06",
+      "endTime": "19:00"
+    },
+    {
+      "id": "hallenbad-wasserparcours-2026",
+      "title": "Wasserparcours im Hallenbad",
+      "dates": [
+        {
+          "date": "2026-11-21",
+          "time": "14:00",
+          "endTime": "17:00"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "14:00",
+          "endTime": "17:00"
+        },
+        {
+          "date": "2026-12-19",
+          "time": "14:00",
+          "endTime": "17:00"
+        }
+      ],
+      "location": "Hallenbad Verl, Kühlmannplatz 1",
+      "description": "An bestätigten Samstagen steht Kindern im Hallenbad ein aufblasbarer Parcours zum Klettern, Balancieren und Rutschen zur Verfügung.",
+      "audience": "Für Kinder",
+      "assessment": "Ein passender Freizeittipp für Kinder mit Freude an Bewegung im Wasser. Für ruhiges Bahnenschwimmen ist dieser Zeitraum weniger geeignet.",
+      "caution": "Die Stadt weist darauf hin, dass Kinder für den Parcours sicher schwimmen können sollten. Reguläres Schwimmen ist währenddessen eingeschränkt. Eine feste Altersuntergrenze oder gesonderte Teilnahmegebühr nennt die aktuelle Stadtmitteilung nicht.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/spielenachmittag-im-hallenbad-21-11-2026.html",
+      "additionalSourceURL": "https://www.verl.de/aktuelles/wasserparcours-laedt-zum-klettern-und-balancieren-ein.html",
+      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "validUntil": "2026-12-19"
+    },
+    {
+      "id": "droste-ferien-anmeldestart-2027",
+      "title": "Droste-Haus: Buchungsstart für Ferienangebote 2027 angekündigt",
+      "date": "2026-12-01",
+      "time": null,
+      "description": "Das Droste-Haus kündigt an, dass Angebote für die Oster- und Sommerferien 2027 ab dem 1. Dezember 2026 buchbar sein sollen.",
+      "audience": "Für Familien mit schulpflichtigen Kindern",
+      "assessment": "Frühzeitig vormerken, wenn Ferienbetreuung oder Workshops gesucht werden. Ob einzelne Angebote für 7 oder 10 Jahre passen, muss anhand der jeweils veröffentlichten Altersgruppe geprüft werden.",
+      "caution": "Keine Startuhrzeit oder aktuellen freien Plätze bestätigt. Die aktuelle Buchungsseite meldet eine gestörte Onlineanmeldung und nennt Anmeldung per Telefon oder E-Mail. Konkrete Kurstermine und Gebühren für 2027 daraus nicht ableiten.",
+      "sourceURL": "https://www.droste-haus.de/de/fuer-jugendliche/ferienangebote/index.php",
+      "bookingURL": "https://www.droste-haus.de/de/angebote-buchen/",
+      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "validUntil": "2026-12-01"
+    }
   ]
 }
