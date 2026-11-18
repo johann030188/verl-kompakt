@@ -1,0 +1,11 @@
+import {relevantToAudience} from './local-guide-utils.mjs';
+export function combinedEvents(data={}){
+ const rows=[...(data.events||[]),...(data.venueEvents?.items||[]),...(data.flyProgram?.events||[])].filter(e=>e&&e.date&&e.title&&relevantToAudience(e)),byKey=new Map();
+ for(const e of rows){const key=[e.date,e.title.trim().toLocaleLowerCase('de'),(e.location||'').trim().toLocaleLowerCase('de')].join('|');if(!byKey.has(key))byKey.set(key,e);}
+ return [...byKey.values()].sort((a,b)=>(a.date+(a.time||'23:59')).localeCompare(b.date+(b.time||'23:59'))||a.title.localeCompare(b.title,'de'));
+}
+export const EVENT_TOPICS=['Alle','FLY','Märkte & Feste','Familie','Oldtimer & Motor','Zirkus & Shows','Kultur','Sport'];
+export function matchesEventTopic(e,topic){const text=[e.title,e.category].join(' ');return topic==='Alle'||topic==='FLY'&&e.provider==='FLY'||topic==='Märkte & Feste'&&/markt|märkte|basar|fest|advent/i.test(text)||topic==='Oldtimer & Motor'&&/oldtimer|youngtimer|straßenkreuzer|motorrad|autotreff/i.test(text)||topic==='Zirkus & Shows'&&/zirkus|circus|show|variet[eé]|akrobat/i.test(text)||topic==='Familie'&&e.category==='Familie'||topic===e.category;}
+export function matchesEventPeriod(e,period,today){if(e.date<today)return false;if(period==='all')return true;if(period==='today')return e.date===today;const dow=(new Date(today+'T12:00:00Z').getUTCDay()+6)%7,last=new Date(today+'T12:00:00Z');last.setUTCDate(last.getUTCDate()+6-dow);const end=last.toISOString().slice(0,10);if(period==='week')return e.date<=end;const first=new Date(last);first.setUTCDate(first.getUTCDate()-2);return e.date>=first.toISOString().slice(0,10)&&e.date<=end;}
+export function matchesEventAge(e,age){if(!age)return true;return Number.isFinite(e.minAge)&&+age>=e.minAge&&(!Number.isFinite(e.maxAge)||+age<=e.maxAge);}
+export function mergePublishedEventSources(previous,feed){const next={...previous},statuses=[...(previous.statuses||[])];for(const key of ['flyProgram','venueEvents']){const s=feed.sourceStatuses?.find(s=>s.id===key),old=statuses.find(s=>s.id===key);if(!s||Date.parse(s.checkedAt||'')<Date.parse(old?.checkedAt||''))continue;if(s.status==='ok'&&feed[key])next[key]=feed[key];const i=statuses.findIndex(x=>x.id===key);if(i>=0)statuses[i]=s;else statuses.push(s);}next.statuses=statuses;return next;}

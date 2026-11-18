@@ -316,6 +316,40 @@
         "bibi",
         "blocksberg"
       ]
+    },
+    {
+      "id": "schuetzenhalle-flohmarkt-2026-12-06",
+      "eventMatch": [
+        "Flohmarkt an der Schützenhalle Verl",
+        "Flohmarkt in und an der Schützenhalle"
+      ],
+      "sourceURL": "https://www.marktcom.de/veranstaltung/verler-schuetzenhalle-drinnen-und-draussen-33415-verl?term_id=1172064",
+      "checkedAt": "2026-11-18T16:35:48.346Z",
+      "free": true,
+      "regular": {
+        "adultEUR": 0,
+        "childEUR": 0,
+        "childAgeMin": null,
+        "childAgeMax": null,
+        "familyEUR": null,
+        "familyAdults": null,
+        "familyChildren": null,
+        "note": "Bestätigt sind freier Eintritt und kostenloses Parken für Besucher. Verkaufsstände können kostenpflichtig sein."
+      },
+      "familyPass": {
+        "status": "not-applicable",
+        "adultEUR": null,
+        "childEUR": null,
+        "familyEUR": null,
+        "note": "Der Eintritt ist allgemein kostenlos. Ein zusätzlicher Familienpass-Tarif ist für diesen Besuch nicht erforderlich und nicht gesondert bestätigt.",
+        "sourceURL": "https://www.marktcom.de/veranstaltung/verler-schuetzenhalle-drinnen-und-draussen-33415-verl?term_id=1172064",
+        "checkedAt": "2026-11-18T16:35:48.346Z"
+      },
+      "bookingFeeEUR": null,
+      "bookingFeeStatus": "unknown",
+      "note": "Keine bestätigten Buchungsgebühren oder Platzverfügbarkeiten; Standgebühren nicht mit Besuchereintritt verwechseln.",
+      "validFrom": "2026-12-06",
+      "validUntil": "2026-12-06"
     }
   ],
   "familyPassInfo": {

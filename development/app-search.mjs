@@ -1,3 +1,4 @@
+import {combinedEvents} from './event-catalog.mjs';
 import {matchesSearch,citySearchTerm} from './language.mjs';
 import {relevantToAudience} from './local-guide-utils.mjs';
 const clean=s=>String(s||'').toLocaleLowerCase('de').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ß/g,'ss');
@@ -6,7 +7,7 @@ export function appSearchRecords(data={},today=''){
  for(const x of data.articles||[])add('Nachrichten','today',x,x.summary);
  for(const x of data.openingHours?.items||[])add('Öffnungszeiten','openings',x,x.address,'Öffnungszeiten geöffnet wann '+(x.category||'')+' '+(x.title.includes('Marienstraße')?'Abfallhof Müllhof Gartenabfälle Laub':'')+(x.title.includes('Wertstoffhof')?' Abfallhof Müllhof Recycling Sperrmüll':''));
  for(const x of data.restaurants?.items||[])add('Restaurants','restaurants',x,[x.cuisine,x.address].join(' · '),'Restaurant Essen Speisekarte Lieferung Lieferdienst Abholung '+(x.delivery?.available?'liefert':''));
- for(const x of data.events||[])if(!today||x.date>=today)add('Veranstaltungen','events',x,[x.date,x.time,x.location].filter(Boolean).join(' · '),'Termine Eintritt Familienpass');
+ for(const x of combinedEvents(data))if(!today||x.date>=today)add('Veranstaltungen','events',x,[x.date,x.time,x.location].filter(Boolean).join(' · '),'Termine Eintritt Familienpass '+(x.provider||'')+' '+(x.ageLabel||'')+' '+(x.description||''));
  for(const x of data.eventTips?.items||[])if(!x.validUntil||!today||x.validUntil>=today)add('Veranstaltungen','events',x,x.description,'besondere Termine Eintritt Familienpass');
  for(const x of data.droste?.offers||[])add('Kinderangebote','family',x,[x.ageLabel,x.category].filter(Boolean).join(' · '),'Droste Haus Kurse Kinder Familie');
  for(const group of [data.tvSports,data.tvCourses])for(const x of group?.offers||[])add('Kinderangebote','family',x,[x.ageLabel,x.category].filter(Boolean).join(' · '),'TV Verl Sport Kinder Familie');

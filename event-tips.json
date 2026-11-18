@@ -40,8 +40,9 @@
       "assessment": "Lohnt sich für einen gemeinsamen Adventsbummel und zum Unterstützen örtlicher Vereine. Wer ein festes Kinderprogramm sucht, sollte vorher das aktuelle Programm prüfen.",
       "caution": "Konkrete Kinderaktionen und Eintrittspreise sind in der Stadtankündigung nicht ausgewiesen. Essen, Getränke und Waren werden an den Vereinsständen angeboten.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verler-adventsmarkt-04-12-2026.html",
-      "checkedAt": "2026-11-18T06:50:18.764Z",
-      "validUntil": "2026-12-06"
+      "checkedAt": "2026-11-18T16:35:48.346Z",
+      "validUntil": "2026-12-06",
+      "priority": 10
     },
     {
       "id": "verl-singt-weihnachtslieder-2026",
@@ -102,6 +103,71 @@
       "bookingURL": "https://www.droste-haus.de/de/angebote-buchen/",
       "checkedAt": "2026-11-18T06:50:18.764Z",
       "validUntil": "2026-12-01"
+    },
+    {
+      "id": "antikmarkt-ostwestfalenhalle-2026-11-28",
+      "title": "Antikmarkt in der Ostwestfalenhalle",
+      "date": "2026-11-28",
+      "time": "10:00",
+      "dates": [
+        {
+          "date": "2026-11-28",
+          "time": "10:00",
+          "endTime": "17:00"
+        }
+      ],
+      "location": "Ostwestfalenhalle Kaunitz",
+      "description": "In der Ostwestfalenhalle findet am 28. November 2026 ein Antikmarkt statt. Die Stadt nennt 10:00 bis 17:00 Uhr.",
+      "audience": "Für Menschen mit Interesse an Antiquitäten und gebrauchten Fundstücken",
+      "assessment": "Unsere Einschätzung: Interessant zum Stöbern; ein bestimmtes Kinderprogramm ist dadurch nicht bestätigt.",
+      "caution": "Eintritt, Familienpass-Tarif und aktuelle Änderungen sind vor dem Besuch beim Veranstalter zu prüfen.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/antikmarkt-28-11-2026.html",
+      "checkedAt": "2026-11-18T16:35:48.346Z",
+      "validUntil": "2026-11-28"
+    },
+    {
+      "id": "schuetzenhalle-flohmarkt-2026-12-06",
+      "title": "Flohmarkt in und an der Schützenhalle",
+      "eventTitle": "Flohmarkt an der Schützenhalle Verl",
+      "date": "2026-12-06",
+      "time": "10:00",
+      "dates": [
+        {
+          "date": "2026-12-06",
+          "time": "10:00",
+          "endTime": "15:00"
+        }
+      ],
+      "location": "Schützenhalle Verl, Paderborner Straße 88",
+      "description": "Am 6. Dezember 2026 veranstaltet Flohmarkt mit Flair einen Markt in der Schützenhalle Verl und auf dem Außengelände. Die Anzeige nennt Aufbau ab 08:00 Uhr und Besuch ab 10:00 Uhr; der Termin endet laut Anzeige um 15:00 Uhr.",
+      "audience": "Für Besucherinnen und Besucher von Flohmärkten",
+      "assessment": "Unsere Einschätzung: Eine Möglichkeit zum Stöbern nach gebrauchten Dingen, auch bei unbeständigem Wetter dank der Hallenplätze.",
+      "caution": "Der Veranstalter nennt freien Eintritt und kostenloses Parken für Besucher. Standplätze und deren Gebühren sind davon getrennt; Uhrzeiten vor dem Besuch prüfen.",
+      "sourceURL": "https://www.marktcom.de/veranstaltung/verler-schuetzenhalle-drinnen-und-draussen-33415-verl?term_id=1172064",
+      "checkedAt": "2026-11-18T16:35:48.346Z",
+      "validUntil": "2026-12-06"
+    },
+    {
+      "id": "spielzeugmarkt-ostwestfalenhalle-2026-12-27",
+      "title": "Spielzeugmarkt nach Weihnachten",
+      "eventTitle": "Spielzeugmarkt",
+      "date": "2026-12-27",
+      "time": "10:00",
+      "dates": [
+        {
+          "date": "2026-12-27",
+          "time": "10:00",
+          "endTime": "16:00"
+        }
+      ],
+      "location": "Ostwestfalenhalle Kaunitz",
+      "description": "Die Stadt kündigt den Spielzeugmarkt am 27. Dezember 2026 in der Ostwestfalenhalle Kaunitz von 10:00 bis 16:00 Uhr an.",
+      "audience": "Für Interessierte an Spielzeug und Modellbahnen",
+      "assessment": "Unsere Einschätzung: Interessant zum gezielten Suchen und Vergleichen. Ein Mitmachprogramm oder bestimmte Altersgrenzen sind nicht bestätigt.",
+      "caution": "Eintritt, Familienpass-Tarif und aktuelle Änderungen sind vor dem Besuch beim Veranstalter zu prüfen.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/spielzeugmarkt-27-12-2026.html",
+      "checkedAt": "2026-11-18T16:35:48.346Z",
+      "validUntil": "2026-12-27"
     }
   ]
 }
