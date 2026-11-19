@@ -1,0 +1,15 @@
+import {useEffect,useRef,useState} from 'react';
+import {Clock,RefreshCw,Info} from 'lucide-react';
+import {appLocale} from './language.mjs';
+import {NEWS_REFRESH_MS,fetchNewsFeed} from './news-feed.mjs';
+import './news-freshness.css';
+const stamp=(d:string)=>d?new Date(d).toLocaleString(appLocale(),{day:'2-digit',month:'2-digit',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Berlin'}):'—';
+export default function NewsFreshness({base,checkedAt,onFeed}:any){
+ const [busy,setBusy]=useState(false),[failed,setFailed]=useState(false),[loadedAt,setLoadedAt]=useState('');const callback=useRef(onFeed),refreshRef=useRef<()=>void>(()=>{});callback.current=onFeed;
+ useEffect(()=>{let alive=true,inFlight=false,controller:AbortController|null=null;
+  async function refresh(){if(!alive||inFlight||document.visibilityState!=='visible')return;if(!navigator.onLine){setFailed(true);return;}inFlight=true;setBusy(true);controller=new AbortController();const timeout=setTimeout(()=>controller?.abort(),12000);try{const feed=await fetchNewsFeed(base,{signal:controller.signal});if(alive){callback.current(feed);setLoadedAt(feed.loadedAt);setFailed(false);}}catch{if(alive)setFailed(true);}finally{clearTimeout(timeout);inFlight=false;if(alive)setBusy(false);}}
+  refreshRef.current=refresh;refresh();const timer=setInterval(refresh,NEWS_REFRESH_MS),resume=()=>{if(document.visibilityState==='visible')refresh()},offline=()=>setFailed(true);window.addEventListener('online',resume);window.addEventListener('offline',offline);document.addEventListener('visibilitychange',resume);return()=>{alive=false;controller?.abort();clearInterval(timer);window.removeEventListener('online',resume);window.removeEventListener('offline',offline);document.removeEventListener('visibilitychange',resume);refreshRef.current=()=>{};};
+ },[base]);
+ const stale=!checkedAt||Date.now()-Date.parse(checkedAt)>36*3600000;
+ return <section className="news-freshness" aria-label="Aktualität der Nachrichten"><div className="news-check-heading"><strong><Clock size={18}/><span>Nachrichten redaktionell geprüft:</span></strong><time data-no-translate>{stamp(checkedAt)}</time></div><p>Tägliche Nachrichtenprüfung morgens gegen 7 Uhr. Neue Meldungen erscheinen nach Prüfung und Veröffentlichung; nicht jeder Tag bringt neue Nachrichten.</p><div className="news-feed-bottom"><small>Die geöffnete Nachrichtenansicht lädt veröffentlichte Änderungen jede Minute nach.</small><button className="text-button" disabled={busy} onClick={()=>refreshRef.current()}><RefreshCw size={16}/>{busy?'Nachrichten werden geladen …':'Nachrichten jetzt laden'}</button></div>{loadedAt&&<small><span>App-Daten geladen:</span> <time data-no-translate>{stamp(loadedAt)}</time></small>}{(failed||stale)&&<p className="news-check-warning" role="status"><Info size={17}/><span>{failed?'Neue Nachrichten konnten gerade nicht geladen werden. Der gespeicherte Stand bleibt sichtbar.':'Der redaktionelle Prüfstand ist älter als 36 Stunden. Die Aktualität ist derzeit nicht bestätigt.'}</span></p>}</section>;
+}
