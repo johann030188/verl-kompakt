@@ -1,18 +1,30 @@
 {
   "items": [
     {
-      "id": "tim-proese-lesung-18-november-2026",
-      "title": "Heute: Kostenlose Lesung mit Tim Pröse",
-      "date": "2026-11-18",
-      "time": "19:00",
-      "location": "Gymnasium Verl, St.-Anna-Straße 22",
-      "description": "Am 18. November 2026 liest Tim Pröse um 19 Uhr im Multifunktionsraum des Gymnasiums Verl, St.-Anna-Straße 22. Die Veranstaltung des Verler Gesundheitsforums beschäftigt sich mit Lebenswegen nach schweren Krisen.",
-      "audience": "Für Menschen mit Interesse an persönlichen Lebensgeschichten",
-      "assessment": "Lohnt sich für einen ruhigen Abend mit nachdenklichen Geschichten. Wegen der belastenden Themen ist dies aus unserer Sicht kein typischer Ausflug für jüngere Kinder.",
-      "caution": "Der Eintritt ist frei; die Stadt bittet zur Planung um Anmeldung. Freie Plätze und ein bestimmter Einlasszeitpunkt sind nicht bestätigt.",
-      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/lesung-der-tag-der-mein-leben-veraenderte-18-11-2026.html",
-      "checkedAt": "2026-11-18T06:50:18.764Z",
-      "validUntil": "2026-11-18"
+      "id": "forum-demokratie-brecht-november-2026",
+      "title": "Brecht-Theater in Haus Verl Nr. 8",
+      "dates": [
+        {
+          "date": "2026-11-19",
+          "time": "19:00"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "18:00"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "18:00"
+        }
+      ],
+      "location": "Haus Verl Nr. 8, Sender Straße 1, Verl",
+      "description": "Das Forum Demokratie zeigt mit zehn Laienschauspielerinnen und -schauspielern Szenen aus Bertolt Brechts „Furcht und Elend des Dritten Reiches“. Die Aufführungen finden am 19., 21. und 22. November 2026 statt.",
+      "audience": "Für Menschen mit Interesse an Theater und Zeitgeschichte",
+      "assessment": "Unsere Einschätzung: Ein nachdenklicher Theaterabend zur Auseinandersetzung mit der NS-Zeit. Wegen des Themas aus unserer Sicht kein typischer Ausflug für jüngere Kinder.",
+      "caution": "Die Premiere am 19. November ist laut Stadt ausverkauft. Für den 21. und 22. November nennt die Ankündigung Restkarten; eine aktuelle Platzverfügbarkeit ist damit nicht garantiert. Keine Altersfreigabe oder Familienpass-Ermäßigung bestätigt.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/furcht-und-elend-des-dritten-reiches-19-11-2026.html",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "validUntil": "2026-11-22"
     },
     {
       "id": "verler-adventsmarkt-2026",
@@ -40,7 +52,7 @@
       "assessment": "Lohnt sich für einen gemeinsamen Adventsbummel und zum Unterstützen örtlicher Vereine. Wer ein festes Kinderprogramm sucht, sollte vorher das aktuelle Programm prüfen.",
       "caution": "Konkrete Kinderaktionen und Eintrittspreise sind in der Stadtankündigung nicht ausgewiesen. Essen, Getränke und Waren werden an den Vereinsständen angeboten.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verler-adventsmarkt-04-12-2026.html",
-      "checkedAt": "2026-11-18T16:35:48.346Z",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
       "validUntil": "2026-12-06",
       "priority": 10
     },
@@ -56,7 +68,7 @@
       "caution": "Vorverkauf im offiziellen SC-Verl-Ticketshop. Preise und verbleibende Karten vor dem Besuch prüfen; die Quelle bestätigt keine aktuelle Restkartenverfügbarkeit.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verl-singt-weihnachtslieder-in-der-sportclub-arena-06-12-2026.html",
       "bookingURL": "https://www.sportclub-verl.de/ticketshop",
-      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
       "validUntil": "2026-12-06",
       "endTime": "19:00"
     },
@@ -87,7 +99,7 @@
       "caution": "Die Stadt weist darauf hin, dass Kinder für den Parcours sicher schwimmen können sollten. Reguläres Schwimmen ist währenddessen eingeschränkt. Eine feste Altersuntergrenze oder gesonderte Teilnahmegebühr nennt die aktuelle Stadtmitteilung nicht.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/spielenachmittag-im-hallenbad-21-11-2026.html",
       "additionalSourceURL": "https://www.verl.de/aktuelles/wasserparcours-laedt-zum-klettern-und-balancieren-ein.html",
-      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
       "validUntil": "2026-12-19"
     },
     {
@@ -101,7 +113,7 @@
       "caution": "Keine Startuhrzeit oder aktuellen freien Plätze bestätigt. Die aktuelle Buchungsseite meldet eine gestörte Onlineanmeldung und nennt Anmeldung per Telefon oder E-Mail. Konkrete Kurstermine und Gebühren für 2027 daraus nicht ableiten.",
       "sourceURL": "https://www.droste-haus.de/de/fuer-jugendliche/ferienangebote/index.php",
       "bookingURL": "https://www.droste-haus.de/de/angebote-buchen/",
-      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
       "validUntil": "2026-12-01"
     },
     {
@@ -122,7 +134,7 @@
       "assessment": "Unsere Einschätzung: Interessant zum Stöbern; ein bestimmtes Kinderprogramm ist dadurch nicht bestätigt.",
       "caution": "Eintritt, Familienpass-Tarif und aktuelle Änderungen sind vor dem Besuch beim Veranstalter zu prüfen.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/antikmarkt-28-11-2026.html",
-      "checkedAt": "2026-11-18T16:35:48.346Z",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
       "validUntil": "2026-11-28"
     },
     {
@@ -144,7 +156,7 @@
       "assessment": "Unsere Einschätzung: Eine Möglichkeit zum Stöbern nach gebrauchten Dingen, auch bei unbeständigem Wetter dank der Hallenplätze.",
       "caution": "Der Veranstalter nennt freien Eintritt und kostenloses Parken für Besucher. Standplätze und deren Gebühren sind davon getrennt; Uhrzeiten vor dem Besuch prüfen.",
       "sourceURL": "https://www.marktcom.de/veranstaltung/verler-schuetzenhalle-drinnen-und-draussen-33415-verl?term_id=1172064",
-      "checkedAt": "2026-11-18T16:35:48.346Z",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
       "validUntil": "2026-12-06"
     },
     {
@@ -166,7 +178,7 @@
       "assessment": "Unsere Einschätzung: Interessant zum gezielten Suchen und Vergleichen. Ein Mitmachprogramm oder bestimmte Altersgrenzen sind nicht bestätigt.",
       "caution": "Eintritt, Familienpass-Tarif und aktuelle Änderungen sind vor dem Besuch beim Veranstalter zu prüfen.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/spielzeugmarkt-27-12-2026.html",
-      "checkedAt": "2026-11-18T16:35:48.346Z",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
       "validUntil": "2026-12-27"
     }
   ]

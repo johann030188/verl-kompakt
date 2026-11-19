@@ -1,6 +1,88 @@
 {
   "items": [
     {
+      "id": "forum-demokratie-brecht-november-2026",
+      "eventMatch": [
+        "\"Furcht und Elend des Dritten Reiches\"",
+        "Brecht-Theater in Haus Verl Nr. 8"
+      ],
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/furcht-und-elend-des-dritten-reiches-19-11-2026.html",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "free": false,
+      "regular": {
+        "adultEUR": 10,
+        "childEUR": null,
+        "childAgeMin": null,
+        "childAgeMax": null,
+        "familyEUR": null,
+        "familyAdults": null,
+        "familyChildren": null,
+        "note": "Vorverkauf in der Pegasus Buchhandlung: 10 Euro; Abendkasse: 12 Euro. Keine gesonderten Kinder- oder Familientarife bestätigt."
+      },
+      "familyPass": {
+        "status": "not-confirmed",
+        "adultEUR": null,
+        "childEUR": null,
+        "familyEUR": null,
+        "note": "Ein konkreter Familienpass-Tarif für diese Theateraufführungen ist nicht bestätigt.",
+        "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/furcht-und-elend-des-dritten-reiches-19-11-2026.html",
+        "checkedAt": "2026-11-19T06:31:56.087Z"
+      },
+      "bookingFeeEUR": null,
+      "bookingFeeStatus": "unknown",
+      "note": "Die Premiere am 19. November ist laut Stadt ausverkauft. Für den 21. und 22. November nennt die Ankündigung Restkarten; eine aktuelle Platzverfügbarkeit ist damit nicht garantiert. Keine Altersfreigabe oder Familienpass-Ermäßigung bestätigt.",
+      "validFrom": "2026-11-19",
+      "validUntil": "2026-11-22",
+      "variants": [
+        {
+          "id": "presale",
+          "label": "Vorverkauf",
+          "regular": {
+            "adultEUR": 10,
+            "childEUR": null,
+            "childAgeMin": null,
+            "childAgeMax": null,
+            "familyEUR": null,
+            "familyAdults": null,
+            "familyChildren": null,
+            "note": "Vorverkauf in der Pegasus Buchhandlung: 10 Euro; Abendkasse: 12 Euro. Keine gesonderten Kinder- oder Familientarife bestätigt."
+          },
+          "familyPass": {
+            "status": "not-confirmed",
+            "adultEUR": null,
+            "childEUR": null,
+            "familyEUR": null,
+            "note": "Ein konkreter Familienpass-Tarif für diese Theateraufführungen ist nicht bestätigt.",
+            "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/furcht-und-elend-des-dritten-reiches-19-11-2026.html",
+            "checkedAt": "2026-11-19T06:31:56.087Z"
+          }
+        },
+        {
+          "id": "box-office",
+          "label": "Abendkasse",
+          "regular": {
+            "adultEUR": 12,
+            "childEUR": null,
+            "childAgeMin": null,
+            "childAgeMax": null,
+            "familyEUR": null,
+            "familyAdults": null,
+            "familyChildren": null,
+            "note": "Vorverkauf in der Pegasus Buchhandlung: 10 Euro; Abendkasse: 12 Euro. Keine gesonderten Kinder- oder Familientarife bestätigt."
+          },
+          "familyPass": {
+            "status": "not-confirmed",
+            "adultEUR": null,
+            "childEUR": null,
+            "familyEUR": null,
+            "note": "Ein konkreter Familienpass-Tarif für diese Theateraufführungen ist nicht bestätigt.",
+            "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/furcht-und-elend-des-dritten-reiches-19-11-2026.html",
+            "checkedAt": "2026-11-19T06:31:56.087Z"
+          }
+        }
+      ]
+    },
+    {
       "id": "tim-proese-lesung-18-november-2026",
       "eventMatch": [
         "Lesung: \"Der Tag, der mein Leben veränderte\"",
@@ -38,7 +120,7 @@
       "id": "verler-adventsmarkt-2026",
       "eventMatch": "Verler Adventsmarkt",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verler-adventsmarkt-04-12-2026.html",
-      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
       "free": null,
       "regular": {
         "adultEUR": null,
@@ -57,7 +139,7 @@
         "familyEUR": null,
         "note": "Ein konkreter Familienpass-Rabatt für Eintritt oder Einkäufe ist in der offiziellen Ankündigung nicht bestätigt.",
         "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verler-adventsmarkt-04-12-2026.html",
-        "checkedAt": "2026-11-18T06:50:18.764Z"
+        "checkedAt": "2026-11-19T06:31:56.087Z"
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
@@ -69,7 +151,7 @@
       "id": "verl-singt-weihnachtslieder-2026",
       "eventMatch": "Verl singt Weihnachtslieder",
       "sourceURL": "https://www.sportclub-verl.de/weihnachtssingen",
-      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
       "free": false,
       "regular": {
         "adultEUR": 5,
@@ -88,7 +170,7 @@
         "familyEUR": null,
         "note": "Kein konkreter Familienpass-Tarif für dieses Weihnachtssingen bestätigt. Die allgemeinen Kulturförderregeln belegen für sich keinen buchbaren Rabatt dieses Veranstalters.",
         "sourceURL": "https://www.sportclub-verl.de/weihnachtssingen",
-        "checkedAt": "2026-11-18T06:50:18.764Z"
+        "checkedAt": "2026-11-19T06:31:56.087Z"
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
@@ -116,7 +198,7 @@
             "familyEUR": null,
             "note": "Kein konkreter Familienpass-Tarif für dieses Weihnachtssingen bestätigt. Die allgemeinen Kulturförderregeln belegen für sich keinen buchbaren Rabatt dieses Veranstalters.",
             "sourceURL": "https://www.sportclub-verl.de/weihnachtssingen",
-            "checkedAt": "2026-11-18T06:50:18.764Z"
+            "checkedAt": "2026-11-19T06:31:56.087Z"
           }
         },
         {
@@ -139,7 +221,7 @@
             "familyEUR": null,
             "note": "Kein konkreter Familienpass-Tarif für dieses Weihnachtssingen bestätigt. Die allgemeinen Kulturförderregeln belegen für sich keinen buchbaren Rabatt dieses Veranstalters.",
             "sourceURL": "https://www.sportclub-verl.de/weihnachtssingen",
-            "checkedAt": "2026-11-18T06:50:18.764Z"
+            "checkedAt": "2026-11-19T06:31:56.087Z"
           }
         }
       ],
@@ -151,7 +233,7 @@
       "id": "hallenbad-wasserparcours-2026",
       "eventMatch": "Spielenachmittag im Hallenbad",
       "sourceURL": "https://www.verl.de/freizeit-kultur/sport/hallenbad.html",
-      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
       "free": false,
       "regular": {
         "adultEUR": 4,
@@ -170,7 +252,7 @@
         "familyEUR": null,
         "note": "Für Einzelkarten ist kein gesonderter Familienpass-Rabatt bestätigt. Belegt ist ausschließlich die Kombi-Jahresfamilienkarte für 95 Euro statt 190 Euro; diese Jahreskarte ist kein Tagespreis für den Spielenachmittag.",
         "sourceURL": "https://www.verl.de/freizeit-kultur/sport/hallenbad.html",
-        "checkedAt": "2026-11-18T06:50:18.764Z"
+        "checkedAt": "2026-11-19T06:31:56.087Z"
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
@@ -182,7 +264,7 @@
       "id": "droste-ferien-anmeldestart-2027",
       "eventMatch": "Droste-Haus: Buchungsstart für Ferienangebote 2027 angekündigt",
       "sourceURL": "https://www.droste-haus.de/de/fuer-jugendliche/ferienangebote/index.php",
-      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
       "free": null,
       "regular": {
         "adultEUR": null,
@@ -324,7 +406,7 @@
         "Flohmarkt in und an der Schützenhalle"
       ],
       "sourceURL": "https://www.marktcom.de/veranstaltung/verler-schuetzenhalle-drinnen-und-draussen-33415-verl?term_id=1172064",
-      "checkedAt": "2026-11-18T16:35:48.346Z",
+      "checkedAt": "2026-11-19T06:31:56.087Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -343,7 +425,7 @@
         "familyEUR": null,
         "note": "Der Eintritt ist allgemein kostenlos. Ein zusätzlicher Familienpass-Tarif ist für diesen Besuch nicht erforderlich und nicht gesondert bestätigt.",
         "sourceURL": "https://www.marktcom.de/veranstaltung/verler-schuetzenhalle-drinnen-und-draussen-33415-verl?term_id=1172064",
-        "checkedAt": "2026-11-18T16:35:48.346Z"
+        "checkedAt": "2026-11-19T06:31:56.087Z"
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
