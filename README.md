@@ -60,3 +60,12 @@ Korrektur vom 19.11.2026: Die tägliche redaktionelle Nachrichtenpflege ist eine
 Die Startseite ordnet Nachrichten jetzt nach tatsächlichem Veröffentlichungsdatum; ein vorhandenes Bild bevorzugt keine alte Meldung mehr. Die geöffnete Nachrichten-/Archivansicht lädt articles.json und digest.json jede Minute sowie nach Rückkehr zum sichtbaren Tab oder Wiederherstellung der Verbindung nach. Der redaktionelle Prüfstand, die geplante tägliche Pflege und der Datenabruf werden getrennt benannt. Bei Ladefehlern bleiben alte Inhalte erhalten; ein über 36 Stunden alter Prüfstand wird ausdrücklich gekennzeichnet. Alte Meldungen erhalten kein neues Veröffentlichungsdatum.
 
 Der bedienbare Monatskalender steht in Veranstaltungen direkt nach den Filtern und vor FLY sowie allen Beiträgen. Monatspfeile heben einen eng begrenzten Zeitraumfilter auf, damit kommende Monate nutzbar bleiben. Ein gewählter Tag filtert die nachfolgenden Termine und die FLY-Karte; unpassende allgemeine Veranstaltungstipps werden dann ausgeblendet.
+
+
+## Eigene Rubrik News
+
+Das Hauptmenü enthält „News“ (Direktlink `?bereich=news`). Hier erscheinen redaktionelle Nachrichten ohne die Übersichts- und Veranstaltungskarten der Startseite, nach ursprünglichem Veröffentlichungsdatum absteigend. Nachrichtensuche, Themenauswahl, Merkliste und „Polizei Verl“ stehen direkt in der Rubrik zur Verfügung. Der bisherige Startbereich und bestehende Artikel-Links bleiben erreichbar.
+
+`NewsFreshness` lädt `articles.json` und `digest.json` beim Öffnen sowie in einer sichtbaren Ansicht alle 60 Sekunden ohne Browsercache. Auch nach Wiederverbindung oder Rückkehr zur App wird nachgeladen. Ein fehlgeschlagener Abruf, ein unvollständiges Archiv oder ein älterer Prüfstand ersetzen keinen erfolgreich gespeicherten Nachrichtenstand. Der redaktionelle Prüfzeitpunkt bleibt vom technischen Ladezeitpunkt getrennt sichtbar.
+
+Die bestehende tägliche redaktionelle Automation (morgens gegen 7 Uhr, Europe/Berlin) recherchiert zusätzlich zu Stadt, Sportclub, Radio, Polizei und Kreis gezielt regionale Themenhinweise aus NW/Die Glocke sowie offizielle Veranstalter, Vereine und Ratsunterlagen. Öffentlich belegte Fakten werden selbst zusammengefasst und mit vollständigen russischen Textpaaren veröffentlicht. Paywalls werden nicht umgangen; bei reinen Vorschauen wird der eingeschränkte Quellenumfang im Beitrag genannt. Ein Antrag ist kein bestätigter Beschluss, eine ältere Vorlage keine aktuelle Verkehrsmeldung. Die Automation liefert weiterhin keine täglichen Chat- oder Push-Nachrichten.

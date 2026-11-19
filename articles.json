@@ -1,5 +1,37 @@
 [
   {
+    "id": "bornholter-advent-zwei-tage-huehnerstall-20261119",
+    "title": "Bornholter Advent: Weihnachtsmarkt am 27. und 28. November",
+    "category": "Familie",
+    "paragraphs": [
+      "Der offizielle Veranstaltungskalender der Stadt Verl bestätigt den Bornholter Advent für Freitag, 27. November 2026, ab 17 Uhr und Samstag, 28. November 2026, ab 15 Uhr. Veranstaltungsort ist der Hühnerstall Bornholte am Schmiedestrang 168 in Verl.",
+      "Bürgerverein Bornholte-Bahnhof und Bürgerschützenverein Verl-Bornholte-Sende organisieren den Markt gemeinsam. Am Samstag sind ein Kinderkarussell, Kinderschminken und gegen 17.30 Uhr ein Besuch des Weihnachtsmanns vorgesehen.",
+      "Der geprüfte Kalendereintrag nennt keine Schlusszeiten und keine Eintrittspreise. Aus fehlenden Preisangaben lässt sich kein kostenloser Eintritt ableiten. Die offizielle Terminseite ist unten verlinkt."
+    ],
+    "summary": "Am Hühnerstall Bornholte beginnt der Adventsmarkt freitags um 17 Uhr und samstags um 15 Uhr. Für Samstag sind Kinderkarussell, Kinderschminken und ein Weihnachtsmann-Besuch angekündigt.",
+    "publishedAt": "2026-11-19",
+    "checkedAt": "2026-11-19T07:01:31.157Z",
+    "source": "Stadt Verl · Veranstaltungshinweis",
+    "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/bornholter-advent-27-11-2026.html",
+    "kind": "Veranstaltungshinweis"
+  },
+  {
+    "id": "verler-see-cdu-haushaltsantrag-20261118",
+    "title": "CDU beantragt 50.000 Euro für die Aufwertung des Verler Sees",
+    "category": "Rathaus",
+    "paragraphs": [
+      "Nach der öffentlich zugänglichen Vorschau der Neuen Westfälischen vom 18. November 2026 will die CDU-Fraktion den Verler See und seine Umgebung aufwerten. In einem Antrag zum Haushalt 2027 sollen dafür 50.000 Euro vorgesehen werden.",
+      "Als Idee wird eine schwimmende Wasserfontäne genannt. Die Meldung beschreibt einen Haushaltsantrag; sie belegt noch keinen endgültigen Ratsbeschluss, Auftrag oder Baubeginn.",
+      "Diese eigene Zusammenfassung stützt sich auf die öffentliche Vorschau und die frei sichtbare Themenübersicht. Der vollständige Originalartikel kann ein Abonnement erfordern. Nicht zugängliche Einzelheiten wurden nicht übernommen."
+    ],
+    "summary": "Die CDU möchte für 2027 Geld für den Verler See und sein Umfeld vorsehen. Eine schwimmende Wasserfontäne gehört zu den genannten Ideen. Ein beschlossener Bau wird damit nicht bestätigt.",
+    "publishedAt": "2026-11-18",
+    "checkedAt": "2026-11-19T07:01:31.157Z",
+    "source": "Neue Westfälische · öffentliche Vorschau",
+    "sourceURL": "https://www.nw.de/lokal/kreis_guetersloh/verl/24464820_Verler-See-soll-attraktiver-werden-Das-koennte-sich-dort-veraendern.html",
+    "kind": "Quellenhinweis"
+  },
+  {
     "id": "kreisstrassenprogramm-2027-verl-alternative-20261118",
     "title": "Kreisstraßenprogramm 2027: Verler Abschnitt als Alternative aufgeführt",
     "category": "Verkehr",
@@ -126,22 +158,6 @@
     "summary": "Die Führerscheinstelle des Kreises Gütersloh ist vom 16. bis 19. November 2026 nur eingeschränkt erreichbar. Persönliche Besuche erfordern einen vereinbarten Termin; auch telefonisch kann es Einschränkungen geben."
   },
   {
-    "id": "tageshospiz-komet-tag-der-offenen-tuer-november-2026",
-    "title": "Tageshospiz KOMET: Am 15. November die neuen Räume kennenlernen",
-    "category": "Stadtleben",
-    "publishedAt": "2026-11-12",
-    "source": "Radio Gütersloh",
-    "sourceURL": "https://www.radioguetersloh.de/nachrichten/kreis-guetersloh/verl-erstes-tageshospiz-in-owl-eroeffnet.html",
-    "paragraphs": [
-      "Das neue Tageshospiz KOMET in Verl lädt am Sonntag, 15. November 2026, von 12 bis 18 Uhr zum Tag der offenen Tür ein. Die Stadt nennt als Veranstaltungsort die Schillerstraße 26. Interessierte können die Räume besichtigen, sich über das Angebot informieren und mit dem Team sprechen.",
-      "Nach dem Bericht von Radio Gütersloh bietet die Einrichtung der Diakonie im Kreis Gütersloh zwölf Plätze für Erwachsene mit schweren, unheilbaren Erkrankungen und palliativem Betreuungsbedarf. Die Gäste erhalten tagsüber Begleitung und Pflege und kehren abends nach Hause zurück. Ein Fahrdienst ist vorgesehen.",
-      "Das Angebot soll auch Angehörige entlasten und die Versorgung zwischen Betreuung zu Hause und stationärem Hospiz ergänzen. Die städtische Terminbestätigung ist unter https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/tag-der-offenen-tuer-im-tageshospiz-komet-15-11-2026.html abrufbar."
-    ],
-    "checkedAt": "2026-11-15T06:21:20Z",
-    "summary": "Das neue Tageshospiz KOMET in Verl lädt am Sonntag, 15. November 2026, von 12 bis 18 Uhr zum Tag der offenen Tür ein. Die Stadt nennt als Veranstaltungsort die Schillerstraße 26. Interessierte können die Räume besichtigen, sich über das Angebot informieren und mit dem Team sprechen.",
-    "kind": "Eigene Zusammenfassung"
-  },
-  {
     "id": "einbruch-rebhuhnweg-12-november-2026",
     "title": "Einbruch am Rebhuhnweg: Polizei sucht Zeugen",
     "category": "Stadtleben",
@@ -155,22 +171,6 @@
     ],
     "checkedAt": "2026-11-15T06:21:20Z",
     "summary": "Am Donnerstag, 12. November 2026, wurde zwischen 9.45 und 18.45 Uhr in ein Einfamilienhaus am Rebhuhnweg in Verl eingebrochen. Das teilte die Polizei Gütersloh am 13. November mit.",
-    "kind": "Eigene Zusammenfassung"
-  },
-  {
-    "id": "sc-verl-essen-ticketbedingungen-november-2026",
-    "title": "SC Verl gegen Essen: Tickets nur für berechtigte Käufer",
-    "category": "Sport",
-    "publishedAt": "2026-11-09",
-    "source": "SC Verl",
-    "sourceURL": "https://www.sportclub-verl.de/artikel/116017/heimspiel-gegen-rot-weiss-essen",
-    "paragraphs": [
-      "Für das Heimspiel des SC Verl gegen Rot-Weiss Essen am Samstag, 21. November 2026, um 14 Uhr gibt es laut Vereinsankündigung keinen freien Vorverkauf. Wer einen Besuch plant, sollte deshalb die Kaufberechtigung prüfen.",
-      "Mitglieder und Dauerkarteninhaber konnten ab dem 9. November Karten erwerben. Seit dem 12. November ist der Verkauf außerdem für Fans geöffnet, die bereits in dieser Saison eine Heimspielkarte oder ein Ticket zum Weihnachtssingen gekauft haben. Dieser frühere Kauf musste vor dem 11. November um 10 Uhr erfolgt sein.",
-      "Für das Spiel gilt ein Topspielzuschlag. Der Verein nennt 32 Euro für Sitzplätze, ermäßigt 27 Euro, sowie 17 Euro für Stehplätze, ermäßigt 14 Euro. Tresenplätze kosten 43 Euro. Kinder- und Rollstuhlpreise bleiben unverändert. Die Mitteilung bestätigt keine aktuelle Restkartenverfügbarkeit; maßgeblich sind die Angaben im offiziellen Ticketshop."
-    ],
-    "checkedAt": "2026-11-15T06:21:20Z",
-    "summary": "Für das Heimspiel des SC Verl gegen Rot-Weiss Essen am Samstag, 21. November 2026, um 14 Uhr gibt es laut Vereinsankündigung keinen freien Vorverkauf. Wer einen Besuch plant, sollte deshalb die Kaufberechtigung prüfen.",
     "kind": "Eigene Zusammenfassung"
   },
   {
@@ -192,6 +192,54 @@
     "imageCaption": "Siegerentwurf · Visualisierung über Stadt Verl; Planung: faktorgruen / KBNK / Baumgarten"
   },
   {
+    "id": "stadt-verl-schafft-weitere-arbeitsgelegenheiten-fuer-asylbewerberinnen-und-asylbewerber",
+    "title": "Stadt und Pro Arbeit starten gemeinsames Pilotprojekt",
+    "category": "Rathaus",
+    "paragraphs": [
+      "Die Stadt Verl erweitert gemeinnützige Arbeitsgelegenheiten für Asylbewerberinnen und Asylbewerber. Partner ist Pro Arbeit. Das Projekt soll praktische Erfahrungen, Sprachpraxis und Kontakte ermöglichen und gleichzeitig öffentlichen Flächen zugutekommen.",
+      "Als Aufgaben nennt die Stadt unter anderem das Einsammeln von Müll, Pflege- und Reinigungsarbeiten sowie das Entfernen von Aufklebern. Die Einsätze werden mit dem Bauhof abgestimmt. Pro Arbeit übernimmt Organisation, Anleitung und Betreuung. Dazu kommen wöchentlich zwei Stunden arbeitsbezogene Sprachförderung.",
+      "Die Pilotphase ist zunächst bis Jahresende vorgesehen. Es handelt sich laut Stadt nicht um reguläre Arbeitsverhältnisse; die Aufwandsentschädigung beträgt 0,80 Euro pro Stunde. Der Fachbereich Soziales wählt die Teilnehmenden aus. Über eine spätere dauerhafte Fortführung soll der Rat nach Auswertung der Erfahrungen entscheiden."
+    ],
+    "summary": "Die Stadt Verl erweitert gemeinnützige Arbeitsgelegenheiten für Asylbewerberinnen und Asylbewerber. Partner ist Pro Arbeit. Das Projekt soll praktische Erfahrungen, Sprachpraxis und Kontakte ermöglichen und gleichzeitig öffentlichen Flächen zugutekommen.",
+    "publishedAt": "2026-11-13",
+    "checkedAt": "2026-11-14T06:16:18.243Z",
+    "source": "Stadt Verl",
+    "sourceURL": "https://www.verl.de/aktuelles/stadt-verl-schafft-weitere-arbeitsgelegenheiten-fuer-asylbewerberinnen-und-asylbewerber.html",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
+    "id": "www-sportclub-verl-de-intensives-testspiel-beim-vfl-bochum",
+    "title": "SC Verl verliert Test in Bochum mit 1:4",
+    "category": "Sport",
+    "paragraphs": [
+      "Der SC Verl hat die Länderspielpause für einen Test gegen den VfL Bochum genutzt. Beim Zweitligisten verlor der Sportclub am Freitag, 13. November, mit 1:4. Bereits zur Pause lag Verl nach drei Treffern von Mansour Ouro-Tagba mit 0:3 zurück.",
+      "Nach mehreren Wechseln steigerte sich die Verler Mannschaft in der zweiten Halbzeit. Alem Japaur verkürzte in der 67. Minute auf 1:3. Nur eine Minute später stellte Bochum durch einen Kopfball von Hofmann den vorherigen Abstand wieder her.",
+      "Nach Einschätzung des Vereins brachte die zweite Hälfte trotz der Niederlage mehr Spielkontrolle und mehrere gute Angriffsszenen. Die Erkenntnisse sollen in die Vorbereitung auf das nächste Heimspiel gegen Rot-Weiss Essen einfließen. Das Testspielergebnis verändert die Ligatabelle nicht."
+    ],
+    "summary": "Der SC Verl hat die Länderspielpause für einen Test gegen den VfL Bochum genutzt. Beim Zweitligisten verlor der Sportclub am Freitag, 13. November, mit 1:4. Bereits zur Pause lag Verl nach drei Treffern von Mansour Ouro-Tagba mit 0:3 zurück.",
+    "publishedAt": "2026-11-13",
+    "checkedAt": "2026-11-14T06:33:42.597Z",
+    "source": "SC Verl",
+    "sourceURL": "https://www.sportclub-verl.de/spielbericht/116334/intensives-testspiel-beim-vfl-bochum",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
+    "id": "tageshospiz-komet-tag-der-offenen-tuer-november-2026",
+    "title": "Tageshospiz KOMET: Am 15. November die neuen Räume kennenlernen",
+    "category": "Stadtleben",
+    "publishedAt": "2026-11-12",
+    "source": "Radio Gütersloh",
+    "sourceURL": "https://www.radioguetersloh.de/nachrichten/kreis-guetersloh/verl-erstes-tageshospiz-in-owl-eroeffnet.html",
+    "paragraphs": [
+      "Das neue Tageshospiz KOMET in Verl lädt am Sonntag, 15. November 2026, von 12 bis 18 Uhr zum Tag der offenen Tür ein. Die Stadt nennt als Veranstaltungsort die Schillerstraße 26. Interessierte können die Räume besichtigen, sich über das Angebot informieren und mit dem Team sprechen.",
+      "Nach dem Bericht von Radio Gütersloh bietet die Einrichtung der Diakonie im Kreis Gütersloh zwölf Plätze für Erwachsene mit schweren, unheilbaren Erkrankungen und palliativem Betreuungsbedarf. Die Gäste erhalten tagsüber Begleitung und Pflege und kehren abends nach Hause zurück. Ein Fahrdienst ist vorgesehen.",
+      "Das Angebot soll auch Angehörige entlasten und die Versorgung zwischen Betreuung zu Hause und stationärem Hospiz ergänzen. Die städtische Terminbestätigung ist unter https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/tag-der-offenen-tuer-im-tageshospiz-komet-15-11-2026.html abrufbar."
+    ],
+    "checkedAt": "2026-11-15T06:21:20Z",
+    "summary": "Das neue Tageshospiz KOMET in Verl lädt am Sonntag, 15. November 2026, von 12 bis 18 Uhr zum Tag der offenen Tür ein. Die Stadt nennt als Veranstaltungsort die Schillerstraße 26. Interessierte können die Räume besichtigen, sich über das Angebot informieren und mit dem Team sprechen.",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
     "id": "trinkwasser-geruchs-und-geschmacksveraenderungen-moeglich",
     "title": "Trinkwasser kann ab 16. November anders riechen",
     "category": "Stadtleben",
@@ -208,19 +256,35 @@
     "kind": "Eigene Zusammenfassung"
   },
   {
-    "id": "stadt-verl-schafft-weitere-arbeitsgelegenheiten-fuer-asylbewerberinnen-und-asylbewerber",
-    "title": "Stadt und Pro Arbeit starten gemeinsames Pilotprojekt",
-    "category": "Rathaus",
+    "id": "weihnachtssingen-anna-maria-zimmermann-20261110",
+    "title": "Anna-Maria Zimmermann singt bei der Weihnachtspremiere im Verler Stadion",
+    "category": "Stadtleben",
     "paragraphs": [
-      "Die Stadt Verl erweitert gemeinnützige Arbeitsgelegenheiten für Asylbewerberinnen und Asylbewerber. Partner ist Pro Arbeit. Das Projekt soll praktische Erfahrungen, Sprachpraxis und Kontakte ermöglichen und gleichzeitig öffentlichen Flächen zugutekommen.",
-      "Als Aufgaben nennt die Stadt unter anderem das Einsammeln von Müll, Pflege- und Reinigungsarbeiten sowie das Entfernen von Aufklebern. Die Einsätze werden mit dem Bauhof abgestimmt. Pro Arbeit übernimmt Organisation, Anleitung und Betreuung. Dazu kommen wöchentlich zwei Stunden arbeitsbezogene Sprachförderung.",
-      "Die Pilotphase ist zunächst bis Jahresende vorgesehen. Es handelt sich laut Stadt nicht um reguläre Arbeitsverhältnisse; die Aufwandsentschädigung beträgt 0,80 Euro pro Stunde. Der Fachbereich Soziales wählt die Teilnehmenden aus. Über eine spätere dauerhafte Fortführung soll der Rat nach Auswertung der Erfahrungen entscheiden."
+      "Der Sportclub Verl hat am 10. November 2026 angekündigt, dass Anna-Maria Zimmermann am Sonntag, 6. Dezember 2026, bei der Premiere von „Verl singt Weihnachtslieder“ in der Sportclub Arena auftritt. Die Veranstaltung beginnt um 17.30 Uhr.",
+      "Neben Zimmermann sind unter anderem Emily Beadle sowie Chöre und weitere Solokünstler angekündigt. Eine Bühne in der Mitte des Stadions und eine begleitende Bühnenshow gehören zum Konzept. Bekannte Weihnachtslieder sollen gemeinsam gesungen werden.",
+      "Eintrittskarten werden über den offiziellen Ticketshop des Sportclub Verl angeboten. Die im älteren Artikel genannte Verkaufsaktion in der Geschäftsstelle am 10. November ist bereits vorbei. Daraus lassen sich weder heutige Verkaufszeiten noch aktuell freie Plätze ableiten."
     ],
-    "summary": "Die Stadt Verl erweitert gemeinnützige Arbeitsgelegenheiten für Asylbewerberinnen und Asylbewerber. Partner ist Pro Arbeit. Das Projekt soll praktische Erfahrungen, Sprachpraxis und Kontakte ermöglichen und gleichzeitig öffentlichen Flächen zugutekommen.",
-    "publishedAt": "2026-11-13",
-    "checkedAt": "2026-11-14T06:16:18.243Z",
-    "source": "Stadt Verl",
-    "sourceURL": "https://www.verl.de/aktuelles/stadt-verl-schafft-weitere-arbeitsgelegenheiten-fuer-asylbewerberinnen-und-asylbewerber.html",
+    "summary": "Der Sportclub bestätigt den Auftritt am 6. Dezember bei „Verl singt Weihnachtslieder“. Beginn ist um 17.30 Uhr; im Mittelpunkt steht das gemeinsame Singen.",
+    "publishedAt": "2026-11-10",
+    "checkedAt": "2026-11-19T07:01:31.157Z",
+    "source": "Sportclub Verl",
+    "sourceURL": "https://www.sportclub-verl.de/artikel/116139/anna-maria-kommt-in-die-sportclub-arena",
+    "kind": "editorial"
+  },
+  {
+    "id": "sc-verl-essen-ticketbedingungen-november-2026",
+    "title": "SC Verl gegen Essen: Tickets nur für berechtigte Käufer",
+    "category": "Sport",
+    "publishedAt": "2026-11-09",
+    "source": "SC Verl",
+    "sourceURL": "https://www.sportclub-verl.de/artikel/116017/heimspiel-gegen-rot-weiss-essen",
+    "paragraphs": [
+      "Für das Heimspiel des SC Verl gegen Rot-Weiss Essen am Samstag, 21. November 2026, um 14 Uhr gibt es laut Vereinsankündigung keinen freien Vorverkauf. Wer einen Besuch plant, sollte deshalb die Kaufberechtigung prüfen.",
+      "Mitglieder und Dauerkarteninhaber konnten ab dem 9. November Karten erwerben. Seit dem 12. November ist der Verkauf außerdem für Fans geöffnet, die bereits in dieser Saison eine Heimspielkarte oder ein Ticket zum Weihnachtssingen gekauft haben. Dieser frühere Kauf musste vor dem 11. November um 10 Uhr erfolgt sein.",
+      "Für das Spiel gilt ein Topspielzuschlag. Der Verein nennt 32 Euro für Sitzplätze, ermäßigt 27 Euro, sowie 17 Euro für Stehplätze, ermäßigt 14 Euro. Tresenplätze kosten 43 Euro. Kinder- und Rollstuhlpreise bleiben unverändert. Die Mitteilung bestätigt keine aktuelle Restkartenverfügbarkeit; maßgeblich sind die Angaben im offiziellen Ticketshop."
+    ],
+    "checkedAt": "2026-11-15T06:21:20Z",
+    "summary": "Für das Heimspiel des SC Verl gegen Rot-Weiss Essen am Samstag, 21. November 2026, um 14 Uhr gibt es laut Vereinsankündigung keinen freien Vorverkauf. Wer einen Besuch plant, sollte deshalb die Kaufberechtigung prüfen.",
     "kind": "Eigene Zusammenfassung"
   },
   {
@@ -240,22 +304,6 @@
     "kind": "Eigene Zusammenfassung"
   },
   {
-    "id": "uebersicht-ueber-aktuelle-baustellen-im-stadtgebiet",
-    "title": "Baustellen: Wachtelweg gesperrt, weitere Arbeiten laufen",
-    "category": "Verkehr",
-    "paragraphs": [
-      "Am Wachtelweg ist seit dem 12. November der Abschnitt zwischen Gütersloher Straße und Bahnstrecke für den Anschluss an das Fernwärmenetz gesperrt. Betroffen ist der Bereich der Hausnummern 2 bis 10. Zu Fuß bleibt ein Durchgang offen. Die Stadt rechnet mit Arbeiten bis Ende Februar oder Anfang März 2027.",
-      "An der Marienstraße wird die Trinkwasserleitung abschnittsweise erneuert. Die Baustelle reicht inzwischen bis in die Nähe des Alten Postwegs. Für die Öffnungszeiten der Gartenabfallannahme soll die Zufahrt ermöglicht werden.",
-      "Auch am Hermannsweg, am Westfalenweg und im Bereich Haferkamp laufen Straßenbauarbeiten. Die Gesamtmaßnahmen sind laut Übersicht bis Ende 2026 vorgesehen. Weil sich Bauabschnitte ändern können, führt der Quellenlink zur laufend gepflegten städtischen Übersicht. Bereits beendete Kurzzeitsperrungen sind hier nicht als aktuell aufgeführt."
-    ],
-    "summary": "Am Wachtelweg ist seit dem 12. November der Abschnitt zwischen Gütersloher Straße und Bahnstrecke für den Anschluss an das Fernwärmenetz gesperrt. Betroffen ist der Bereich der Hausnummern 2 bis 10. Zu Fuß bleibt ein Durchgang offen. Die Stadt rechnet mit Arbeiten bis Ende Februar oder Anfang März 2027.",
-    "publishedAt": "2026-11-02",
-    "checkedAt": "2026-11-14T06:16:21.117Z",
-    "source": "Stadt Verl",
-    "sourceURL": "https://www.verl.de/aktuelles/uebersicht-ueber-aktuelle-baustellen-im-stadtgebiet.html",
-    "kind": "Eigene Zusammenfassung"
-  },
-  {
     "id": "18-november-sprechstunde-der-awo-wohnberatung-im-rathaus",
     "title": "Kostenlose Wohnberatung am 18. November im Rathaus",
     "category": "Stadtleben",
@@ -269,22 +317,6 @@
     "checkedAt": "2026-11-14T06:16:21.046Z",
     "source": "Stadt Verl",
     "sourceURL": "https://www.verl.de/aktuelles/18-november-sprechstunde-der-awo-wohnberatung-im-rathaus.html",
-    "kind": "Eigene Zusammenfassung"
-  },
-  {
-    "id": "sportlerehrung-vorschlaege-fuer-2026-noch-bis-jahresende-moeglich",
-    "title": "Sportlerehrung: Vorschläge noch bis Jahresende möglich",
-    "category": "Sport",
-    "paragraphs": [
-      "Für die nächste Verler Sportlerehrung können bis zum 31. Dezember Vorschläge für besondere Leistungen aus dem Jahr 2026 eingereicht werden. Die Auszeichnung findet 2027 statt und berücksichtigt rückblickend die Jahre 2025 und 2026.",
-      "Neben Erfolgen bei großen Wettbewerben kommen nach den städtischen Richtlinien unter anderem Rekorde, bestimmte Platzierungen, wiederholt abgelegte Sportabzeichen und besonderes ehrenamtliches Engagement infrage. Die Ehrung wird im Zweijahresrhythmus veranstaltet.",
-      "Vorschläge sollen an die Stadt Verl, Der Bürgermeister, Paderborner Straße 5, 33415 Verl, gerichtet werden. Der Stadtsportverband und der zuständige Ausschuss beraten über die Anträge. Welche Voraussetzungen im Einzelnen gelten, steht in den über die städtische Mitteilung erreichbaren Richtlinien."
-    ],
-    "summary": "Für die nächste Verler Sportlerehrung können bis zum 31. Dezember Vorschläge für besondere Leistungen aus dem Jahr 2026 eingereicht werden. Die Auszeichnung findet 2027 statt und berücksichtigt rückblickend die Jahre 2025 und 2026.",
-    "publishedAt": "2026-10-19",
-    "checkedAt": "2026-11-14T06:16:21.208Z",
-    "source": "Stadt Verl",
-    "sourceURL": "https://www.verl.de/aktuelles/sportlerehrung-vorschlaege-fuer-2026-noch-bis-jahresende-moeglich.html",
     "kind": "Eigene Zusammenfassung"
   },
   {
@@ -304,19 +336,51 @@
     "kind": "Eigene Zusammenfassung"
   },
   {
-    "id": "www-sportclub-verl-de-intensives-testspiel-beim-vfl-bochum",
-    "title": "SC Verl verliert Test in Bochum mit 1:4",
+    "id": "uebersicht-ueber-aktuelle-baustellen-im-stadtgebiet",
+    "title": "Baustellen: Wachtelweg gesperrt, weitere Arbeiten laufen",
+    "category": "Verkehr",
+    "paragraphs": [
+      "Am Wachtelweg ist seit dem 12. November der Abschnitt zwischen Gütersloher Straße und Bahnstrecke für den Anschluss an das Fernwärmenetz gesperrt. Betroffen ist der Bereich der Hausnummern 2 bis 10. Zu Fuß bleibt ein Durchgang offen. Die Stadt rechnet mit Arbeiten bis Ende Februar oder Anfang März 2027.",
+      "An der Marienstraße wird die Trinkwasserleitung abschnittsweise erneuert. Die Baustelle reicht inzwischen bis in die Nähe des Alten Postwegs. Für die Öffnungszeiten der Gartenabfallannahme soll die Zufahrt ermöglicht werden.",
+      "Auch am Hermannsweg, am Westfalenweg und im Bereich Haferkamp laufen Straßenbauarbeiten. Die Gesamtmaßnahmen sind laut Übersicht bis Ende 2026 vorgesehen. Weil sich Bauabschnitte ändern können, führt der Quellenlink zur laufend gepflegten städtischen Übersicht. Bereits beendete Kurzzeitsperrungen sind hier nicht als aktuell aufgeführt."
+    ],
+    "summary": "Am Wachtelweg ist seit dem 12. November der Abschnitt zwischen Gütersloher Straße und Bahnstrecke für den Anschluss an das Fernwärmenetz gesperrt. Betroffen ist der Bereich der Hausnummern 2 bis 10. Zu Fuß bleibt ein Durchgang offen. Die Stadt rechnet mit Arbeiten bis Ende Februar oder Anfang März 2027.",
+    "publishedAt": "2026-11-02",
+    "checkedAt": "2026-11-14T06:16:21.117Z",
+    "source": "Stadt Verl",
+    "sourceURL": "https://www.verl.de/aktuelles/uebersicht-ueber-aktuelle-baustellen-im-stadtgebiet.html",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
+    "id": "brummelweg-nord-planvarianten-vorlage-20261028",
+    "title": "Brummelweg-Nord: Zwei Planvarianten für die weitere Bebauung",
+    "category": "Rathaus",
+    "paragraphs": [
+      "Die Stadt Verl beschreibt in der öffentlichen Vorlage 342/2026 vom 28. Oktober 2026 zwei Entwicklungsrichtungen für den Bebauungsplan Nr. 97 „Brummelweg-Nord“. Das Gebiet liegt in Sürenheide nördlich des Kreuzungsbereichs mit Zollhausweg und Königsberger Straße.",
+      "Variante A orientiert sich stärker an den vorhandenen Einfamilien- und Doppelhäusern und sieht eine zurückhaltende Verdichtung mit maßvollen Erweiterungen vor. Variante B ermöglicht größere überbaubare Flächen und mehr Spielraum bei der Zahl der Wohnungen.",
+      "Die Vorlage war für die Ausschusssitzung am 5. November vorgesehen. Sie ist eine Beratungsgrundlage und bestätigt für sich allein weder das Abstimmungsergebnis noch einen fertigen Bebauungsplan. Erschließung, Gebäudehöhen und Gestaltung sollen im weiteren Verfahren konkretisiert werden. Ein aktueller Verkehrsbeschluss wird durch diese Quelle nicht belegt."
+    ],
+    "summary": "Die öffentliche Verwaltungsvorlage stellt eine zurückhaltende und eine dichtere Bebauung gegenüber. Sie betrifft den Brummelweg nördlich von Zollhausweg und Königsberger Straße in Sürenheide.",
+    "publishedAt": "2026-10-28",
+    "checkedAt": "2026-11-19T07:01:31.157Z",
+    "source": "Stadt Verl · Ratsunterlage 342/2026",
+    "sourceURL": "https://verl.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/download/UGhVM0hpd2NXNFdFcExjZawuBAXVBFNG2OimD2k7hvbMOTcEl7eC7XN2RUl2N0pG/Beschlussvorschlagsvorlage_342-2026.pdf",
+    "kind": "editorial"
+  },
+  {
+    "id": "sportlerehrung-vorschlaege-fuer-2026-noch-bis-jahresende-moeglich",
+    "title": "Sportlerehrung: Vorschläge noch bis Jahresende möglich",
     "category": "Sport",
     "paragraphs": [
-      "Der SC Verl hat die Länderspielpause für einen Test gegen den VfL Bochum genutzt. Beim Zweitligisten verlor der Sportclub am Freitag, 13. November, mit 1:4. Bereits zur Pause lag Verl nach drei Treffern von Mansour Ouro-Tagba mit 0:3 zurück.",
-      "Nach mehreren Wechseln steigerte sich die Verler Mannschaft in der zweiten Halbzeit. Alem Japaur verkürzte in der 67. Minute auf 1:3. Nur eine Minute später stellte Bochum durch einen Kopfball von Hofmann den vorherigen Abstand wieder her.",
-      "Nach Einschätzung des Vereins brachte die zweite Hälfte trotz der Niederlage mehr Spielkontrolle und mehrere gute Angriffsszenen. Die Erkenntnisse sollen in die Vorbereitung auf das nächste Heimspiel gegen Rot-Weiss Essen einfließen. Das Testspielergebnis verändert die Ligatabelle nicht."
+      "Für die nächste Verler Sportlerehrung können bis zum 31. Dezember Vorschläge für besondere Leistungen aus dem Jahr 2026 eingereicht werden. Die Auszeichnung findet 2027 statt und berücksichtigt rückblickend die Jahre 2025 und 2026.",
+      "Neben Erfolgen bei großen Wettbewerben kommen nach den städtischen Richtlinien unter anderem Rekorde, bestimmte Platzierungen, wiederholt abgelegte Sportabzeichen und besonderes ehrenamtliches Engagement infrage. Die Ehrung wird im Zweijahresrhythmus veranstaltet.",
+      "Vorschläge sollen an die Stadt Verl, Der Bürgermeister, Paderborner Straße 5, 33415 Verl, gerichtet werden. Der Stadtsportverband und der zuständige Ausschuss beraten über die Anträge. Welche Voraussetzungen im Einzelnen gelten, steht in den über die städtische Mitteilung erreichbaren Richtlinien."
     ],
-    "summary": "Der SC Verl hat die Länderspielpause für einen Test gegen den VfL Bochum genutzt. Beim Zweitligisten verlor der Sportclub am Freitag, 13. November, mit 1:4. Bereits zur Pause lag Verl nach drei Treffern von Mansour Ouro-Tagba mit 0:3 zurück.",
-    "publishedAt": "2026-11-13",
-    "checkedAt": "2026-11-14T06:33:42.597Z",
-    "source": "SC Verl",
-    "sourceURL": "https://www.sportclub-verl.de/spielbericht/116334/intensives-testspiel-beim-vfl-bochum",
+    "summary": "Für die nächste Verler Sportlerehrung können bis zum 31. Dezember Vorschläge für besondere Leistungen aus dem Jahr 2026 eingereicht werden. Die Auszeichnung findet 2027 statt und berücksichtigt rückblickend die Jahre 2025 und 2026.",
+    "publishedAt": "2026-10-19",
+    "checkedAt": "2026-11-14T06:16:21.208Z",
+    "source": "Stadt Verl",
+    "sourceURL": "https://www.verl.de/aktuelles/sportlerehrung-vorschlaege-fuer-2026-noch-bis-jahresende-moeglich.html",
     "kind": "Eigene Zusammenfassung"
   }
 ]
