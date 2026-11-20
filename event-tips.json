@@ -65,10 +65,10 @@
       "description": "Bei der ersten Ausgabe von „Verl singt“ werden in der Sportclub Arena gemeinsam Weihnachtslieder gesungen. Der SC Verl organisiert das Treffen mit der Bühlbuschschule, der Stadt und weiteren örtlichen Gruppen.",
       "audience": "Für Familien, Freundeskreise und Vereinsgruppen",
       "assessment": "Interessant für Familien, die gern gemeinsam singen oder Weihnachtsmusik hören. Gesangserfahrung ist laut Veranstaltungsbeschreibung nicht erforderlich.",
-      "caution": "Vorverkauf im offiziellen SC-Verl-Ticketshop. Preise und verbleibende Karten vor dem Besuch prüfen; die Quelle bestätigt keine aktuelle Restkartenverfügbarkeit.",
+      "caution": "Am 19. November waren alle Sitzplätze ausverkauft; Stehplatzkarten wurden noch angeboten. Die aktuelle Verfügbarkeit ist eine Momentaufnahme und muss im offiziellen Ticketshop geprüft werden. Ein Familienpass-Tarif ist nicht bestätigt.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verl-singt-weihnachtslieder-in-der-sportclub-arena-06-12-2026.html",
       "bookingURL": "https://www.sportclub-verl.de/ticketshop",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-20T07:06:38.754Z",
       "validUntil": "2026-12-06",
       "endTime": "19:00"
     },
@@ -180,6 +180,28 @@
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/spielzeugmarkt-27-12-2026.html",
       "checkedAt": "2026-11-19T06:31:56.087Z",
       "validUntil": "2026-12-27"
+    },
+    {
+      "id": "november-lichter-kaunitz-2026",
+      "title": "Basar „November-Lichter“ in Kaunitz",
+      "dates": [
+        {
+          "date": "2026-11-21",
+          "time": "18:00"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "11:00"
+        }
+      ],
+      "location": "Pfarrheim und Kirchplatz St. Marien Kaunitz, Fürst-Wenzel-Platz, Verl",
+      "description": "Der Basar beginnt am Samstag nach der Abendmesse mit dem „November-Glühen“ und wird am Sonntag fortgesetzt. Bestätigt sind unter anderem Handarbeiten, Dekorationen, Geschenkideen, Speisen und Getränke sowie eine Kindereisenbahn. Für Kinder werden außerdem Basteln und ein Erzähltheater angekündigt.",
+      "audience": "Für Familien und alle, die einen örtlichen vorweihnachtlichen Basar besuchen möchten",
+      "assessment": "Unsere Einschätzung: Besonders der Sonntag eignet sich für einen Familienbesuch, weil neben den Verkaufsständen Kinderangebote angekündigt sind. Wer nur kurz vorbeischauen möchte, sollte beachten, dass keine Endzeiten veröffentlicht wurden.",
+      "caution": "Die offizielle Seite nennt Beginnzeiten, aber keine Endzeiten und keine Eintrittspreise. Fehlende Preisangaben belegen keinen kostenlosen Eintritt; Kosten für Speisen, Getränke oder Waren sind nicht veröffentlicht.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/basar-november-lichter-in-kaunitz-21-11-2026.html",
+      "checkedAt": "2026-11-20T07:06:38.754Z",
+      "validUntil": "2026-11-22"
     }
   ]
 }

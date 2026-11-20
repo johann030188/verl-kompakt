@@ -150,8 +150,8 @@
     {
       "id": "verl-singt-weihnachtslieder-2026",
       "eventMatch": "Verl singt Weihnachtslieder",
-      "sourceURL": "https://www.sportclub-verl.de/weihnachtssingen",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "sourceURL": "https://www.sportclub-verl.de/artikel/116573/weihnachtslieder-aus-mehr-als-3000-kehlen",
+      "checkedAt": "2026-11-20T07:06:38.754Z",
       "free": false,
       "regular": {
         "adultEUR": 5,
@@ -170,11 +170,11 @@
         "familyEUR": null,
         "note": "Kein konkreter Familienpass-Tarif für dieses Weihnachtssingen bestätigt. Die allgemeinen Kulturförderregeln belegen für sich keinen buchbaren Rabatt dieses Veranstalters.",
         "sourceURL": "https://www.sportclub-verl.de/weihnachtssingen",
-        "checkedAt": "2026-11-19T06:31:56.087Z"
+        "checkedAt": "2026-11-20T07:06:38.754Z"
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
-      "note": "Der Tarif hängt von der Platzart ab. Altersgrenze für Kinder und mögliche Buchungsgebühren vor dem Kauf im offiziellen Ticketshop prüfen. Dessen konkrete Tarifauswahl war beim Abruf wegen einer JavaScript-Prüfung nicht lesbar. Keine Restkartenverfügbarkeit bestätigt.",
+      "note": "Sitzplatzkarten waren am 19. November ausverkauft. Stehplätze wurden zu 5 Euro für Erwachsene und 2 Euro für Kinder noch angeboten; die aktuelle Verfügbarkeit muss im offiziellen Ticketshop geprüft werden. Altersgrenze für Kinder, mögliche Buchungsgebühren und ein Familienpass-Tarif sind nicht bestätigt.",
       "validFrom": "2026-12-06",
       "validUntil": "2026-12-06",
       "variants": [
@@ -198,7 +198,7 @@
             "familyEUR": null,
             "note": "Kein konkreter Familienpass-Tarif für dieses Weihnachtssingen bestätigt. Die allgemeinen Kulturförderregeln belegen für sich keinen buchbaren Rabatt dieses Veranstalters.",
             "sourceURL": "https://www.sportclub-verl.de/weihnachtssingen",
-            "checkedAt": "2026-11-19T06:31:56.087Z"
+            "checkedAt": "2026-11-20T07:06:38.754Z"
           }
         },
         {
@@ -221,7 +221,7 @@
             "familyEUR": null,
             "note": "Kein konkreter Familienpass-Tarif für dieses Weihnachtssingen bestätigt. Die allgemeinen Kulturförderregeln belegen für sich keinen buchbaren Rabatt dieses Veranstalters.",
             "sourceURL": "https://www.sportclub-verl.de/weihnachtssingen",
-            "checkedAt": "2026-11-19T06:31:56.087Z"
+            "checkedAt": "2026-11-20T07:06:38.754Z"
           }
         }
       ],
@@ -432,6 +432,37 @@
       "note": "Keine bestätigten Buchungsgebühren oder Platzverfügbarkeiten; Standgebühren nicht mit Besuchereintritt verwechseln.",
       "validFrom": "2026-12-06",
       "validUntil": "2026-12-06"
+    },
+    {
+      "id": "november-lichter-kaunitz-2026",
+      "eventMatch": "Basar \"November-Lichter\" in Kaunitz",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/basar-november-lichter-in-kaunitz-21-11-2026.html",
+      "checkedAt": "2026-11-20T07:06:38.754Z",
+      "free": null,
+      "regular": {
+        "adultEUR": null,
+        "childEUR": null,
+        "childAgeMin": null,
+        "childAgeMax": null,
+        "familyEUR": null,
+        "familyAdults": null,
+        "familyChildren": null,
+        "note": "Die offizielle Veranstaltungsseite nennt keine Eintrittspreise. Daraus lässt sich kein kostenloser Eintritt ableiten."
+      },
+      "familyPass": {
+        "status": "not-confirmed",
+        "adultEUR": null,
+        "childEUR": null,
+        "familyEUR": null,
+        "note": "Ein konkreter Familienpass-Tarif für den Basar ist nicht bestätigt.",
+        "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/basar-november-lichter-in-kaunitz-21-11-2026.html",
+        "checkedAt": "2026-11-20T07:06:38.754Z"
+      },
+      "bookingFeeEUR": null,
+      "bookingFeeStatus": "unknown",
+      "note": "Keine Eintrittspreise, Buchungsgebühren oder Familienpass-Ermäßigung veröffentlicht. Speisen, Getränke und Waren werden angeboten; deren Preise sind nicht genannt.",
+      "validFrom": "2026-11-21",
+      "validUntil": "2026-11-22"
     }
   ],
   "familyPassInfo": {
