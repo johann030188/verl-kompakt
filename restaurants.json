@@ -72,7 +72,7 @@
         "Die aktuelle Restaurantwebsite nennt täglich 18:00–22:00 Uhr. Der städtische Eintrag enthält für Sonntag eine abweichende Anfangszeit.",
         "Eine Reservierungsanfrage wird erst nach Bestätigung des Restaurants verbindlich."
       ],
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-21T06:49:55.950Z",
       "status": "ok"
     },
     {
@@ -162,7 +162,7 @@
         "Für Montag fehlt auf der aktuellen Restaurantwebsite eine eindeutige Zeitangabe.",
         "Die Restaurantwebsite und das städtische Verzeichnis nennen unterschiedliche Zeiten. Hier stehen die Angaben der Restaurantwebsite."
       ],
-      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "checkedAt": "2026-11-21T06:49:55.950Z",
       "status": "ok"
     },
     {
@@ -231,7 +231,7 @@
         "Maßgeblich ist hier der Wochenplan der Startseite. Die Speisekartenseite enthält davon abweichende allgemeine Öffnungsangaben.",
         "Separate Küchen- oder Lieferzeiten sind nicht bestätigt."
       ],
-      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "checkedAt": "2026-11-21T06:49:55.950Z",
       "status": "ok"
     },
     {
@@ -348,7 +348,7 @@
         "Die bestätigten Zeiten betreffen Lieferung und Abholung. Eine davon getrennte Restaurantöffnungszeit ist nicht veröffentlicht.",
         "Die auf der Bestellseite sichtbare Rabattaktion mit Ende 31.08.2026 ist abgelaufen und wird hier nicht als gültiges Angebot übernommen."
       ],
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-21T06:49:55.950Z",
       "status": "ok"
     },
     {
@@ -389,7 +389,7 @@
         "Auf der Speisekartenseite steht zusätzlich eine abweichende Angabe ab Dienstag. Den Dienstagsbetrieb deshalb vor dem Besuch direkt prüfen.",
         "Reservierungsanfragen sind erst nach Bestätigung verbindlich. Für denselben Tag bittet das Restaurant um telefonische Reservierung."
       ],
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-21T06:49:55.950Z",
       "status": "ok"
     },
     {
@@ -430,7 +430,7 @@
         "Die Website verlinkt derzeit die Speisekarte mit der Bezeichnung Oktober 2026. Preise und aktuelle Gerichte vor der Bestellung im Original prüfen.",
         "Veranstaltungen und Catering außerhalb der regulären Zeiten sind nur nach Vereinbarung angekündigt."
       ],
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-21T06:49:55.950Z",
       "status": "ok"
     },
     {
@@ -471,9 +471,9 @@
         "Die Website zeigt eine Auswahl von Gerichten; eine vollständige verbindliche Tageskarte ist damit nicht bestätigt.",
         "Reservierungen werden laut Website ausschließlich telefonisch angenommen."
       ],
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-21T06:49:55.950Z",
       "status": "ok"
     }
   ],
-  "checkedAt": "2026-11-17T08:12:06.646Z"
+  "checkedAt": "2026-11-21T06:49:55.950Z"
 }

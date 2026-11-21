@@ -463,6 +463,44 @@
       "note": "Keine Eintrittspreise, Buchungsgebühren oder Familienpass-Ermäßigung veröffentlicht. Speisen, Getränke und Waren werden angeboten; deren Preise sind nicht genannt.",
       "validFrom": "2026-11-21",
       "validUntil": "2026-11-22"
+    },
+    {
+      "id": "familienkino-schule-magischen-tiere-4-2027",
+      "eventMatch": "Verler Familienkino: Die Schule der magischen Tiere 4",
+      "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
+      "checkedAt": "2026-11-21T06:49:55.950Z",
+      "free": true,
+      "regular": {
+        "adultEUR": 0,
+        "childEUR": 0,
+        "childAgeMin": null,
+        "childAgeMax": null,
+        "familyEUR": null,
+        "familyAdults": null,
+        "familyChildren": null,
+        "note": "Die Stadt bestätigt freien Eintritt für das Familienkino. Kein kostenpflichtiger Kindertarif und keine Familienkarte erforderlich."
+      },
+      "familyPass": {
+        "status": "confirmed",
+        "adultEUR": 0,
+        "childEUR": 0,
+        "familyEUR": null,
+        "note": "Der Eintritt ist bereits allgemein kostenlos. Ein Familienpass ist dafür nicht erforderlich; dies ist kein zusätzlicher Rabatt.",
+        "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
+        "checkedAt": "2026-11-21T06:49:55.950Z"
+      },
+      "bookingFeeEUR": null,
+      "bookingFeeStatus": "unknown",
+      "note": "Die Stadt bestätigt freien Eintritt am 14. März 2027 im Dorfgemeinschaftshaus Sende. Der Ankündigung sind weder ein genauer Beginn noch eine Altersfreigabe oder Buchungsgebühren zu entnehmen.",
+      "validFrom": "2027-03-14",
+      "validUntil": "2027-03-14",
+      "matchAllTokens": [
+        "familienkino",
+        "schule",
+        "magischen",
+        "tiere",
+        "4"
+      ]
     }
   ],
   "familyPassInfo": {

@@ -202,6 +202,47 @@
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/basar-november-lichter-in-kaunitz-21-11-2026.html",
       "checkedAt": "2026-11-20T07:06:38.754Z",
       "validUntil": "2026-11-22"
+    },
+    {
+      "id": "bornholter-advent-2026",
+      "title": "Bornholter Advent",
+      "dates": [
+        {
+          "date": "2026-11-27",
+          "time": "17:00"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "15:00"
+        }
+      ],
+      "location": "Hühnerstall Bornholte, Schmiedestrang 168, Verl",
+      "description": "Der Bürgerverein Bornholte-Bahnhof und der Bürgerschützenverein Verl-Bornholte-Sende veranstalten einen zweitägigen Adventsmarkt am Hühnerstall. Für Samstag sind Kinderkarussell, Kinderschminken und gegen 17.30 Uhr ein Besuch des Weihnachtsmanns angekündigt.",
+      "audience": "Für Familien und Besucherinnen und Besucher eines örtlichen Adventsmarkts",
+      "assessment": "Unsere Einschätzung: Der Samstag bietet sich für einen Besuch mit Kindern an, weil mehrere Kinderaktionen angekündigt sind.",
+      "caution": "Im städtischen Kalender stehen Beginnzeiten. Schlusszeiten und Eintrittspreise sind dort nicht angegeben.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/bornholter-advent-27-11-2026.html",
+      "validUntil": "2026-11-28",
+      "checkedAt": "2026-11-21T06:49:55.950Z"
+    },
+    {
+      "id": "weihnachtsmarkt-suerenheide-2026",
+      "title": "Weihnachtsmarkt in Sürenheide",
+      "dates": [
+        {
+          "date": "2026-11-28",
+          "time": "15:00",
+          "endTime": "23:00"
+        }
+      ],
+      "location": "Bürgertreff Sürenheide, Posener Straße 2, Verl",
+      "description": "Die Dorfgemeinschaft veranstaltet den Weihnachtsmarkt am Bürgertreff. Angekündigt sind der Chor der St. Georg-Grundschule, ein Jugendorchester, der Nikolaus und eine Verlosung der Feuerwehr.",
+      "audience": "Für Familien und alle, die auf dem Weihnachtsmarkt Musik aus dem Ort hören möchten",
+      "assessment": "Unsere Einschätzung: Ein passender Familienausflug für alle, die sich für den Schulchor oder den Nikolausbesuch interessieren.",
+      "caution": "Die Stadt nennt die Öffnungszeit des Markts. Uhrzeiten für die einzelnen Programmpunkte und Eintrittspreise sind nicht angegeben.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/weihnachtsmarkt-in-suerenheide-28-11-2026.html",
+      "validUntil": "2026-11-28",
+      "checkedAt": "2026-11-21T06:49:55.950Z"
     }
   ]
 }
