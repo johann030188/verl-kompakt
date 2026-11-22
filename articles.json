@@ -1,5 +1,20 @@
 [
   {
+    "id": "telekom-mobilfunk-surenheide-20261120",
+    "title": "Telekom-Arbeiten können den Mobilfunk in Sürenheide stören",
+    "category": "Stadtleben",
+    "summary": "Die Telekom arbeitet vom 23. bis 27. November 2026 an einem Mobilfunkstandort in Sürenheide. Die Stadt Verl weist auf mögliche Einschränkungen hin.",
+    "paragraphs": [
+      "Wie die Stadt Verl am 20. November mitteilte, arbeitet die Deutsche Telekom von Montag, 23. November, bis Freitag, 27. November 2026, an ihrem Mobilfunkstandort an der Sürenheider Straße 312.",
+      "Mobiltelefone ohne WLAN-Verbindung können in diesem Zeitraum zeitweise Einschränkungen im Mobilfunk haben. Konkrete Uhrzeiten nennt die Stadt in ihrer Mitteilung nicht."
+    ],
+    "publishedAt": "2026-11-20",
+    "checkedAt": "2026-11-22T02:00:14.965Z",
+    "source": "Stadt Verl",
+    "sourceURL": "https://www.verl.de/aktuelles/arbeiten-an-mobilfunkstandort-der-telekom.html",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
     "id": "restmuellgebuehren-2027-ratsvorlage-364-2026",
     "title": "Verler Restmüllgebühren sollen 2027 steigen",
     "category": "Rathaus",
