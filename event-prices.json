@@ -1,13 +1,44 @@
 {
   "items": [
     {
+      "id": "gesundheitsforum-handnerven-2026-11-25",
+      "eventMatch": "Karpaltunnelsyndrom und Co.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/karpaltunnelsyndrom-und-co-25-11-2026.html",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
+      "free": true,
+      "regular": {
+        "adultEUR": 0,
+        "childEUR": 0,
+        "childAgeMin": null,
+        "childAgeMax": null,
+        "familyEUR": null,
+        "familyAdults": null,
+        "familyChildren": null,
+        "note": "Der Eintritt zum Vortrag ist laut Stadt Verl frei."
+      },
+      "familyPass": {
+        "status": "not-applicable",
+        "adultEUR": null,
+        "childEUR": null,
+        "familyEUR": null,
+        "note": "Der Vortrag ist allgemein kostenlos. Dafür ist kein Familienpass erforderlich.",
+        "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/karpaltunnelsyndrom-und-co-25-11-2026.html",
+        "checkedAt": "2026-11-22T06:04:26.277Z"
+      },
+      "bookingFeeEUR": null,
+      "bookingFeeStatus": "unknown",
+      "note": "Die Veranstalter bitten um Anmeldung. Die aktuelle Platzverfügbarkeit ist nicht bestätigt.",
+      "validFrom": "2026-11-25",
+      "validUntil": "2026-11-25"
+    },
+    {
       "id": "forum-demokratie-brecht-november-2026",
       "eventMatch": [
         "\"Furcht und Elend des Dritten Reiches\"",
         "Brecht-Theater in Haus Verl Nr. 8"
       ],
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/furcht-und-elend-des-dritten-reiches-19-11-2026.html",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "free": false,
       "regular": {
         "adultEUR": 10,
@@ -120,7 +151,7 @@
       "id": "verler-adventsmarkt-2026",
       "eventMatch": "Verler Adventsmarkt",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verler-adventsmarkt-04-12-2026.html",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "free": null,
       "regular": {
         "adultEUR": null,
@@ -143,7 +174,7 @@
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
-      "note": "Preise nicht veröffentlicht. Keine Gebührenfreiheit aus dem Marktcharakter oder der Gemeinnützigkeit ableiten.",
+      "note": "Die Stadt veröffentlicht keine Eintrittspreise. Laut SC Verl gibt es für Personen mit einer Eintrittskarte für das Weihnachtssingen am 6. Dezember vor dem Singen 1 Euro Rabatt an einem Stand nach Wahl.",
       "validFrom": "2026-12-04",
       "validUntil": "2026-12-06"
     },
@@ -151,7 +182,7 @@
       "id": "verl-singt-weihnachtslieder-2026",
       "eventMatch": "Verl singt Weihnachtslieder",
       "sourceURL": "https://www.sportclub-verl.de/artikel/116573/weihnachtslieder-aus-mehr-als-3000-kehlen",
-      "checkedAt": "2026-11-20T07:06:38.754Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "free": false,
       "regular": {
         "adultEUR": 5,
@@ -233,7 +264,7 @@
       "id": "hallenbad-wasserparcours-2026",
       "eventMatch": "Spielenachmittag im Hallenbad",
       "sourceURL": "https://www.verl.de/freizeit-kultur/sport/hallenbad.html",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "free": false,
       "regular": {
         "adultEUR": 4,
@@ -264,7 +295,7 @@
       "id": "droste-ferien-anmeldestart-2027",
       "eventMatch": "Droste-Haus: Buchungsstart für Ferienangebote 2027 angekündigt",
       "sourceURL": "https://www.droste-haus.de/de/fuer-jugendliche/ferienangebote/index.php",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "free": null,
       "regular": {
         "adultEUR": null,
@@ -295,7 +326,7 @@
       "id": "familienkino-rabe-socke-2027",
       "eventMatch": "Verler Familienkino mit Rabe Socke",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -331,7 +362,7 @@
       "id": "familienkino-checker-tobi-2027",
       "eventMatch": "Verler Familienkino mit Checker Tobi",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -367,7 +398,7 @@
       "id": "familienkino-bibi-blocksberg-2027",
       "eventMatch": "Verler Familienkino mit Bibi Blocksberg",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-18T06:50:18.764Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -406,7 +437,7 @@
         "Flohmarkt in und an der Schützenhalle"
       ],
       "sourceURL": "https://www.marktcom.de/veranstaltung/verler-schuetzenhalle-drinnen-und-draussen-33415-verl?term_id=1172064",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -437,7 +468,7 @@
       "id": "november-lichter-kaunitz-2026",
       "eventMatch": "Basar \"November-Lichter\" in Kaunitz",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/basar-november-lichter-in-kaunitz-21-11-2026.html",
-      "checkedAt": "2026-11-20T07:06:38.754Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "free": null,
       "regular": {
         "adultEUR": null,
@@ -468,7 +499,7 @@
       "id": "familienkino-schule-magischen-tiere-4-2027",
       "eventMatch": "Verler Familienkino: Die Schule der magischen Tiere 4",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-21T06:49:55.950Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "free": true,
       "regular": {
         "adultEUR": 0,

@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "englisches-vorlesen-bibliothek-nov-dez-2026",
+      "title": "Englische Geschichten für Grundschulkinder",
+      "dates": [
+        {
+          "date": "2026-11-26",
+          "time": "16:00",
+          "endTime": "16:45"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "16:00",
+          "endTime": "16:45"
+        }
+      ],
+      "location": "Bibliothek Verl, Hauptstraße 15, Verl",
+      "description": "Die Verler Bibliothek liest Grundschulkindern leicht verständliche Geschichten auf Englisch vor. Die Stadt bestätigt zwei Termine im November und Dezember.",
+      "audience": "Für Grundschulkinder",
+      "assessment": "Unsere Einschätzung: Ein guter Einstieg für Kinder, die Englisch beim Zuhören kennenlernen möchten.",
+      "caution": "Der städtische Kalendereintrag nennt keine Teilnahmegebühr, Anmeldepflicht oder verfügbaren Plätze.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/vorlesen-in-englischer-sprache-26-11-2026.html",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
+      "validUntil": "2026-12-17"
+    },
+    {
+      "id": "gesundheitsforum-handnerven-2026-11-25",
+      "title": "Gesundheitsforum über Nervenbeschwerden an der Hand",
+      "eventTitle": "Karpaltunnelsyndrom und Co.",
+      "date": "2026-11-25",
+      "time": "19:00",
+      "endTime": "20:30",
+      "location": "Mensa im Verler Schulzentrum",
+      "description": "Ein Handchirurg des Klinikums Gütersloh spricht über das Karpaltunnelsyndrom und andere Engstellen an Nerven der Hand und des Arms. Der Vortrag in der Mensa ist kostenlos.",
+      "audience": "Für alle, die sich über Beschwerden der Hand und Behandlungsmöglichkeiten informieren möchten",
+      "assessment": "Unsere Einschätzung: Geeignet, um sich einen Überblick über das Thema zu verschaffen.",
+      "caution": "Die Veranstalter bitten um Anmeldung. Die aktuelle Platzverfügbarkeit ist nicht bestätigt.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/karpaltunnelsyndrom-und-co-25-11-2026.html",
+      "bookingURL": "https://www.vhs-vhs.de/vortraege/kw/vortraege-exkursionen/karpaltunnelsyndrom-und-co-was-tun-wenn-die-nerven-der-hand-schmerzen/26-31007H/",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
+      "validUntil": "2026-11-25"
+    },
+    {
       "id": "forum-demokratie-brecht-november-2026",
       "title": "Brecht-Theater in Haus Verl Nr. 8",
       "dates": [
@@ -23,7 +64,7 @@
       "assessment": "Unsere Einschätzung: Ein nachdenklicher Theaterabend zur Auseinandersetzung mit der NS-Zeit. Wegen des Themas aus unserer Sicht kein typischer Ausflug für jüngere Kinder.",
       "caution": "Die Premiere am 19. November ist laut Stadt ausverkauft. Für den 21. und 22. November nennt die Ankündigung Restkarten; eine aktuelle Platzverfügbarkeit ist damit nicht garantiert. Keine Altersfreigabe oder Familienpass-Ermäßigung bestätigt.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/furcht-und-elend-des-dritten-reiches-19-11-2026.html",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "validUntil": "2026-11-22"
     },
     {
@@ -50,11 +91,12 @@
       "description": "Verler Vereine gestalten den Adventsmarkt rund um die St.-Anna-Kirche mit Essen, Getränken und Geschenkideen. Die Erlöse unterstützen die teilnehmenden Vereine.",
       "audience": "Für Familien und Erwachsene",
       "assessment": "Lohnt sich für einen gemeinsamen Adventsbummel und zum Unterstützen örtlicher Vereine. Wer ein festes Kinderprogramm sucht, sollte vorher das aktuelle Programm prüfen.",
-      "caution": "Konkrete Kinderaktionen und Eintrittspreise sind in der Stadtankündigung nicht ausgewiesen. Essen, Getränke und Waren werden an den Vereinsständen angeboten.",
+      "caution": "Die Stadt nennt keine Eintrittspreise. Laut SC Verl bekommen Personen mit einer Eintrittskarte für das Weihnachtssingen am 6. Dezember vor dem Singen 1 Euro Rabatt an einem Stand ihrer Wahl.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verler-adventsmarkt-04-12-2026.html",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "validUntil": "2026-12-06",
-      "priority": 10
+      "priority": 10,
+      "additionalSourceURL": "https://www.sportclub-verl.de/weihnachtssingen"
     },
     {
       "id": "verl-singt-weihnachtslieder-2026",
@@ -68,7 +110,7 @@
       "caution": "Am 19. November waren alle Sitzplätze ausverkauft; Stehplatzkarten wurden noch angeboten. Die aktuelle Verfügbarkeit ist eine Momentaufnahme und muss im offiziellen Ticketshop geprüft werden. Ein Familienpass-Tarif ist nicht bestätigt.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verl-singt-weihnachtslieder-in-der-sportclub-arena-06-12-2026.html",
       "bookingURL": "https://www.sportclub-verl.de/ticketshop",
-      "checkedAt": "2026-11-20T07:06:38.754Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "validUntil": "2026-12-06",
       "endTime": "19:00"
     },
@@ -99,7 +141,7 @@
       "caution": "Die Stadt weist darauf hin, dass Kinder für den Parcours sicher schwimmen können sollten. Reguläres Schwimmen ist währenddessen eingeschränkt. Eine feste Altersuntergrenze oder gesonderte Teilnahmegebühr nennt die aktuelle Stadtmitteilung nicht.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/spielenachmittag-im-hallenbad-21-11-2026.html",
       "additionalSourceURL": "https://www.verl.de/aktuelles/wasserparcours-laedt-zum-klettern-und-balancieren-ein.html",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "validUntil": "2026-12-19"
     },
     {
@@ -113,7 +155,7 @@
       "caution": "Keine Startuhrzeit oder aktuellen freien Plätze bestätigt. Die aktuelle Buchungsseite meldet eine gestörte Onlineanmeldung und nennt Anmeldung per Telefon oder E-Mail. Konkrete Kurstermine und Gebühren für 2027 daraus nicht ableiten.",
       "sourceURL": "https://www.droste-haus.de/de/fuer-jugendliche/ferienangebote/index.php",
       "bookingURL": "https://www.droste-haus.de/de/angebote-buchen/",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "validUntil": "2026-12-01"
     },
     {
@@ -134,7 +176,7 @@
       "assessment": "Unsere Einschätzung: Interessant zum Stöbern; ein bestimmtes Kinderprogramm ist dadurch nicht bestätigt.",
       "caution": "Eintritt, Familienpass-Tarif und aktuelle Änderungen sind vor dem Besuch beim Veranstalter zu prüfen.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/antikmarkt-28-11-2026.html",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "validUntil": "2026-11-28"
     },
     {
@@ -156,7 +198,7 @@
       "assessment": "Unsere Einschätzung: Eine Möglichkeit zum Stöbern nach gebrauchten Dingen, auch bei unbeständigem Wetter dank der Hallenplätze.",
       "caution": "Der Veranstalter nennt freien Eintritt und kostenloses Parken für Besucher. Standplätze und deren Gebühren sind davon getrennt; Uhrzeiten vor dem Besuch prüfen.",
       "sourceURL": "https://www.marktcom.de/veranstaltung/verler-schuetzenhalle-drinnen-und-draussen-33415-verl?term_id=1172064",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "validUntil": "2026-12-06"
     },
     {
@@ -178,7 +220,7 @@
       "assessment": "Unsere Einschätzung: Interessant zum gezielten Suchen und Vergleichen. Ein Mitmachprogramm oder bestimmte Altersgrenzen sind nicht bestätigt.",
       "caution": "Eintritt, Familienpass-Tarif und aktuelle Änderungen sind vor dem Besuch beim Veranstalter zu prüfen.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/spielzeugmarkt-27-12-2026.html",
-      "checkedAt": "2026-11-19T06:31:56.087Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "validUntil": "2026-12-27"
     },
     {
@@ -200,7 +242,7 @@
       "assessment": "Unsere Einschätzung: Besonders der Sonntag eignet sich für einen Familienbesuch, weil neben den Verkaufsständen Kinderangebote angekündigt sind. Wer nur kurz vorbeischauen möchte, sollte beachten, dass keine Endzeiten veröffentlicht wurden.",
       "caution": "Die offizielle Seite nennt Beginnzeiten, aber keine Endzeiten und keine Eintrittspreise. Fehlende Preisangaben belegen keinen kostenlosen Eintritt; Kosten für Speisen, Getränke oder Waren sind nicht veröffentlicht.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/basar-november-lichter-in-kaunitz-21-11-2026.html",
-      "checkedAt": "2026-11-20T07:06:38.754Z",
+      "checkedAt": "2026-11-22T06:04:26.277Z",
       "validUntil": "2026-11-22"
     },
     {
@@ -223,7 +265,7 @@
       "caution": "Im städtischen Kalender stehen Beginnzeiten. Schlusszeiten und Eintrittspreise sind dort nicht angegeben.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/bornholter-advent-27-11-2026.html",
       "validUntil": "2026-11-28",
-      "checkedAt": "2026-11-21T06:49:55.950Z"
+      "checkedAt": "2026-11-22T06:04:26.277Z"
     },
     {
       "id": "weihnachtsmarkt-suerenheide-2026",
@@ -242,7 +284,7 @@
       "caution": "Die Stadt nennt die Öffnungszeit des Markts. Uhrzeiten für die einzelnen Programmpunkte und Eintrittspreise sind nicht angegeben.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/weihnachtsmarkt-in-suerenheide-28-11-2026.html",
       "validUntil": "2026-11-28",
-      "checkedAt": "2026-11-21T06:49:55.950Z"
+      "checkedAt": "2026-11-22T06:04:26.277Z"
     }
   ]
 }
