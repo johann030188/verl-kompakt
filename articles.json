@@ -1,5 +1,35 @@
 [
   {
+    "id": "einbruch-chromstrasse-verl-20261123",
+    "title": "Messingteile bei Einbruch an der Chromstraße in Verl gestohlen",
+    "category": "Stadtleben",
+    "paragraphs": [
+      "Nach Angaben der Polizei schlugen Unbekannte eine Scheibe am Betrieb an der Chromstraße ein und stahlen Messingteile. Der Einbruch ereignete sich zwischen Freitag, 20. November, 13:15 Uhr, und Montag, 23. November, 07:00 Uhr.",
+      "Die Polizei veröffentlichte am 23. November einen Zeugenaufruf. Sie bittet Menschen, die in diesem Zeitraum etwas Verdächtiges in der Nähe bemerkt haben, sich zu melden."
+    ],
+    "summary": "Unbekannte brachen zwischen dem 20. und 23. November 2026 in einen Betrieb in Verl ein. Die Polizei Gütersloh bittet um Hinweise.",
+    "publishedAt": "2026-11-23",
+    "checkedAt": "2026-11-23T17:03:58.562Z",
+    "source": "Polizei Gütersloh · Presseportal",
+    "sourceURL": "https://www.presseportal.de/blaulicht/pm/23127/6396422",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
+    "id": "sc-verl-noah-koenig-ausfall-20261123",
+    "title": "SC Verl muss vorerst auf Noah König verzichten",
+    "category": "Sport",
+    "paragraphs": [
+      "Der SC Verl teilte am 23. November 2026 mit, dass Noah König nach einer Verletzung im Spiel gegen Rot-Weiss Essen vorerst ausfällt. Der Innenverteidiger zog sich die Verletzung am Samstag, 21. November, in einem Zweikampf zu.",
+      "Laut Verein bestätigte eine MRT-Untersuchung Risse an zwei Außenbändern des rechten Sprunggelenks. Wie lange König fehlen wird, teilte der SC Verl nicht mit."
+    ],
+    "summary": "Der Innenverteidiger verletzte sich beim Heimspiel gegen Rot-Weiss Essen am rechten Sprunggelenk. Der Verein nennt keinen Rückkehrtermin.",
+    "publishedAt": "2026-11-23",
+    "checkedAt": "2026-11-23T17:03:58.562Z",
+    "source": "Sportclub Verl",
+    "sourceURL": "https://www.sportclub-verl.de/artikel/116814/verletzungsupdate",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
     "id": "sc-verl-vorverkauf-ingolstadt-havelse-20261123",
     "title": "SC Verl nennt Vorverkaufstermine für Ingolstadt und Havelse",
     "category": "Sport",
