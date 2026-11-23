@@ -82,9 +82,9 @@
       "notes": [
         "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
       ],
-      "checkedAt": "2026-11-23T23:02:58.019Z",
+      "checkedAt": "2026-11-23T23:04:50.255Z",
       "status": "ok",
-      "attemptedAt": "2026-11-23T23:02:58.019Z"
+      "attemptedAt": "2026-11-23T23:04:50.255Z"
     },
     {
       "id": "lidl-verl-westring",
@@ -137,7 +137,7 @@
       ],
       "checkedAt": "2026-11-22T18:00:18.668Z",
       "status": "error",
-      "attemptedAt": "2026-11-23T23:02:57.665Z",
+      "attemptedAt": "2026-11-23T23:04:49.320Z",
       "error": "fetch failed"
     },
     {
@@ -189,9 +189,9 @@
       "notes": [
         "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
       ],
-      "checkedAt": "2026-11-23T23:02:57.724Z",
+      "checkedAt": "2026-11-23T23:04:49.556Z",
       "status": "ok",
-      "attemptedAt": "2026-11-23T23:02:57.724Z"
+      "attemptedAt": "2026-11-23T23:04:49.556Z"
     },
     {
       "id": "rossmann-verl-westfalenweg",
@@ -256,9 +256,9 @@
       "notes": [
         "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
       ],
-      "checkedAt": "2026-11-23T23:02:57.821Z",
+      "checkedAt": "2026-11-23T23:04:49.734Z",
       "status": "ok",
-      "attemptedAt": "2026-11-23T23:02:57.821Z"
+      "attemptedAt": "2026-11-23T23:04:49.734Z"
     },
     {
       "id": "edeka-niederschulte-verl",
@@ -354,9 +354,9 @@
       "notes": [
         "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
       ],
-      "checkedAt": "2026-11-23T23:02:57.891Z",
+      "checkedAt": "2026-11-23T23:04:49.988Z",
       "status": "ok",
-      "attemptedAt": "2026-11-23T23:02:57.891Z"
+      "attemptedAt": "2026-11-23T23:04:49.988Z"
     },
     {
       "id": "wertstoffhof-verl",
@@ -384,7 +384,7 @@
       ],
       "checkedAt": "2026-11-23T22:01:42.192Z",
       "status": "error",
-      "attemptedAt": "2026-11-23T23:03:17.026Z",
+      "attemptedAt": "2026-11-23T23:05:09.004Z",
       "error": "The operation was aborted due to timeout"
     },
     {
@@ -450,7 +450,7 @@
       ],
       "checkedAt": "2026-11-23T22:01:42.154Z",
       "status": "error",
-      "attemptedAt": "2026-11-23T23:03:17.028Z",
+      "attemptedAt": "2026-11-23T23:05:09.005Z",
       "extraSources": [
         {
           "kind": "specialHours",
@@ -621,9 +621,9 @@
       "notes": [
         "Open Library: Zugang ohne Personal nur mit freigeschaltetem Open-Library-Ausweis für Erwachsene. Die Zustimmung zu den Nutzungsbedingungen ist erforderlich."
       ],
-      "checkedAt": "2026-11-23T23:02:59.286Z",
+      "checkedAt": "2026-11-23T23:04:50.565Z",
       "status": "ok",
-      "attemptedAt": "2026-11-23T23:02:59.286Z",
+      "attemptedAt": "2026-11-23T23:04:50.565Z",
       "extraSources": [
         {
           "kind": "openLibrarySpecialHours",
@@ -642,9 +642,9 @@
           "notes": [
             "Am 25. November 2026 öffnet die Open Library wegen einer Schulveranstaltung erst um 12:30 Uhr. Der reguläre Mittwochsplan endet um 20:00 Uhr."
           ],
-          "checkedAt": "2026-11-23T23:03:00.450Z",
+          "checkedAt": "2026-11-23T23:04:51.305Z",
           "status": "ok",
-          "attemptedAt": "2026-11-23T23:03:00.450Z"
+          "attemptedAt": "2026-11-23T23:04:51.305Z"
         }
       ],
       "openLibrarySpecialHours": [
@@ -660,6 +660,6 @@
       ]
     }
   ],
-  "checkedAt": "2026-11-23T23:02:59.286Z",
-  "attemptedAt": "2026-11-23T23:03:17.029Z"
+  "checkedAt": "2026-11-23T23:04:50.565Z",
+  "attemptedAt": "2026-11-23T23:05:09.005Z"
 }
