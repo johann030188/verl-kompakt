@@ -82,9 +82,9 @@
       "notes": [
         "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
       ],
-      "checkedAt": "2026-11-23T17:05:55.577Z",
+      "checkedAt": "2026-11-23T17:59:21.192Z",
       "status": "ok",
-      "attemptedAt": "2026-11-23T17:05:55.577Z"
+      "attemptedAt": "2026-11-23T17:59:21.192Z"
     },
     {
       "id": "lidl-verl-westring",
@@ -137,7 +137,7 @@
       ],
       "checkedAt": "2026-11-22T18:00:18.668Z",
       "status": "error",
-      "attemptedAt": "2026-11-23T17:05:55.651Z",
+      "attemptedAt": "2026-11-23T17:59:21.484Z",
       "error": "fetch failed"
     },
     {
@@ -189,9 +189,9 @@
       "notes": [
         "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
       ],
-      "checkedAt": "2026-11-23T17:05:55.297Z",
+      "checkedAt": "2026-11-23T17:59:21.003Z",
       "status": "ok",
-      "attemptedAt": "2026-11-23T17:05:55.297Z"
+      "attemptedAt": "2026-11-23T17:59:21.003Z"
     },
     {
       "id": "rossmann-verl-westfalenweg",
@@ -256,9 +256,9 @@
       "notes": [
         "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
       ],
-      "checkedAt": "2026-11-23T17:05:55.400Z",
+      "checkedAt": "2026-11-23T17:59:21.332Z",
       "status": "ok",
-      "attemptedAt": "2026-11-23T17:05:55.400Z"
+      "attemptedAt": "2026-11-23T17:59:21.332Z"
     },
     {
       "id": "edeka-niederschulte-verl",
@@ -354,9 +354,9 @@
       "notes": [
         "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
       ],
-      "checkedAt": "2026-11-23T17:05:56.020Z",
+      "checkedAt": "2026-11-23T17:59:21.511Z",
       "status": "ok",
-      "attemptedAt": "2026-11-23T17:05:56.020Z"
+      "attemptedAt": "2026-11-23T17:59:21.511Z"
     },
     {
       "id": "wertstoffhof-verl",
@@ -382,9 +382,9 @@
       "notes": [
         "Für Abfälle aus Verler Privathaushalten. Gültigen Personalausweis mitbringen. An gesetzlichen Feiertagen geschlossen. Annahmearten und mögliche Gebühren bitte im Original prüfen."
       ],
-      "checkedAt": "2026-11-23T17:05:55.685Z",
+      "checkedAt": "2026-11-23T17:59:21.454Z",
       "status": "ok",
-      "attemptedAt": "2026-11-23T17:05:55.685Z"
+      "attemptedAt": "2026-11-23T17:59:21.454Z"
     },
     {
       "id": "gartenabfallannahme-marienstrasse",
@@ -447,9 +447,9 @@
       "notes": [
         "Annahme für Verler Bürgerinnen und Bürger; gültigen Personalausweis mitbringen. Andere Gartenabfälle sind nicht pauschal kostenlos."
       ],
-      "checkedAt": "2026-11-23T17:05:55.642Z",
+      "checkedAt": "2026-11-23T17:59:21.391Z",
       "status": "ok",
-      "attemptedAt": "2026-11-23T17:05:55.642Z",
+      "attemptedAt": "2026-11-23T17:59:21.391Z",
       "extraSources": [
         {
           "kind": "specialHours",
@@ -495,9 +495,9 @@
           "notes": [
             "Kostenlose Laubabgabe im Oktober und November 2026."
           ],
-          "checkedAt": "2026-11-23T17:05:55.799Z",
+          "checkedAt": "2026-11-23T17:59:21.572Z",
           "status": "ok",
-          "attemptedAt": "2026-11-23T17:05:55.799Z"
+          "attemptedAt": "2026-11-23T17:59:21.572Z"
         },
         {
           "kind": "access",
@@ -505,9 +505,9 @@
           "notes": [
             "Während der Marienstraßenarbeiten bleibt die Gartenabfallannahme laut Stadt zu den Öffnungszeiten über die gewohnten An- und Abfahrtswege erreichbar. Die Vollsperrung wird dafür jeweils aufgehoben."
           ],
-          "checkedAt": "2026-11-23T17:05:55.960Z",
+          "checkedAt": "2026-11-23T17:59:21.746Z",
           "status": "ok",
-          "attemptedAt": "2026-11-23T17:05:55.960Z"
+          "attemptedAt": "2026-11-23T17:59:21.746Z"
         }
       ]
     },
@@ -619,9 +619,9 @@
       "notes": [
         "Open Library: Zugang ohne Personal nur mit freigeschaltetem Open-Library-Ausweis für Erwachsene. Die Zustimmung zu den Nutzungsbedingungen ist erforderlich."
       ],
-      "checkedAt": "2026-11-23T17:05:56.028Z",
+      "checkedAt": "2026-11-23T17:59:21.597Z",
       "status": "ok",
-      "attemptedAt": "2026-11-23T17:05:56.028Z",
+      "attemptedAt": "2026-11-23T17:59:21.597Z",
       "extraSources": [
         {
           "kind": "openLibrarySpecialHours",
@@ -640,9 +640,9 @@
           "notes": [
             "Am 25. November 2026 öffnet die Open Library wegen einer Schulveranstaltung erst um 12:30 Uhr. Der reguläre Mittwochsplan endet um 20:00 Uhr."
           ],
-          "checkedAt": "2026-11-23T17:05:56.728Z",
+          "checkedAt": "2026-11-23T17:59:22.491Z",
           "status": "ok",
-          "attemptedAt": "2026-11-23T17:05:56.728Z"
+          "attemptedAt": "2026-11-23T17:59:22.491Z"
         }
       ],
       "openLibrarySpecialHours": [
@@ -658,6 +658,6 @@
       ]
     }
   ],
-  "checkedAt": "2026-11-23T17:05:56.028Z",
-  "attemptedAt": "2026-11-23T17:05:56.728Z"
+  "checkedAt": "2026-11-23T17:59:21.597Z",
+  "attemptedAt": "2026-11-23T17:59:22.491Z"
 }
