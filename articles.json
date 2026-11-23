@@ -1,5 +1,20 @@
 [
   {
+    "id": "a2-surenheide-fahrstreifensperrung-20261123",
+    "title": "A2 bei Sürenheide: Rechter Fahrstreifen Richtung Dortmund am Montag gesperrt",
+    "category": "Verkehr",
+    "paragraphs": [
+      "Auf der A2 sind für Montag, den 23. November 2026, von 08:00 bis 10:30 Uhr Arbeiten auf Höhe von Sürenheide angekündigt. Betroffen ist die Fahrtrichtung Dortmund zwischen der Raststätte Niedergassel und dem Rastplatz Heideplatz.",
+      "Wegen der Beseitigung von Unfallfolgen wird die rechte Spur gesperrt. Zwei Fahrstreifen bleiben in Richtung Dortmund nutzbar. Die geplante Einschränkung steht auch im Verkehrsdienst von Radio Gütersloh."
+    ],
+    "summary": "Am 23. November ist die A2 zwischen Niedergassel und Heideplatz in Richtung Dortmund von 08:00 bis 10:30 Uhr auf zwei Fahrstreifen verengt.",
+    "publishedAt": "2026-11-20",
+    "checkedAt": "2026-11-23T03:59:18.000Z",
+    "source": "news.de (Verkehr.NRW-Daten), Radio Gütersloh",
+    "sourceURL": "https://www.news.de/auto/860206576/verkehrsmeldung-nw-verl-guetersloh-zur-verkehrsstoerung-wegen-einschraenkung-am-23-11-2026-beschraenkungen-im-verkehr-nordrhein-westfalen-staugefahr-in-suerenheide-auf-a2/1/",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
     "id": "tv-verl-handball-c-juniorinnen-dortmund-20261118",
     "title": "Handball: Verler C-Juniorinnen schlagen Borussia Dortmund mit 37:25",
     "category": "Sport",
