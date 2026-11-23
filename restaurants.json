@@ -57,7 +57,7 @@
         "available": null,
         "note": "Ein Lieferdienst ist auf der geprüften Restaurantseite nicht bestätigt.",
         "sourceURL": "https://www.xn--bttes-jua.de/",
-        "checkedAt": "2026-11-22T06:04:26.277Z",
+        "checkedAt": "2026-11-23T06:11:21.175Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -66,13 +66,13 @@
         "available": true,
         "note": "Abholung ist im offiziellen städtischen Gastronomieverzeichnis aufgeführt.",
         "sourceURL": "https://www.verl.de/wirtschaft-arbeit/branchenverzeichnis/boettes-holzsteinofen.html",
-        "checkedAt": "2026-11-22T06:04:26.277Z"
+        "checkedAt": "2026-11-23T06:11:21.175Z"
       },
       "notes": [
         "Die aktuelle Restaurantwebsite nennt täglich 18:00–22:00 Uhr. Der städtische Eintrag enthält für Sonntag eine abweichende Anfangszeit.",
         "Eine Reservierungsanfrage wird erst nach Bestätigung des Restaurants verbindlich."
       ],
-      "checkedAt": "2026-11-22T06:04:26.277Z",
+      "checkedAt": "2026-11-23T06:11:21.175Z",
       "status": "ok"
     },
     {
@@ -146,7 +146,7 @@
         "available": false,
         "note": "Das Restaurant schließt einen Lieferdienst auf seiner Website ausdrücklich aus.",
         "sourceURL": "https://grillathen-verl.com/",
-        "checkedAt": "2026-11-22T06:04:26.277Z",
+        "checkedAt": "2026-11-23T06:11:21.175Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -155,14 +155,14 @@
         "available": true,
         "note": "Telefonische Vorbestellung mit Abholung wird angeboten.",
         "sourceURL": "https://grillathen-verl.com/",
-        "checkedAt": "2026-11-22T06:04:26.277Z"
+        "checkedAt": "2026-11-23T06:11:21.175Z"
       },
       "notes": [
         "Die Restaurantwebsite nennt für Feiertage 17:00–22:00 Uhr.",
         "Für Montag fehlt auf der aktuellen Restaurantwebsite eine eindeutige Zeitangabe.",
         "Die Restaurantwebsite und das städtische Verzeichnis nennen unterschiedliche Zeiten. Hier stehen die Angaben der Restaurantwebsite."
       ],
-      "checkedAt": "2026-11-22T06:04:26.277Z",
+      "checkedAt": "2026-11-23T06:11:21.175Z",
       "status": "ok"
     },
     {
@@ -216,7 +216,7 @@
         "available": null,
         "note": "Ein Lieferdienst ist auf den geprüften offiziellen Seiten nicht eindeutig bestätigt.",
         "sourceURL": "https://www.evimsrestaurant.de/",
-        "checkedAt": "2026-11-22T06:04:26.277Z",
+        "checkedAt": "2026-11-23T06:11:21.175Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -225,13 +225,13 @@
         "available": null,
         "note": "Abholung ist auf den geprüften offiziellen Seiten nicht eindeutig bestätigt.",
         "sourceURL": "https://www.evimsrestaurant.de/",
-        "checkedAt": "2026-11-22T06:04:26.277Z"
+        "checkedAt": "2026-11-23T06:11:21.175Z"
       },
       "notes": [
         "Maßgeblich ist hier der Wochenplan der Startseite. Die Speisekartenseite enthält davon abweichende allgemeine Öffnungsangaben.",
         "Separate Küchen- oder Lieferzeiten sind nicht bestätigt."
       ],
-      "checkedAt": "2026-11-22T06:04:26.277Z",
+      "checkedAt": "2026-11-23T06:11:21.175Z",
       "status": "ok"
     },
     {
@@ -333,7 +333,7 @@
         "available": true,
         "note": "Lieferung wird angeboten. Liefergebiet, Mindestbestellwert und Gebühren sind ohne konkrete Bestelladresse nicht bestätigt.",
         "sourceURL": "https://bellinipizzeria.de/contact",
-        "checkedAt": "2026-11-22T06:04:26.277Z",
+        "checkedAt": "2026-11-23T06:11:21.175Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -342,13 +342,13 @@
         "available": true,
         "note": "Abholung wird mit eigenen Bestellzeiten angeboten. Sonntags endet die Abholung um 20:50 Uhr.",
         "sourceURL": "https://bellinipizzeria.de/contact",
-        "checkedAt": "2026-11-22T06:04:26.277Z"
+        "checkedAt": "2026-11-23T06:11:21.175Z"
       },
       "notes": [
         "Die bestätigten Zeiten betreffen Lieferung und Abholung. Eine davon getrennte Restaurantöffnungszeit ist nicht veröffentlicht.",
         "Die auf der Bestellseite sichtbare Rabattaktion mit Ende 31.08.2026 ist abgelaufen und wird hier nicht als gültiges Angebot übernommen."
       ],
-      "checkedAt": "2026-11-22T06:04:26.277Z",
+      "checkedAt": "2026-11-23T06:11:21.175Z",
       "status": "ok"
     },
     {
@@ -373,7 +373,7 @@
         "available": null,
         "note": "Ein Lieferdienst ist auf den geprüften offiziellen Seiten nicht bestätigt.",
         "sourceURL": "https://kampwirth.de/",
-        "checkedAt": "2026-11-22T06:04:26.277Z",
+        "checkedAt": "2026-11-23T06:11:21.175Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -382,7 +382,7 @@
         "available": null,
         "note": "Ein regelmäßiges Abholangebot ist auf den geprüften offiziellen Seiten nicht bestätigt.",
         "sourceURL": "https://kampwirth.de/",
-        "checkedAt": "2026-11-22T06:04:26.277Z"
+        "checkedAt": "2026-11-23T06:11:21.175Z"
       },
       "notes": [
         "Die Startseite nennt Restaurantbetrieb von Mittwoch bis Sonntag ab 17:00 Uhr sowie Montag und Dienstag als Ruhetage. Eine Schlusszeit ist nicht angegeben.",
@@ -390,7 +390,7 @@
         "Reservierungsanfragen sind erst nach Bestätigung verbindlich. Für denselben Tag bittet das Restaurant um telefonische Reservierung.",
         "Die Restaurantwebsite führt zusätzlich eine Gänsekarte vom 11. bis 26. November 2026 auf."
       ],
-      "checkedAt": "2026-11-22T06:04:26.277Z",
+      "checkedAt": "2026-11-23T06:11:21.175Z",
       "status": "ok"
     },
     {
@@ -415,7 +415,7 @@
         "available": null,
         "note": "Regelmäßige Essenslieferung ist nicht bestätigt. Das separat genannte Catering ist kein bestätigter Restaurant-Lieferdienst.",
         "sourceURL": "https://kochwerk-verl.de/",
-        "checkedAt": "2026-11-22T06:04:26.277Z",
+        "checkedAt": "2026-11-23T06:11:21.175Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -424,14 +424,14 @@
         "available": null,
         "note": "Ein regelmäßiges Abholangebot ist auf der geprüften Restaurantseite nicht bestätigt.",
         "sourceURL": "https://kochwerk-verl.de/",
-        "checkedAt": "2026-11-22T06:04:26.277Z"
+        "checkedAt": "2026-11-23T06:11:21.175Z"
       },
       "notes": [
         "Veröffentlicht ist Restaurantbetrieb von Dienstag bis Samstag ab 18:00 Uhr. Eine Schlusszeit wird nicht genannt.",
         "Die Website verlinkt derzeit die Speisekarte mit der Bezeichnung Oktober 2026. Preise und aktuelle Gerichte vor der Bestellung im Original prüfen.",
         "Veranstaltungen und Catering außerhalb der regulären Zeiten sind nur nach Vereinbarung angekündigt."
       ],
-      "checkedAt": "2026-11-22T06:04:26.277Z",
+      "checkedAt": "2026-11-23T06:11:21.175Z",
       "status": "ok"
     },
     {
@@ -455,7 +455,7 @@
         "available": null,
         "note": "Ein Lieferdienst ist auf der geprüften Restaurantwebsite nicht bestätigt.",
         "sourceURL": "https://fordkort.de/",
-        "checkedAt": "2026-11-22T06:04:26.277Z",
+        "checkedAt": "2026-11-23T06:11:21.175Z",
         "minOrderEUR": null,
         "feeEUR": null,
         "area": null
@@ -464,17 +464,17 @@
         "available": null,
         "note": "Ein regelmäßiges Abholangebot ist auf der geprüften Restaurantwebsite nicht bestätigt.",
         "sourceURL": "https://fordkort.de/",
-        "checkedAt": "2026-11-22T06:04:26.277Z"
+        "checkedAt": "2026-11-23T06:11:21.175Z"
       },
       "notes": [
         "Das Restaurant liegt im Verler Ortsteil Kaunitz.",
-        "Regulär Mittwoch bis Samstag ab 17:00 Uhr; eine Schlusszeit ist nicht veröffentlicht. Sonntag wird als freier Tag genannt.",
+        "Die Website nennt Mittwoch bis Samstag ab 17:00 Uhr und veröffentlicht keine Schlusszeit. Montag ist Bürotag, Dienstag Vorbereitungstag und Sonntag frei.",
         "Die Website zeigt eine Auswahl von Gerichten; eine vollständige verbindliche Tageskarte ist damit nicht bestätigt.",
         "Reservierungen werden laut Website ausschließlich telefonisch angenommen."
       ],
-      "checkedAt": "2026-11-22T06:04:26.277Z",
+      "checkedAt": "2026-11-23T06:11:21.175Z",
       "status": "ok"
     }
   ],
-  "checkedAt": "2026-11-22T06:04:26.277Z"
+  "checkedAt": "2026-11-23T06:11:21.175Z"
 }
