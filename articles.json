@@ -1,5 +1,50 @@
 [
   {
+    "id": "sc-verl-vorverkauf-ingolstadt-havelse-20261123",
+    "title": "SC Verl nennt Vorverkaufstermine für Ingolstadt und Havelse",
+    "category": "Sport",
+    "paragraphs": [
+      "Der SC Verl empfängt den FC Ingolstadt 04 am Samstag, 5. Dezember 2026, um 14:00 Uhr in der Sportclub Arena. Laut Vereinsmeldung startet der Vorverkauf am 23. November um 10:00 Uhr.",
+      "Das letzte Verler Heimspiel des Jahres ist am Sonntag, 20. Dezember 2026, gegen den TSV Havelse. Der Anstoß ist laut Spielplan um 16:30 Uhr. Als Verkaufsstart nennt der SC Verl den 7. Dezember um 10:00 Uhr."
+    ],
+    "summary": "Für die letzten beiden Heimspiele 2026 beginnt der Vorverkauf am 23. November beziehungsweise am 7. Dezember, jeweils um 10:00 Uhr.",
+    "publishedAt": "2026-11-23",
+    "checkedAt": "2026-11-23T09:00:49.782Z",
+    "source": "Sportclub Verl",
+    "sourceURL": "https://www.sportclub-verl.de/artikel/116757/vorverkaufsinfos-fuer-die-letzten-heimspiele-2026",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
+    "id": "radfahrpruefung-grundschule-am-buehlbusch-20261123",
+    "title": "Radfahrprüfung rund um die Grundschule Am Bühlbusch",
+    "category": "Verkehr",
+    "paragraphs": [
+      "Die Polizei Gütersloh hat am 23. November 2026 die Radfahrprüfung an der Verler Grundschule Am Bühlbusch angekündigt. Die Kinder legen sie am Mittwoch, 25. November, von 08:45 bis 11:30 Uhr ab und fahren dabei selbstständig auf öffentlichen Straßen im Schulumfeld.",
+      "Die Polizei bittet alle, die dort unterwegs sind, rücksichtsvoll zu fahren und sich wie gewohnt an die Vorfahrtsregeln zu halten."
+    ],
+    "summary": "Am Mittwoch, 25. November, fahren Viertklässlerinnen und Viertklässler zwischen 08:45 und 11:30 Uhr im Straßenverkehr rund um die Schule.",
+    "publishedAt": "2026-11-23",
+    "checkedAt": "2026-11-23T09:00:49.782Z",
+    "source": "Polizei Gütersloh · Presseportal",
+    "sourceURL": "https://www.presseportal.de/blaulicht/pm/23127/6395672",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
+    "id": "gefluegelschau-kaunitz-rueckblick-20261123",
+    "title": "Geflügelschau in Kaunitz zeigte mehr als 1.000 Tiere",
+    "category": "Stadtleben",
+    "paragraphs": [
+      "Am 21. und 22. November 2026 richtete der Geflügelzuchtverein Kaunitz seine Schau in der Ostwestfalenhalle aus. Nach der frei zugänglichen Vorschau der Glocke vom 23. November wurden dort mehr als 1.000 Tiere gezeigt. Auch junge Züchterinnen und Züchter beteiligten sich. Bei der Schau wurden Ausstellende geehrt.",
+      "Diese Angaben stammen aus der frei lesbaren Vorschau. Die vollständigen Ergebnisse der Schau sind dort nicht einsehbar."
+    ],
+    "summary": "Nach dem Wochenende berichtet Die Glocke über die Kaunitzer Geflügelschau und die Beteiligung des Vereinsnachwuchses.",
+    "publishedAt": "2026-11-23",
+    "checkedAt": "2026-11-23T09:00:49.782Z",
+    "source": "Die Glocke · öffentliche Vorschau",
+    "sourceURL": "https://www.die-glocke.de/kreis-guetersloh/verl/artikel/gefluegelschau-in-kaunitz-1011-tiere-und-viel-nachwuchs-1795365913",
+    "kind": "Quellenhinweis"
+  },
+  {
     "id": "a2-surenheide-fahrstreifensperrung-20261123",
     "title": "A2 bei Sürenheide: Rechter Fahrstreifen Richtung Dortmund am Montag gesperrt",
     "category": "Verkehr",
