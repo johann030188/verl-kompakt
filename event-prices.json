@@ -1,10 +1,41 @@
 {
   "items": [
     {
+      "id": "hobbymarkt-kaunitz-2026-12-05",
+      "eventMatch": "Hobbymarkt",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungen/hobbymarkt.html",
+      "checkedAt": "2026-11-24T06:08:22.170Z",
+      "free": false,
+      "regular": {
+        "adultEUR": 2.5,
+        "childEUR": 0,
+        "childAgeMin": null,
+        "childAgeMax": 17,
+        "familyEUR": null,
+        "familyAdults": null,
+        "familyChildren": null,
+        "note": "Eintritt ab 18 Jahren: 2,50 Euro. Kinder und Jugendliche unter 18 Jahren haben freien Eintritt."
+      },
+      "familyPass": {
+        "status": "not-confirmed",
+        "adultEUR": null,
+        "childEUR": null,
+        "familyEUR": null,
+        "note": "Die Stadt nennt für diesen Termin keinen gesonderten Familienpass-Tarif.",
+        "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungen/hobbymarkt.html",
+        "checkedAt": "2026-11-24T06:08:22.170Z"
+      },
+      "bookingFeeEUR": null,
+      "bookingFeeStatus": "unknown",
+      "note": "Der Preis gilt für den Besuch des Markts. Mögliche Gebühren für Verkaufsstände betreffen Ausstellende.",
+      "validFrom": "2026-12-05",
+      "validUntil": "2026-12-05"
+    },
+    {
       "id": "gesundheitsforum-handnerven-2026-11-25",
       "eventMatch": "Karpaltunnelsyndrom und Co.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/karpaltunnelsyndrom-und-co-25-11-2026.html",
-      "checkedAt": "2026-11-23T06:11:21.175Z",
+      "checkedAt": "2026-11-24T06:08:22.170Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -23,7 +54,7 @@
         "familyEUR": null,
         "note": "Der Vortrag ist allgemein kostenlos. Dafür ist kein Familienpass erforderlich.",
         "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/karpaltunnelsyndrom-und-co-25-11-2026.html",
-        "checkedAt": "2026-11-23T06:11:21.175Z"
+        "checkedAt": "2026-11-24T06:08:22.170Z"
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
@@ -151,7 +182,7 @@
       "id": "verler-adventsmarkt-2026",
       "eventMatch": "Verler Adventsmarkt",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verler-adventsmarkt-04-12-2026.html",
-      "checkedAt": "2026-11-23T06:11:21.175Z",
+      "checkedAt": "2026-11-24T06:08:22.170Z",
       "free": null,
       "regular": {
         "adultEUR": null,
@@ -170,7 +201,7 @@
         "familyEUR": null,
         "note": "Ein konkreter Familienpass-Rabatt für Eintritt oder Einkäufe ist in der offiziellen Ankündigung nicht bestätigt.",
         "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verler-adventsmarkt-04-12-2026.html",
-        "checkedAt": "2026-11-23T06:11:21.175Z"
+        "checkedAt": "2026-11-24T06:08:22.170Z"
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
@@ -182,7 +213,7 @@
       "id": "verl-singt-weihnachtslieder-2026",
       "eventMatch": "Verl singt Weihnachtslieder",
       "sourceURL": "https://www.sportclub-verl.de/artikel/116573/weihnachtslieder-aus-mehr-als-3000-kehlen",
-      "checkedAt": "2026-11-23T06:11:21.175Z",
+      "checkedAt": "2026-11-24T06:08:22.170Z",
       "free": false,
       "regular": {
         "adultEUR": 5,
@@ -201,7 +232,7 @@
         "familyEUR": null,
         "note": "Kein konkreter Familienpass-Tarif für dieses Weihnachtssingen bestätigt. Die allgemeinen Kulturförderregeln belegen für sich keinen buchbaren Rabatt dieses Veranstalters.",
         "sourceURL": "https://www.sportclub-verl.de/weihnachtssingen",
-        "checkedAt": "2026-11-20T07:06:38.754Z"
+        "checkedAt": "2026-11-24T06:08:22.170Z"
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
@@ -229,7 +260,7 @@
             "familyEUR": null,
             "note": "Kein konkreter Familienpass-Tarif für dieses Weihnachtssingen bestätigt. Die allgemeinen Kulturförderregeln belegen für sich keinen buchbaren Rabatt dieses Veranstalters.",
             "sourceURL": "https://www.sportclub-verl.de/weihnachtssingen",
-            "checkedAt": "2026-11-20T07:06:38.754Z"
+            "checkedAt": "2026-11-24T06:08:22.170Z"
           }
         },
         {
@@ -252,7 +283,7 @@
             "familyEUR": null,
             "note": "Kein konkreter Familienpass-Tarif für dieses Weihnachtssingen bestätigt. Die allgemeinen Kulturförderregeln belegen für sich keinen buchbaren Rabatt dieses Veranstalters.",
             "sourceURL": "https://www.sportclub-verl.de/weihnachtssingen",
-            "checkedAt": "2026-11-20T07:06:38.754Z"
+            "checkedAt": "2026-11-24T06:08:22.170Z"
           }
         }
       ],
@@ -264,7 +295,7 @@
       "id": "hallenbad-wasserparcours-2026",
       "eventMatch": "Spielenachmittag im Hallenbad",
       "sourceURL": "https://www.verl.de/freizeit-kultur/sport/hallenbad.html",
-      "checkedAt": "2026-11-23T06:11:21.175Z",
+      "checkedAt": "2026-11-24T06:08:22.170Z",
       "free": false,
       "regular": {
         "adultEUR": 4,
@@ -283,7 +314,7 @@
         "familyEUR": null,
         "note": "Für Einzelkarten ist kein gesonderter Familienpass-Rabatt bestätigt. Belegt ist ausschließlich die Kombi-Jahresfamilienkarte für 95 Euro statt 190 Euro; diese Jahreskarte ist kein Tagespreis für den Spielenachmittag.",
         "sourceURL": "https://www.verl.de/freizeit-kultur/sport/hallenbad.html",
-        "checkedAt": "2026-11-23T06:11:21.175Z"
+        "checkedAt": "2026-11-24T06:08:22.170Z"
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
@@ -295,7 +326,7 @@
       "id": "droste-ferien-anmeldestart-2027",
       "eventMatch": "Droste-Haus: Buchungsstart für Ferienangebote 2027 angekündigt",
       "sourceURL": "https://www.droste-haus.de/de/fuer-jugendliche/ferienangebote/index.php",
-      "checkedAt": "2026-11-23T06:11:21.175Z",
+      "checkedAt": "2026-11-24T06:08:22.170Z",
       "free": null,
       "regular": {
         "adultEUR": null,
@@ -314,7 +345,7 @@
         "familyEUR": null,
         "note": "Auf den Buchungsstart selbst ist kein Eintrittsrabatt anwendbar. Ob ein später veröffentlichter Ferienkurs förderfähig ist, muss für das konkrete Angebot nach den Familienpass-Richtlinien geprüft werden.",
         "sourceURL": "https://www.verl.de/fileadmin/user_upload/Bilder_und_Dateien/02_Wohnen_und_Leben/03_Verl_fuer_Kinder_und_Familien/Angebote_fuer_Eltern/Richtlinien_fuer_den_Familienpass_ab_01.01.2024.pdf",
-        "checkedAt": "2026-11-17T08:10:53.406Z"
+        "checkedAt": "2026-11-24T06:08:22.170Z"
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
@@ -326,7 +357,7 @@
       "id": "familienkino-rabe-socke-2027",
       "eventMatch": "Verler Familienkino mit Rabe Socke",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-23T06:11:21.175Z",
+      "checkedAt": "2026-11-24T06:08:22.170Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -339,16 +370,16 @@
         "note": "Die Stadt bestätigt freien Eintritt für das Familienkino. Kein kostenpflichtiger Kindertarif und keine Familienkarte erforderlich."
       },
       "familyPass": {
-        "status": "confirmed",
-        "adultEUR": 0,
-        "childEUR": 0,
+        "status": "not-applicable",
+        "adultEUR": null,
+        "childEUR": null,
         "familyEUR": null,
         "note": "Der Eintritt ist bereits allgemein kostenlos. Ein Familienpass ist dafür nicht erforderlich; dies ist kein zusätzlicher Rabatt.",
         "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-        "checkedAt": "2026-11-23T06:11:21.175Z"
+        "checkedAt": "2026-11-24T06:08:22.170Z"
       },
-      "bookingFeeEUR": 0,
-      "bookingFeeStatus": "included",
+      "bookingFeeEUR": null,
+      "bookingFeeStatus": "unknown",
       "note": "Offiziell angekündigter Termin: 31. Januar 2027 im Droste-Haus. Zusätzliche Ausgaben etwa für Verpflegung sind nicht als Eintritt enthalten.",
       "validFrom": "2027-01-31",
       "validUntil": "2027-01-31",
@@ -362,7 +393,7 @@
       "id": "familienkino-checker-tobi-2027",
       "eventMatch": "Verler Familienkino mit Checker Tobi",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-23T06:11:21.175Z",
+      "checkedAt": "2026-11-24T06:08:22.170Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -375,16 +406,16 @@
         "note": "Die Stadt bestätigt freien Eintritt für das Familienkino. Kein kostenpflichtiger Kindertarif und keine Familienkarte erforderlich."
       },
       "familyPass": {
-        "status": "confirmed",
-        "adultEUR": 0,
-        "childEUR": 0,
+        "status": "not-applicable",
+        "adultEUR": null,
+        "childEUR": null,
         "familyEUR": null,
         "note": "Der Eintritt ist bereits allgemein kostenlos. Ein Familienpass ist dafür nicht erforderlich; dies ist kein zusätzlicher Rabatt.",
         "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-        "checkedAt": "2026-11-23T06:11:21.175Z"
+        "checkedAt": "2026-11-24T06:08:22.170Z"
       },
-      "bookingFeeEUR": 0,
-      "bookingFeeStatus": "included",
+      "bookingFeeEUR": null,
+      "bookingFeeStatus": "unknown",
       "note": "Offiziell angekündigter Termin: 14. Februar 2027 im Bürgerhaus Hühnerstall. Zusätzliche Ausgaben etwa für Verpflegung sind nicht als Eintritt enthalten.",
       "validFrom": "2027-02-14",
       "validUntil": "2027-02-14",
@@ -398,7 +429,7 @@
       "id": "familienkino-bibi-blocksberg-2027",
       "eventMatch": "Verler Familienkino mit Bibi Blocksberg",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-23T06:11:21.175Z",
+      "checkedAt": "2026-11-24T06:08:22.170Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -411,16 +442,16 @@
         "note": "Die Stadt bestätigt freien Eintritt für das Familienkino. Kein kostenpflichtiger Kindertarif und keine Familienkarte erforderlich."
       },
       "familyPass": {
-        "status": "confirmed",
-        "adultEUR": 0,
-        "childEUR": 0,
+        "status": "not-applicable",
+        "adultEUR": null,
+        "childEUR": null,
         "familyEUR": null,
         "note": "Der Eintritt ist bereits allgemein kostenlos. Ein Familienpass ist dafür nicht erforderlich; dies ist kein zusätzlicher Rabatt.",
         "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-        "checkedAt": "2026-11-23T06:11:21.175Z"
+        "checkedAt": "2026-11-24T06:08:22.170Z"
       },
-      "bookingFeeEUR": 0,
-      "bookingFeeStatus": "included",
+      "bookingFeeEUR": null,
+      "bookingFeeStatus": "unknown",
       "note": "Offiziell angekündigter Termin: 28. Februar 2027 in der Turnhalle Sürenheide. Zusätzliche Ausgaben etwa für Verpflegung sind nicht als Eintritt enthalten.",
       "validFrom": "2027-02-28",
       "validUntil": "2027-02-28",
@@ -437,7 +468,7 @@
         "Flohmarkt in und an der Schützenhalle"
       ],
       "sourceURL": "https://www.marktcom.de/veranstaltung/verler-schuetzenhalle-drinnen-und-draussen-33415-verl?term_id=1172064",
-      "checkedAt": "2026-11-23T06:11:21.175Z",
+      "checkedAt": "2026-11-24T06:08:22.170Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -456,7 +487,7 @@
         "familyEUR": null,
         "note": "Der Eintritt ist allgemein kostenlos. Ein zusätzlicher Familienpass-Tarif ist für diesen Besuch nicht erforderlich und nicht gesondert bestätigt.",
         "sourceURL": "https://www.marktcom.de/veranstaltung/verler-schuetzenhalle-drinnen-und-draussen-33415-verl?term_id=1172064",
-        "checkedAt": "2026-11-23T06:11:21.175Z"
+        "checkedAt": "2026-11-24T06:08:22.170Z"
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
@@ -499,7 +530,7 @@
       "id": "familienkino-schule-magischen-tiere-4-2027",
       "eventMatch": "Verler Familienkino: Die Schule der magischen Tiere 4",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-23T06:11:21.175Z",
+      "checkedAt": "2026-11-24T06:08:22.170Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -512,13 +543,13 @@
         "note": "Die Stadt bestätigt freien Eintritt für das Familienkino. Kein kostenpflichtiger Kindertarif und keine Familienkarte erforderlich."
       },
       "familyPass": {
-        "status": "confirmed",
-        "adultEUR": 0,
-        "childEUR": 0,
+        "status": "not-applicable",
+        "adultEUR": null,
+        "childEUR": null,
         "familyEUR": null,
         "note": "Der Eintritt ist bereits allgemein kostenlos. Ein Familienpass ist dafür nicht erforderlich; dies ist kein zusätzlicher Rabatt.",
         "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-        "checkedAt": "2026-11-23T06:11:21.175Z"
+        "checkedAt": "2026-11-24T06:08:22.170Z"
       },
       "bookingFeeEUR": null,
       "bookingFeeStatus": "unknown",
@@ -537,6 +568,6 @@
   "familyPassInfo": {
     "sourceURL": "https://www.verl.de/wohnen-leben/angebote-fuer-eltern/familienpass.html",
     "description": "Die Stadt verweist auf ihre Familienpass-Richtlinien ab 1. Januar 2024. Vergünstigungen gelten je nach Angebot und Berechtigung. Es gibt keinen pauschalen Rabatt auf sämtliche Veranstaltungen. Die Regeln nennen unter anderem Vereinsangebote für berechtigte Kinder, bestimmte Gruppen- und Musikkurse, ausgewählte Kulturveranstaltungen sowie Angebote der Bibliothek. Bedingungen, Fördergrenzen, vorrangige Leistungen und Fristen sind zu beachten. Ein Familienpass-Rabatt wird hier nur bei einem konkret belegten Tarif angezeigt; allgemein kostenloser Eintritt wird gesondert benannt.",
-    "checkedAt": "2026-11-17T08:10:53.406Z"
+    "checkedAt": "2026-11-24T06:08:22.170Z"
   }
 }
