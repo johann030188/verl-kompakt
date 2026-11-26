@@ -82,9 +82,9 @@
       "notes": [
         "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
       ],
-      "checkedAt": "2026-11-26T05:00:32.757Z",
+      "checkedAt": "2026-11-26T05:58:02.329Z",
       "status": "ok",
-      "attemptedAt": "2026-11-26T05:00:32.757Z"
+      "attemptedAt": "2026-11-26T05:58:02.329Z"
     },
     {
       "id": "lidl-verl-westring",
@@ -137,7 +137,7 @@
       ],
       "checkedAt": "2026-11-22T18:00:18.668Z",
       "status": "error",
-      "attemptedAt": "2026-11-26T05:00:31.968Z",
+      "attemptedAt": "2026-11-26T05:58:01.870Z",
       "error": "fetch failed"
     },
     {
@@ -189,9 +189,9 @@
       "notes": [
         "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
       ],
-      "checkedAt": "2026-11-26T05:00:32.029Z",
+      "checkedAt": "2026-11-26T05:58:01.965Z",
       "status": "ok",
-      "attemptedAt": "2026-11-26T05:00:32.029Z"
+      "attemptedAt": "2026-11-26T05:58:01.965Z"
     },
     {
       "id": "rossmann-verl-westfalenweg",
@@ -256,9 +256,9 @@
       "notes": [
         "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
       ],
-      "checkedAt": "2026-11-26T05:00:32.391Z",
+      "checkedAt": "2026-11-26T05:58:02.096Z",
       "status": "ok",
-      "attemptedAt": "2026-11-26T05:00:32.391Z"
+      "attemptedAt": "2026-11-26T05:58:02.096Z"
     },
     {
       "id": "edeka-niederschulte-verl",
@@ -354,9 +354,9 @@
       "notes": [
         "Sonderöffnungen, Betriebsferien und kurzfristige Änderungen bitte bei der Filiale prüfen."
       ],
-      "checkedAt": "2026-11-26T05:00:32.773Z",
+      "checkedAt": "2026-11-26T05:58:02.235Z",
       "status": "ok",
-      "attemptedAt": "2026-11-26T05:00:32.773Z"
+      "attemptedAt": "2026-11-26T05:58:02.235Z"
     },
     {
       "id": "wertstoffhof-verl",
@@ -382,9 +382,9 @@
       "notes": [
         "Für Abfälle aus Verler Privathaushalten. Gültigen Personalausweis mitbringen. An gesetzlichen Feiertagen geschlossen. Annahmearten und mögliche Gebühren bitte im Original prüfen."
       ],
-      "checkedAt": "2026-11-26T05:00:32.510Z",
+      "checkedAt": "2026-11-26T05:58:02.478Z",
       "status": "ok",
-      "attemptedAt": "2026-11-26T05:00:32.510Z"
+      "attemptedAt": "2026-11-26T05:58:02.478Z"
     },
     {
       "id": "gartenabfallannahme-marienstrasse",
@@ -447,9 +447,9 @@
       "notes": [
         "Annahme für Verler Bürgerinnen und Bürger; gültigen Personalausweis mitbringen. Andere Gartenabfälle sind nicht pauschal kostenlos."
       ],
-      "checkedAt": "2026-11-26T05:00:32.823Z",
+      "checkedAt": "2026-11-26T05:58:02.557Z",
       "status": "ok",
-      "attemptedAt": "2026-11-26T05:00:32.823Z",
+      "attemptedAt": "2026-11-26T05:58:02.557Z",
       "extraSources": [
         {
           "kind": "specialHours",
@@ -495,9 +495,9 @@
           "notes": [
             "Kostenlose Laubabgabe im Oktober und November 2026."
           ],
-          "checkedAt": "2026-11-26T05:00:33.118Z",
+          "checkedAt": "2026-11-26T05:58:02.753Z",
           "status": "ok",
-          "attemptedAt": "2026-11-26T05:00:33.118Z"
+          "attemptedAt": "2026-11-26T05:58:02.753Z"
         },
         {
           "kind": "access",
@@ -505,9 +505,9 @@
           "notes": [
             "Während der Marienstraßenarbeiten bleibt die Gartenabfallannahme laut Stadt zu den Öffnungszeiten über die gewohnten An- und Abfahrtswege erreichbar. Die Vollsperrung wird dafür jeweils aufgehoben."
           ],
-          "checkedAt": "2026-11-26T05:00:33.302Z",
+          "checkedAt": "2026-11-26T05:58:02.961Z",
           "status": "ok",
-          "attemptedAt": "2026-11-26T05:00:33.302Z"
+          "attemptedAt": "2026-11-26T05:58:02.961Z"
         }
       ]
     },
@@ -619,9 +619,9 @@
       "notes": [
         "Open Library: Zugang ohne Personal nur mit freigeschaltetem Open-Library-Ausweis für Erwachsene. Die Zustimmung zu den Nutzungsbedingungen ist erforderlich."
       ],
-      "checkedAt": "2026-11-26T04:58:46.565Z",
-      "status": "error",
-      "attemptedAt": "2026-11-26T05:00:42.000Z",
+      "checkedAt": "2026-11-26T05:58:02.612Z",
+      "status": "ok",
+      "attemptedAt": "2026-11-26T05:58:02.612Z",
       "extraSources": [
         {
           "kind": "openLibrarySpecialHours",
@@ -642,7 +642,7 @@
           ],
           "checkedAt": "2026-11-25T11:08:38.430Z",
           "status": "error",
-          "attemptedAt": "2026-11-26T04:58:47.019Z",
+          "attemptedAt": "2026-11-26T05:58:03.112Z",
           "error": "Quelle antwortet mit HTTP 404"
         }
       ],
@@ -656,10 +656,9 @@
             ]
           ]
         }
-      ],
-      "error": "fetch failed"
+      ]
     }
   ],
-  "checkedAt": "2026-11-26T05:00:32.823Z",
-  "attemptedAt": "2026-11-26T05:00:42.000Z"
+  "checkedAt": "2026-11-26T05:58:02.612Z",
+  "attemptedAt": "2026-11-26T05:58:03.112Z"
 }
