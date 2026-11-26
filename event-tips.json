@@ -16,7 +16,7 @@
       "assessment": "Unsere Einschätzung: Für Familien interessant, die gemeinsam über einen Markt bummeln und Tiere sehen möchten.",
       "caution": "Welche Tiere und Waren am 5. Dezember angeboten werden, geht aus der städtischen Ankündigung nicht im Einzelnen hervor.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungen/hobbymarkt.html",
-      "checkedAt": "2026-11-25T06:10:27.528Z",
+      "checkedAt": "2026-11-26T06:05:12.496Z",
       "validUntil": "2026-12-05"
     },
     {
@@ -32,33 +32,46 @@
           "date": "2026-12-17",
           "time": "16:00",
           "endTime": "16:45"
+        },
+        {
+          "date": "2027-01-28",
+          "time": "16:00",
+          "endTime": "16:45"
+        },
+        {
+          "date": "2027-02-25",
+          "time": "16:00",
+          "endTime": "16:45"
+        },
+        {
+          "date": "2027-03-25",
+          "time": "16:00",
+          "endTime": "16:45"
+        },
+        {
+          "date": "2027-04-29",
+          "time": "16:00",
+          "endTime": "16:45"
+        },
+        {
+          "date": "2027-05-20",
+          "time": "16:00",
+          "endTime": "16:45"
+        },
+        {
+          "date": "2027-06-24",
+          "time": "16:00",
+          "endTime": "16:45"
         }
       ],
       "location": "Bibliothek Verl, Hauptstraße 15, Verl",
-      "description": "Die Verler Bibliothek liest Grundschulkindern leicht verständliche Geschichten auf Englisch vor. Die Stadt bestätigt zwei Termine im November und Dezember.",
+      "description": "Die Verler Bibliothek liest Grundschulkindern auf Englisch vor. Die Stadt nennt acht Termine vom 26. November 2026 bis zum 24. Juni 2027, jeweils von 16:00 bis 16:45 Uhr.",
       "audience": "Für Grundschulkinder",
       "assessment": "Unsere Einschätzung: Ein guter Einstieg für Kinder, die Englisch beim Zuhören kennenlernen möchten.",
       "caution": "Der städtische Kalendereintrag nennt keine Teilnahmegebühr, Anmeldepflicht oder verfügbaren Plätze.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/vorlesen-in-englischer-sprache-26-11-2026.html",
-      "checkedAt": "2026-11-25T06:10:27.528Z",
-      "validUntil": "2026-12-17"
-    },
-    {
-      "id": "gesundheitsforum-handnerven-2026-11-25",
-      "title": "Gesundheitsforum über Nervenbeschwerden an der Hand",
-      "eventTitle": "Karpaltunnelsyndrom und Co.",
-      "date": "2026-11-25",
-      "time": "19:00",
-      "endTime": "20:30",
-      "location": "Mensa im Verler Schulzentrum",
-      "description": "Ein Handchirurg des Klinikums Gütersloh spricht über das Karpaltunnelsyndrom und andere Engstellen an Nerven der Hand und des Arms. Der Vortrag in der Mensa ist kostenlos.",
-      "audience": "Für alle, die sich über Beschwerden der Hand und Behandlungsmöglichkeiten informieren möchten",
-      "assessment": "Unsere Einschätzung: Geeignet, um sich einen Überblick über das Thema zu verschaffen.",
-      "caution": "Die Veranstalter bitten um Anmeldung. Die aktuelle Platzverfügbarkeit ist nicht bestätigt.",
-      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/karpaltunnelsyndrom-und-co-25-11-2026.html",
-      "bookingURL": "https://www.vhs-vhs.de/vortraege/kw/vortraege-exkursionen/karpaltunnelsyndrom-und-co-was-tun-wenn-die-nerven-der-hand-schmerzen/26-31007H/",
-      "checkedAt": "2026-11-25T06:10:27.528Z",
-      "validUntil": "2026-11-25"
+      "checkedAt": "2026-11-26T06:05:12.496Z",
+      "validUntil": "2027-06-24"
     },
     {
       "id": "verler-adventsmarkt-2026",
@@ -86,7 +99,7 @@
       "assessment": "Lohnt sich für einen gemeinsamen Adventsbummel und zum Unterstützen örtlicher Vereine. Wer ein festes Kinderprogramm sucht, sollte vorher das aktuelle Programm prüfen.",
       "caution": "Die Stadt nennt keine Eintrittspreise. Laut SC Verl bekommen Personen mit einer Eintrittskarte für das Weihnachtssingen am 6. Dezember vor dem Singen 1 Euro Rabatt an einem Stand ihrer Wahl.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verler-adventsmarkt-04-12-2026.html",
-      "checkedAt": "2026-11-25T06:10:27.528Z",
+      "checkedAt": "2026-11-26T06:05:12.496Z",
       "validUntil": "2026-12-06",
       "priority": 10,
       "additionalSourceURL": "https://www.sportclub-verl.de/weihnachtssingen"
@@ -103,7 +116,7 @@
       "caution": "Am 19. November meldete der SC Verl ausverkaufte Sitzplätze und bot noch Stehplatzkarten an. Die Stadt und die Veranstaltungsseite nennen 16:45 Uhr als Einlass, die Vereinsmeldung vom 19. November nennt 16:30 Uhr. Den Einlass und freie Plätze bitte im offiziellen Ticketshop prüfen. Ein Familienpass-Tarif ist nicht bestätigt.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verl-singt-weihnachtslieder-in-der-sportclub-arena-06-12-2026.html",
       "bookingURL": "https://www.sportclub-verl.de/ticketshop",
-      "checkedAt": "2026-11-25T06:10:27.528Z",
+      "checkedAt": "2026-11-26T06:05:12.496Z",
       "validUntil": "2026-12-06",
       "endTime": "19:00"
     },
@@ -127,9 +140,8 @@
       "audience": "Für Kinder",
       "assessment": "Ein passender Freizeittipp für Kinder mit Freude an Bewegung im Wasser. Für ruhiges Bahnenschwimmen ist dieser Zeitraum weniger geeignet.",
       "caution": "Die Stadt weist auf eingeschränkten regulären Schwimmbetrieb hin. Eine feste Altersuntergrenze und ein gesonderter Parcourszuschlag sind nicht veröffentlicht.",
-      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/spielenachmittag-im-hallenbad-21-11-2026.html",
-      "additionalSourceURL": "https://www.verl.de/freizeit-kultur/sport/hallenbad.html",
-      "checkedAt": "2026-11-25T06:10:27.528Z",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/sport/hallenbad.html",
+      "checkedAt": "2026-11-26T06:05:12.496Z",
       "validUntil": "2026-12-19"
     },
     {
@@ -143,7 +155,7 @@
       "caution": "Laut Droste-Haus führt der Link beim jeweiligen Angebot zum Anmeldeformular. Ob ein Platz vergeben wird, teilt der Anbieter per E-Mail mit. Für restliche Angebote 2026 gilt weiterhin die Anmeldung per E-Mail oder Telefon.",
       "sourceURL": "https://www.droste-haus.de/de/angebote-buchen/",
       "bookingURL": "https://www.droste-haus.de/de/angebote-buchen/",
-      "checkedAt": "2026-11-25T06:10:27.528Z",
+      "checkedAt": "2026-11-26T06:05:12.496Z",
       "validUntil": "2026-12-01"
     },
     {
@@ -162,10 +174,11 @@
       "description": "In der Ostwestfalenhalle findet am 28. November 2026 ein Antikmarkt statt. Die Stadt nennt 10:00 bis 17:00 Uhr.",
       "audience": "Für Menschen mit Interesse an Antiquitäten und gebrauchten Fundstücken",
       "assessment": "Unsere Einschätzung: Interessant zum Stöbern; ein bestimmtes Kinderprogramm ist dadurch nicht bestätigt.",
-      "caution": "Eintritt, Familienpass-Tarif und aktuelle Änderungen sind vor dem Besuch beim Veranstalter zu prüfen.",
+      "caution": "Der Veranstalter nennt 5,00 Euro regulären Eintritt und freien Eintritt für Kinder unter 12 Jahren. Für 12- bis einschließlich 18-Jährige und Personen mit Schwerbehindertenausweis ist eine Ermäßigung genannt. Deren Höhe und ein Familienpass-Tarif sind nicht bestätigt.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/antikmarkt-28-11-2026.html",
-      "checkedAt": "2026-11-25T06:10:27.528Z",
-      "validUntil": "2026-11-28"
+      "checkedAt": "2026-11-26T06:05:12.496Z",
+      "validUntil": "2026-11-28",
+      "additionalSourceURL": "https://www.eventtime-otto.de/antikmarkt-verl-kaunitz/"
     },
     {
       "id": "schuetzenhalle-flohmarkt-2026-12-06",
@@ -186,8 +199,23 @@
       "assessment": "Unsere Einschätzung: Eine Möglichkeit zum Stöbern nach gebrauchten Dingen, auch bei unbeständigem Wetter dank der Hallenplätze.",
       "caution": "Der Veranstalter nennt freien Eintritt und kostenloses Parken für Besucher. Standplätze und deren Gebühren sind davon getrennt; Uhrzeiten vor dem Besuch prüfen.",
       "sourceURL": "https://www.marktcom.de/veranstaltung/verler-schuetzenhalle-drinnen-und-draussen-33415-verl?term_id=1172064",
-      "checkedAt": "2026-11-25T06:10:27.528Z",
+      "checkedAt": "2026-11-26T06:05:12.496Z",
       "validUntil": "2026-12-06"
+    },
+    {
+      "id": "adventskonzert-verl-harmoniker-2026-11-29",
+      "title": "Adventskonzert der Verl Harmoniker",
+      "date": "2026-11-29",
+      "time": "17:00",
+      "endTime": "18:15",
+      "location": "Evangelische Kirche Verl, Paul-Gerhardt-Straße 6",
+      "description": "Das Verler Streichorchester spielt am 29. November von 17:00 bis 18:15 Uhr in der Evangelischen Kirche. Auf dem Programm stehen Barock, Klassik und neu arrangierte Weihnachtsmusik. Bei einigen Stücken darf das Publikum mitsingen.",
+      "audience": "Für Menschen, die Streichmusik und Weihnachtslieder mögen",
+      "assessment": "Unsere Einschätzung: Das gemeinsame Mitsingen kann den Konzertbesuch auch für musikinteressierte Kinder abwechslungsreich machen.",
+      "caution": "Der Eintritt ist frei. Der städtische Kalender nennt keine Altersgrenze, Anmeldung oder freien Plätze.",
+      "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/adventskonzert-der-verl-harmoniker-29-11-2026.html",
+      "checkedAt": "2026-11-26T06:05:12.496Z",
+      "validUntil": "2026-11-29"
     },
     {
       "id": "spielzeugmarkt-ostwestfalenhalle-2026-12-27",
@@ -198,18 +226,18 @@
       "dates": [
         {
           "date": "2026-12-27",
-          "time": "10:00",
-          "endTime": "16:00"
+          "time": "10:00"
         }
       ],
       "location": "Ostwestfalenhalle Kaunitz",
-      "description": "Die Stadt kündigt den Spielzeugmarkt am 27. Dezember 2026 in der Ostwestfalenhalle Kaunitz von 10:00 bis 16:00 Uhr an.",
+      "description": "Der städtische Kalender kündigt den Spielzeugmarkt in der Ostwestfalenhalle Kaunitz für den 27. Dezember 2026 ab 10:00 Uhr an.",
       "audience": "Für Interessierte an Spielzeug und Modellbahnen",
       "assessment": "Unsere Einschätzung: Interessant zum gezielten Suchen und Vergleichen. Ein Mitmachprogramm oder bestimmte Altersgrenzen sind nicht bestätigt.",
-      "caution": "Eintritt, Familienpass-Tarif und aktuelle Änderungen sind vor dem Besuch beim Veranstalter zu prüfen.",
+      "caution": "Die Stadt nennt 16:00 Uhr als Ende. Auf marktcom nennt der Veranstalter für den 27. Dezember 15:00 Uhr als Ende, auf seiner eigenen Terminseite steht der 20. Dezember. Termin und Schlusszeit daher vor der Anfahrt bestätigen lassen. Eintritt und Familienpass-Tarif sind nicht belegt.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/spielzeugmarkt-27-12-2026.html",
       "checkedAt": "2026-11-25T06:10:27.528Z",
-      "validUntil": "2026-12-27"
+      "validUntil": "2026-12-27",
+      "additionalSourceURL": "https://www.marktcom.de/veranstaltung/kaunitz-ostwestfalenhalle-in-33415-verl-kaunitz"
     },
     {
       "id": "bornholter-advent-2026",
@@ -231,7 +259,7 @@
       "caution": "Im städtischen Kalender stehen Beginnzeiten. Schlusszeiten und Eintrittspreise sind dort nicht angegeben.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/bornholter-advent-27-11-2026.html",
       "validUntil": "2026-11-28",
-      "checkedAt": "2026-11-25T06:10:27.528Z"
+      "checkedAt": "2026-11-26T06:05:12.496Z"
     },
     {
       "id": "weihnachtsmarkt-suerenheide-2026",
@@ -250,7 +278,7 @@
       "caution": "Die Stadt nennt die Öffnungszeit des Markts. Uhrzeiten für die einzelnen Programmpunkte und Eintrittspreise sind nicht angegeben.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/weihnachtsmarkt-in-suerenheide-28-11-2026.html",
       "validUntil": "2026-11-28",
-      "checkedAt": "2026-11-25T06:10:27.528Z"
+      "checkedAt": "2026-11-26T06:05:12.496Z"
     },
     {
       "id": "adventskonzert-swinging-voices-2026",
@@ -263,7 +291,7 @@
       "assessment": "Unsere Einschätzung: Das Konzert lässt sich gut mit einem Besuch auf dem Adventsmarkt verbinden.",
       "caution": "Eintrittspreis, Ende des Konzerts und Anmeldebedingungen sind für den Termin im städtischen Kalender nicht angegeben.",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/adventskonzert-s-w-inging-voices-04-12-2026.html",
-      "checkedAt": "2026-11-25T06:10:27.528Z",
+      "checkedAt": "2026-11-26T06:05:12.496Z",
       "validUntil": "2026-12-04"
     },
     {
@@ -277,7 +305,7 @@
       "assessment": "Unsere Einschätzung: Geeignet für Kinder, die gern malen oder basteln.",
       "caution": "Das Fly-Programm nennt für diese Aktion weder eine Teilnahmegebühr noch Anmeldebedingungen oder freie Plätze.",
       "sourceURL": "https://www.fly-verl.de/programm",
-      "checkedAt": "2026-11-25T06:10:27.528Z",
+      "checkedAt": "2026-11-26T06:05:12.496Z",
       "validUntil": "2026-11-26",
       "endTime": "18:00"
     },
@@ -285,15 +313,16 @@
       "id": "familienkino-rabe-socke-2027",
       "title": "Familienkino im Droste-Haus: Der kleine Rabe Socke",
       "date": "2027-01-31",
-      "time": null,
+      "time": "15:00",
       "location": "Droste-Haus, Verl",
-      "description": "Die Stadt Verl zeigt am 31. Januar 2027 im Droste-Haus den Film „Der kleine Rabe Socke – Suche nach dem verlorenen Schatz“. Der Eintritt ist frei.",
+      "description": "Die Stadt Verl zeigt am 31. Januar 2027 um 15:00 Uhr im Droste-Haus den Film „Der kleine Rabe Socke – Suche nach dem verlorenen Schatz“. Der Eintritt ist frei.",
       "audience": "Für Kinder und ihre Familien",
       "assessment": "Unsere Einschätzung: Ein gemeinsamer Kinonachmittag in Verl für Familien, die einen Kinderfilm vor Ort sehen möchten.",
-      "caution": "In dieser Ankündigung stehen keine genaue Uhrzeit, Altersfreigabe, Anmeldung oder Angaben zu freien Plätzen.",
+      "caution": "Der städtischen Ankündigung sind keine Altersfreigabe, Anmeldebedingungen oder Angaben zu freien Plätzen zu entnehmen.",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-25T06:10:27.528Z",
-      "validUntil": "2027-01-31"
+      "checkedAt": "2026-11-26T06:05:12.496Z",
+      "validUntil": "2027-01-31",
+      "additionalSourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltungsort/droste-haus-32.html"
     }
   ]
 }
