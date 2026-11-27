@@ -1,5 +1,50 @@
 [
   {
+    "id": "kreis-guetersloh-fahrerlaubnisstelle-eingeschraenkt-20261127",
+    "title": "Führerscheinstelle des Kreises an zwei Tagen eingeschränkt erreichbar",
+    "category": "Rathaus",
+    "paragraphs": [
+      "Der Kreis Gütersloh teilte am 27. November 2026 mit, dass ein Update des neu eingeführten Systems technische Probleme verursacht hat. Am Montag, 30. November, und am Dienstag, 1. Dezember, entfallen deshalb telefonische Auskünfte und persönliche Vorsprachen ohne vereinbarten Termin. Bestehende Termine bleiben bestehen.",
+      "Ab Mittwoch, 2. Dezember 2026, soll das Sachgebiet im Kreishaus Gütersloh wieder wie gewohnt erreichbar sein. Die Kreisstelle ist auch für bestimmte Fahrerlaubnisangelegenheiten aus Verl zuständig."
+    ],
+    "summary": "Am 30. November und 1. Dezember 2026 ist die Führerscheinstelle des Kreises Gütersloh wegen technischer Probleme nur für bereits vereinbarte Termine zugänglich. Telefonisch ist sie an beiden Tagen nicht erreichbar.",
+    "publishedAt": "2026-11-27",
+    "checkedAt": "2026-11-27T14:06:55Z",
+    "source": "Kreis Gütersloh",
+    "sourceURL": "https://www.kreis-guetersloh.de/aktuelles/presse-und-oeffentlichkeitsarbeit/pressemitteilungen/27-11-2026-erreichbarkeit-sachgebiet-fahrerlaubnisse/",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
+    "id": "tv-verl-frauenhandball-kreisduell-halle-20261127",
+    "title": "Handballerinnen des TV Verl spielen im Kreisduell bei Union Halle",
+    "category": "Sport",
+    "paragraphs": [
+      "Nach dem Auswärtssieg bei der HSG Werther/Borgholzhausen steht für den TV Verl ein weiteres Spiel gegen einen Verein aus dem Kreis Gütersloh an. Die Verlerinnen gewannen am 15. November 2026 mit 36:30.",
+      "Die frei zugängliche Vorschau der Glocke vom 27. November kündigt das Kreisduell in Halle an. Datum, Anwurf und das Ergebnis der vorigen Partie sind im öffentlichen Spielplan von Stadiro ausgewiesen."
+    ],
+    "summary": "Die Frauen des TV Verl treten am Samstag, 28. November 2026, in der Oberliga Westfalen bei der HSG Union Halle an. Der Spielplan führt den Anwurf um 16:30 Uhr.",
+    "publishedAt": "2026-11-27",
+    "checkedAt": "2026-11-27T14:06:55Z",
+    "source": "Die Glocke (öffentliche Vorschau) · Stadiro",
+    "sourceURL": "https://www.die-glocke.de/lokalsport/kreis-guetersloh/artikel/tv-verl-will-derbybilanz-bei-der-hsg-union-halle-aufbessern-1795778107",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
+    "id": "verl-schlueter-cross-wm-zweimal-gold-20261127",
+    "title": "Kaunitzer Gerhard Schlüter gewinnt zwei WM-Titel in Abu Dhabi",
+    "category": "Sport",
+    "paragraphs": [
+      "Die Wettkämpfe fanden auf Hudayriyat Island statt. World Triathlon führt den Cross-Triathlon am 17. November 2026 und den Cross-Duathlon am 19. November 2026. In beiden Ergebnislisten steht Schlüter in seiner Altersklasse auf Platz eins.",
+      "Die frei zugängliche Vorschau der Glocke vom 27. November stellt den Bezug zu Verl-Kaunitz her. Die Platzierungen sind unabhängig davon in den öffentlichen Ergebnislisten nachvollziehbar."
+    ],
+    "summary": "Gerhard Schlüter aus Verl-Kaunitz gewann bei den Cross-Weltmeisterschaften in Abu Dhabi in der Altersklasse 70 bis 74 Jahre Gold im Triathlon und im Duathlon.",
+    "publishedAt": "2026-11-27",
+    "checkedAt": "2026-11-27T14:06:55Z",
+    "source": "Die Glocke (öffentliche Vorschau) · World Triathlon · Ergebnislisten",
+    "sourceURL": "https://www.die-glocke.de/kreis-guetersloh/verl/artikel/cross-wm-in-abu-dhabi-verler-triathlet-gerhard-schlueter-holt-zweimal-gold-1795623305",
+    "kind": "Eigene Zusammenfassung"
+  },
+  {
     "id": "verl-paderborner-strasse-fussgaenger-unfall-20261127",
     "title": "Fußgänger bei Zusammenstoß mit Auto in Verl leicht verletzt",
     "category": "Verkehr",
