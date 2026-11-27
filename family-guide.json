@@ -14,7 +14,7 @@
       "maxAge": null,
       "ageLabel": "Kleinere und größere Kinder; keine feste Altersgrenze veröffentlicht",
       "sourceURL": "https://www.verl.de/freizeit-kultur/freizeitanlagen.html",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     },
     {
       "id": "freizeitanlage-schmiedestrang",
@@ -30,7 +30,7 @@
       "maxAge": null,
       "ageLabel": "Keine feste Altersgrenze veröffentlicht",
       "sourceURL": "https://www.verl.de/freizeit-kultur/freizeitanlagen.html",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     },
     {
       "id": "wassererlebnisweg-oelbach",
@@ -46,7 +46,7 @@
       "maxAge": null,
       "ageLabel": "Für Kinder vorgesehen; keine feste Altersgrenze veröffentlicht",
       "sourceURL": "https://www.verl.de/freizeit-kultur/verl-entdecken/wassererlebnisweg.html",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     },
     {
       "id": "spielplatz-rebhuhnweg",
@@ -63,7 +63,7 @@
       "maxAge": null,
       "ageLabel": "Überwiegend Kinder über 6 Jahren; kleiner Bereich für jüngere Kinder",
       "sourceURL": "https://www.verl.de/wohnen-leben/angebote-fuer-kinder/spielplaetze/spielplatz-rebhuhnweg.html",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     },
     {
       "id": "spielplatz-pirolweg",
@@ -80,7 +80,7 @@
       "maxAge": null,
       "ageLabel": "Überwiegend Kinder über 6 Jahren",
       "sourceURL": "https://www.verl.de/wohnen-leben/angebote-fuer-kinder/spielplaetze/spielplatz-pirolweg.html",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     },
     {
       "id": "historischer-stadtrundgang",
@@ -96,7 +96,7 @@
       "maxAge": null,
       "ageLabel": "Keine feste Altersgrenze veröffentlicht",
       "sourceURL": "https://www.verl.de/freizeit-kultur/verl-entdecken/historischer-stadtrundgang.html",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     },
     {
       "id": "kinderbibliothek-stoebern",
@@ -113,7 +113,7 @@
       "maxAge": null,
       "ageLabel": "Kinder; keine feste Altersgrenze veröffentlicht",
       "sourceURL": "https://www.bibliothek.verl.de/de/unsere-angebote/kinder-und-jugendliche/kinderbibliothek.php",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     },
     {
       "id": "bibliothek-gaming",
@@ -130,7 +130,7 @@
       "maxAge": null,
       "ageLabel": "Spiele mit Freigabe ab 0 oder 6 Jahren; keine feste Besuchsaltersgrenze veröffentlicht",
       "sourceURL": "https://www.bibliothek.verl.de/de/unsere-angebote/kinder-und-jugendliche/gaming.php",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     },
     {
       "id": "bibliothek-3d-druck",
@@ -147,7 +147,7 @@
       "maxAge": null,
       "ageLabel": "Keine feste Altersgrenze veröffentlicht",
       "sourceURL": "https://www.bibliothek.verl.de/de/unsere-angebote/3d-drucker.php",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     },
     {
       "id": "bibliothek-vorlesen-grundschule",
@@ -164,7 +164,7 @@
       "maxAge": null,
       "ageLabel": "Grundschulkinder",
       "sourceURL": "https://www.bibliothek.verl.de/de/aktuelles/vorlesetermine.php",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     }
   ],
   "help": [
@@ -175,7 +175,7 @@
       "sourceURL": "https://www.116117.de/de/aerztlicher-bereitschaftsdienst.php",
       "phone": "112",
       "caution": "Die Notrufnummer ist für akute Notfälle vorgesehen. Hier wird keine medizinische Diagnose gestellt.",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     },
     {
       "id": "aerztlicher-bereitschaftsdienst",
@@ -184,7 +184,7 @@
       "sourceURL": "https://www.116117.de/de/aerztlicher-bereitschaftsdienst.php",
       "phone": "116117",
       "caution": "Bei Lebensgefahr 112 wählen. Diensthabende Praxen und deren aktuelle Öffnungszeiten direkt in der offiziellen Bereitschaftspraxensuche prüfen.",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     },
     {
       "id": "apothekennotdienst",
@@ -192,7 +192,7 @@
       "description": "Der offizielle Notdienstkalender der Apothekerkammer Westfalen-Lippe sucht nach Ort und Datum. Für Verl den Ort oder die Postleitzahl 33415 eingeben.",
       "sourceURL": "https://www.akwl.de/notdienstkalendar/",
       "caution": "Die App nennt keine ungeprüfte Apotheke als heute diensthabend. Die Entfernung wird im Original in Luftlinie angegeben; vor der Fahrt den aktuellen Dienst im Kalender prüfen.",
-      "checkedAt": "2026-11-26T06:05:39.683Z"
+      "checkedAt": "2026-11-27T06:07:31Z"
     },
     {
       "id": "zahnaerztlicher-notdienst",
