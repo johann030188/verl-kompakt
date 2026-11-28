@@ -1,10 +1,46 @@
 {
   "items": [
     {
+      "id": "ritter-rost-bibliothek-2026-12-02",
+      "eventMatch": "Ritter Rost feiert Weihnachten",
+      "sourceURL": "https://www.bibliothek.verl.de/de/veranstaltungen/termine/Ritter-Rost-2026-12-02.php",
+      "checkedAt": "2026-11-28T06:10:28Z",
+      "free": false,
+      "regular": {
+        "adultEUR": null,
+        "childEUR": null,
+        "childAgeMin": null,
+        "childAgeMax": null,
+        "familyEUR": null,
+        "familyAdults": null,
+        "familyChildren": null,
+        "note": "Die Bibliothek nennt 5 Euro pro Karte und weist keine getrennten Kinder- oder Erwachsenentarife aus. Das Programm richtet sich an Kinder ab 5 Jahren und ihre Familien."
+      },
+      "familyPass": {
+        "status": "not-confirmed",
+        "adultEUR": null,
+        "childEUR": null,
+        "familyEUR": null,
+        "note": "Ein Familienpass-Tarif ist für diese Aufführung nicht ausdrücklich bestätigt.",
+        "sourceURL": "https://www.bibliothek.verl.de/de/veranstaltungen/termine/Ritter-Rost-2026-12-02.php",
+        "checkedAt": "2026-11-28T06:10:28Z"
+      },
+      "bookingFeeEUR": null,
+      "bookingFeeStatus": "unknown",
+      "note": "Karten gibt es an der Servicetheke. Bei verbindlicher Reservierung gilt eine Abholfrist von einer Woche. Buchungsgebühren, Platzarten und freie Plätze sind nicht bestätigt.",
+      "validFrom": "2026-12-02",
+      "validUntil": "2026-12-02",
+      "matchAllTokens": [
+        "ritter",
+        "rost",
+        "weihnachten"
+      ]
+    },
+    {
       "id": "hobbymarkt-kaunitz-2026-12-05",
       "eventMatch": "Hobbymarkt",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungen/hobbymarkt.html",
-      "checkedAt": "2026-11-27T06:07:31Z",
+      "checkedAt": "2026-11-28T06:10:28Z",
       "free": false,
       "regular": {
         "adultEUR": 2.5,
@@ -182,7 +218,7 @@
       "id": "verler-adventsmarkt-2026",
       "eventMatch": "Verler Adventsmarkt",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/verler-adventsmarkt-04-12-2026.html",
-      "checkedAt": "2026-11-27T06:07:31Z",
+      "checkedAt": "2026-11-28T06:10:28Z",
       "free": null,
       "regular": {
         "adultEUR": null,
@@ -213,7 +249,7 @@
       "id": "verl-singt-weihnachtslieder-2026",
       "eventMatch": "Verl singt Weihnachtslieder",
       "sourceURL": "https://www.sportclub-verl.de/artikel/116573/weihnachtslieder-aus-mehr-als-3000-kehlen",
-      "checkedAt": "2026-11-27T06:07:31Z",
+      "checkedAt": "2026-11-28T06:10:28Z",
       "free": false,
       "regular": {
         "adultEUR": 5,
@@ -295,7 +331,7 @@
       "id": "hallenbad-wasserparcours-2026",
       "eventMatch": "Spielenachmittag im Hallenbad",
       "sourceURL": "https://www.verl.de/freizeit-kultur/sport/hallenbad.html",
-      "checkedAt": "2026-11-27T06:07:31Z",
+      "checkedAt": "2026-11-28T06:10:28Z",
       "free": false,
       "regular": {
         "adultEUR": 4,
@@ -326,7 +362,7 @@
       "id": "droste-ferien-anmeldestart-2027",
       "eventMatch": "Droste-Haus: Buchungsstart für Ferienangebote 2027 angekündigt",
       "sourceURL": "https://www.droste-haus.de/de/angebote-buchen/",
-      "checkedAt": "2026-11-27T06:07:31Z",
+      "checkedAt": "2026-11-28T06:10:28Z",
       "free": null,
       "regular": {
         "adultEUR": null,
@@ -357,7 +393,7 @@
       "id": "familienkino-rabe-socke-2027",
       "eventMatch": "Verler Familienkino mit Rabe Socke",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-27T06:07:31Z",
+      "checkedAt": "2026-11-28T06:10:28Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -393,7 +429,7 @@
       "id": "familienkino-checker-tobi-2027",
       "eventMatch": "Verler Familienkino mit Checker Tobi",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-27T06:07:31Z",
+      "checkedAt": "2026-11-28T06:10:28Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -429,7 +465,7 @@
       "id": "familienkino-bibi-blocksberg-2027",
       "eventMatch": "Verler Familienkino mit Bibi Blocksberg",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-27T06:07:31Z",
+      "checkedAt": "2026-11-28T06:10:28Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -468,7 +504,7 @@
         "Flohmarkt in und an der Schützenhalle"
       ],
       "sourceURL": "https://www.marktcom.de/veranstaltung/verler-schuetzenhalle-drinnen-und-draussen-33415-verl?term_id=1172064",
-      "checkedAt": "2026-11-27T06:07:31Z",
+      "checkedAt": "2026-11-28T06:10:28Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -530,7 +566,7 @@
       "id": "familienkino-schule-magischen-tiere-4-2027",
       "eventMatch": "Verler Familienkino: Die Schule der magischen Tiere 4",
       "sourceURL": "https://www.verl.de/aktuelles/verler-familienkino-geht-im-neuen-jahr-weiter.html",
-      "checkedAt": "2026-11-27T06:07:31Z",
+      "checkedAt": "2026-11-28T06:10:28Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -568,7 +604,7 @@
       "id": "adventskonzert-verl-harmoniker-2026-11-29",
       "eventMatch": "Adventskonzert der Verl Harmoniker",
       "sourceURL": "https://www.verl.de/freizeit-kultur/veranstaltungskalender/veranstaltung/adventskonzert-der-verl-harmoniker-29-11-2026.html",
-      "checkedAt": "2026-11-27T06:07:31Z",
+      "checkedAt": "2026-11-28T06:10:28Z",
       "free": true,
       "regular": {
         "adultEUR": 0,
@@ -599,7 +635,7 @@
       "id": "antikmarkt-ostwestfalenhalle-2026-11-28",
       "eventMatch": "Antikmarkt",
       "sourceURL": "https://www.eventtime-otto.de/antikmarkt-verl-kaunitz/",
-      "checkedAt": "2026-11-27T06:07:31Z",
+      "checkedAt": "2026-11-28T06:10:28Z",
       "free": false,
       "regular": {
         "adultEUR": 5,
@@ -630,6 +666,6 @@
   "familyPassInfo": {
     "sourceURL": "https://www.verl.de/wohnen-leben/angebote-fuer-eltern/familienpass.html",
     "description": "Die Stadt verweist auf ihre Familienpass-Richtlinien ab 1. Januar 2024. Vergünstigungen gelten je nach Angebot und Berechtigung. Es gibt keinen pauschalen Rabatt auf sämtliche Veranstaltungen. Die Regeln nennen unter anderem Vereinsangebote für berechtigte Kinder, bestimmte Gruppen- und Musikkurse, ausgewählte Kulturveranstaltungen sowie Angebote der Bibliothek. Bedingungen, Fördergrenzen, vorrangige Leistungen und Fristen sind zu beachten. Ein Familienpass-Rabatt wird hier nur bei einem konkret belegten Tarif angezeigt; allgemein kostenloser Eintritt wird gesondert benannt.",
-    "checkedAt": "2026-11-27T06:07:31Z"
+    "checkedAt": "2026-11-28T06:12:52Z"
   }
 }
